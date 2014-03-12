@@ -6,8 +6,7 @@ modified: "2014-02-11 17:17:13"
 published: true
 ---
 
-
-![](/http://komedianty.com/images/stories/random/foto%20ybilei%2020%20let.jpg)
+![](http://komedianty.com/images/stories/random/foto%20ybilei%2020%20let.jpg)
 
 
 
