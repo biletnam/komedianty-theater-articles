@@ -1,5 +1,13 @@
 ---
 id: 293
+title: Актёры театра на телепередаче Первого канала
+alias: perviiaktri
+modified: "2013-11-19 19:11:35"
+published: true
+---
+
+---
+id: 293
 title: "Актёры театра на телепередаче Первого канала"
 alias: "perviiaktri"
 modified: "2013-11-19 19:11:35"
@@ -7,6 +15,6 @@ modified: "2013-11-19 19:11:35"
 
 Актёры нашего театра <a href="50-roman-pritula">Роман Притула</a> и <a href="id=51-stas-voronetski">Станислав Воронецкий</a> были приглашены в Москву и принимали участие в съёмках телепередачи <a href="http://www.1tv.ru/sprojects_in_detail/si=5922">Первого канала "В наше время"</a> , разговор шёл о детском творчестве - мультиках, спектаклях и сказках для детей , съёмки эфира проходили в Останкино 18 ноября.
 
-<img src="images/stories/random/foto s ostankino.jpg" />
+<img src="/images/stories/random/foto s ostankino.jpg" />
 
 19.11.2013
