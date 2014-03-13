@@ -1,8 +1,12 @@
 ---
+layout: default
 id: 155
-title: Поздние встречи о МУМУ""
-alias: pozdnie-vstrechi-o-mymy
-modified: 2012-06-24 19:55:00
+title: Поздние встречи о «МУМУ»
+alias: "pozdnie-vstrechi-o-mymy"
+modified: 
+  - 2012-06-24T19:55:00.000Z
+  - "Sun Jun 24 2012 23:55:00 GMT+0400 (Московское время (зима))"
+published: true
 ---
 
 <figure><a href="http://vk.com/video-15602252_159376811">
@@ -18,4 +22,3 @@ modified: 2012-06-24 19:55:00
 Запись передачи 4 марта 2011г.
 
 28.11.2011
-
