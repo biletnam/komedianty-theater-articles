@@ -47,7 +47,3 @@ modified: 2013-03-31 20:13:30
 
 [Ссылка на статью](http://www.lgz.ru/article/8601/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

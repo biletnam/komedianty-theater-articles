@@ -35,7 +35,3 @@ modified: 2014-03-07 22:12:33
 
 [Ссылка на статью](http://www.vesty.spb.ru/apps/novosti/2014/03/07/premera-v-leningradskoj-oblasti/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

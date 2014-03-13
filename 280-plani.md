@@ -35,9 +35,5 @@ modified: 2013-07-07 17:48:59
 
 Ваши «Комедианты».
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-
 7.07.2013г.
 

@@ -41,7 +41,3 @@ _Творческие работники неоднозначно восприн
 
 <a href="http://ok-inform.ru/rubriki/47-double-you/2895-mikhail-levshin-akter-eto-krovotochashchaya-rana-video.html"></a>
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

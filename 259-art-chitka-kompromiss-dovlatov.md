@@ -34,7 +34,3 @@ alias: art-chitka-kompromiss-dovlatov
 
 [Ссылка на статью](http://okolo.me/2013/03/v-obnovlennoe-proshloe/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

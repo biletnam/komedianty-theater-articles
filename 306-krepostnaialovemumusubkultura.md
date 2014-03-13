@@ -89,7 +89,3 @@ _— Каково переживать каждый раз на сцене та
 
 [Ссылка на статью](http://sub-cult.ru/index.php/foto/teatr/1876-18-01-2014-krepostnaya-lubov-spb-dramaticheskiy-teatr-komedianty.html)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

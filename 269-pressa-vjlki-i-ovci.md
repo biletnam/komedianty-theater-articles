@@ -39,7 +39,3 @@ modified: 2013-03-30 23:03:18
 
 [Ссылка на статью](http://www.blogslov.ru/date.php/2005/12/09/09_01-22-23.xml)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

@@ -29,7 +29,3 @@ modified: 2013-11-30 09:48:22
 
 [Ссылка на статью](http://ptj.spb.ru/pressa/kompromiss-nesvobody-i-talanta/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

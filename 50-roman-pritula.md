@@ -59,7 +59,3 @@ modified: 2014-01-28 18:45:13
 
 **[http://romanpritula.ru](http://romanpritula.ru)** **(официальный сайт актёра)**
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

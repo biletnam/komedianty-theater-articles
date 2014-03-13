@@ -48,7 +48,3 @@ modified: 2013-03-11 15:32:24
 
 [Ссылка на статью](http://ptj.spb.ru/blog/brodvej-naligovke/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

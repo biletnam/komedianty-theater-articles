@@ -64,7 +64,3 @@ _У опушки в день ненастный
 
 [ссылка на статью](http://musecube.org/?p=121170)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

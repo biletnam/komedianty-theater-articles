@@ -31,7 +31,3 @@ modified: 2013-03-12 18:22:40
 
 [Ссылка на статью](http://ptj.spb.ru/pressa/o-zhizni-kotoraya-dobree-i-mudree-nas/)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-

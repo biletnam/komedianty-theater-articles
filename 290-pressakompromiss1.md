@@ -29,7 +29,3 @@ modified: 2013-10-19 19:40:55
 
 [ссылка на статью](http://rus.err.ee/culture/7d0d95ed-4829-41b5-9203-bbdfebbbdccb)
 
-<figure>
-![](/images/stories/random/sait%2044logo%20logo.jpg)
-</figure>
-
