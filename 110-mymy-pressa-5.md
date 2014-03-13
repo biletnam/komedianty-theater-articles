@@ -1,8 +1,12 @@
 ---
+layout: default
 id: 110
-title: МУМУ" в Лодейном Поле / Закрытие 21 сезона (газета "ВЕСТИ") 07.06.2011"
-alias: mymy-pressa-5
-modified: 2011-07-04 08:20:24
+title: МУМУ
+alias: "mymy-pressa-5"
+modified: 
+  - 2011-07-04T08:20:24.000Z
+  - "Mon Jul 04 2011 12:20:24 GMT+0400 (Московское время (зима))"
+published: true
 ---
 
 ## «МУМУ» В ЛОДЕЙНОМ ПОЛЕ
@@ -26,4 +30,3 @@ modified: 2011-07-04 08:20:24
 Газета Ленинградской области "ВЕСТИ" / 07.06.2011 /автор: Б.Шарова
 
 [Ссылка на статью](http://www.vesty.spb.ru/modules.php?name=News&file=article&sid=21590)
-
