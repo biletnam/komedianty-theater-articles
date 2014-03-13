@@ -75,7 +75,7 @@ modified: 2014-03-06 12:30:05
 
 <a href="258-pressa-premera-pomanalnaya-molitva.html">"Вместе мы не пропадём или "Поминальная молитва" Г.Горина" (Арт-журнал "Okolo.me")(автор:Е.Приклонская)</a>
 
-<a href="257-recenzia-na-pominalnaya-molitva.html"> Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин</a><a href="257-recenzia-na-pominalnaya-molitva.html"> </a>
+<a href="257-recenzia-na-pominalnaya-molitva.html"> Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин</a>
 
 Видео:
 
