@@ -16,7 +16,7 @@ prose:
       - name: "alias"
         field:
           element: text
-          label: "Slug"
+          label: "Слаг"
       - name: "modified"
         field:
           element: text
