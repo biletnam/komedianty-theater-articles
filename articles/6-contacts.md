@@ -7,7 +7,7 @@ modified: 2014-03-11 11:31:34
 
 **Адрес:** 191040, г. Санкт-Петербург, Лиговский проспект, д. 44
 
-<figure><img src="images/stories/random/777quillandink.gif" /></figure>
+<figure><img src="./images/stories/random/777quillandink.gif" /></figure>
 
 **Касса театра:** 764-81-14
 

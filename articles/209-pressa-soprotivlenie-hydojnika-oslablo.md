@@ -9,7 +9,7 @@ modified: 2012-05-16 11:51:57
 
 На бедность в выборе спектаклей зрителю Петербурга грех жаловаться. Среди театральных постановок есть и современные, и
 
-<figure><img src="images/stories/random/foto ybilei 20 let.jpg" /></figure>
+<figure><img src="./images/stories/random/foto ybilei 20 let.jpg" /></figure>
 
 экспериментальные. Однако здесь есть некий парадокс.
 

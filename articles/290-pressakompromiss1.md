@@ -9,7 +9,7 @@ modified: 2013-10-19 19:40:55
 
 В санкт-петербургском драматическом театре "Комедианты" 19 и 20 октября состоится премьера спектакля "Компромисс" по
 
-<figure><img src="images/stories/random/afisha%20kompromiss1.jpg" /></figure>
+<figure><img src="./images/stories/random/afisha%20kompromiss1.jpg" /></figure>
 
 одноименной повести Сергея Довлатова.
 
@@ -27,5 +27,5 @@ modified: 2013-10-19 19:40:55
 
 <a href="http://rus.err.ee/culture/7d0d95ed-4829-41b5-9203-bbdfebbbdccb">ссылка на статью </a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
+<figure><img src="./images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 

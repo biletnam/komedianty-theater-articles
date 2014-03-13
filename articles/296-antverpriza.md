@@ -13,9 +13,9 @@ modified: 2013-12-05 20:29:08
 
 Спектакль для взрослых «Летний вечер, половина одиннадцатого» по бестселлеру Маргарет Дюрас для петербургского зрителя будет представлен 6-го декабря в 19.00, а в Ленинградской области, в Лодейном поле — 4 декабря. Это спектакль о двух странах, двух традициях и двух традиционных любовных треугольниках. Восприятие сексуальной революции в разных культурах, в разных реальностях.
 
-<figure><img src="images/News/N5Y_GQo6mTw.jpg" alt="N5Y GQo6mTw" /></figure>
+<figure><img src="./images/News/N5Y_GQo6mTw.jpg" alt="N5Y GQo6mTw" /></figure>
 
-<figure><img src="images/News/mdYJ1MkGPI0.jpg" alt="mdYJ1MkGPI0" /></figure>
+<figure><img src="./images/News/mdYJ1MkGPI0.jpg" alt="mdYJ1MkGPI0" /></figure>
 
 2.12.2013
 

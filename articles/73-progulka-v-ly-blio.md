@@ -43,17 +43,17 @@ modified: 2013-09-08 18:45:51
 
 Рената - **Наталья КОНЬКОВА**
 
-<figure><img src="images/stories/progylka.jpg" /></figure>
+<figure><img src="./images/stories/progylka.jpg" /></figure>
 
-<figure><img src="images/stories/random/progylka v lu-ble.jpg" /></figure>
+<figure><img src="./images/stories/random/progylka v lu-ble.jpg" /></figure>
 
-<figure><img src="images/stories/random/progylka v lu-ble1.jpg" /></figure>
+<figure><img src="./images/stories/random/progylka v lu-ble1.jpg" /></figure>
 
-<figure><img src="images/stories/random/progylka v lu-ble11.jpg" /></figure>
+<figure><img src="./images/stories/random/progylka v lu-ble11.jpg" /></figure>
 
-<figure><img src="images/stories/random/progylka v lu-ble3.jpg" /></figure>
+<figure><img src="./images/stories/random/progylka v lu-ble3.jpg" /></figure>
 
-<figure><img src="images/stories/random/progylka v lu-ble2.jpg" /></figure>
+<figure><img src="./images/stories/random/progylka v lu-ble2.jpg" /></figure>
 
 Спектакль идёт **2** часа с антрактом.
 

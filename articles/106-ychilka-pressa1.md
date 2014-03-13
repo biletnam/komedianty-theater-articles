@@ -5,7 +5,7 @@ alias: ychilka-pressa1
 modified: 2011-07-04 08:13:42
 ---
 
-<figure><img src="images/stories/ychilka.jpg" /></figure>
+<figure><img src="./images/stories/ychilka.jpg" /></figure>
 
 **"УЧИЛКА ИЗ БУДУЩЕГО"**
 

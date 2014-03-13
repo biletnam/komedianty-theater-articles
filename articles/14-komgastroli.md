@@ -145,5 +145,5 @@ modified: 2014-02-18 11:49:40
 
 2008 - 2014 © ТЕАТР «КОМЕДИАНТЫ»
 
-<figure><img src="images/stories/random/sait 44logo logo.jpg" /></figure>
+<figure><img src="./images/stories/random/sait 44logo logo.jpg" /></figure>
 

@@ -5,7 +5,7 @@ alias: koncertnmeshaninovakomedianty
 modified: 2014-01-20 21:24:39
 ---
 
-<figure><img src="images/stories/af/afisha%20meshaninova.jpg" /></figure>
+<figure><img src="./images/stories/af/afisha%20meshaninova.jpg" /></figure>
 
 Благотворительный концерт к 70-й годовщине полного освобождения Ленинграда от Блокады.
 

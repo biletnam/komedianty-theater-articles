@@ -5,7 +5,7 @@ alias: kompromiss-sdovlatov
 modified: 2013-12-12 23:21:25
 ---
 
-<figure><img src="images/stories/random/dk_new.png" /></figure>
+<figure><img src="./images/stories/random/dk_new.png" /></figure>
 
 **Сергей Довлатов**
 
@@ -69,19 +69,19 @@ modified: 2013-12-12 23:21:25
 
 <a href="290-pressakompromiss1.html">"В Санкт-Петербурге состоится премьера спектакля о работе Довлатова в газете СОВЕТСКАЯ ЭСТОНИЯ" (интернет-издание ERR)</a>
 
-<figure><img src="images/stories/random/kompromiss foto 2.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromissss.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromissss.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromiss foto.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromiss foto 4.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto 4.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromiss foto 3.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto 3.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromiss foto 5.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto 5.jpg" /></figure>
 
-<figure><img src="images/stories/random/kompromiss foto 1.jpg" /></figure>
+<figure><img src="./images/stories/random/kompromiss foto 1.jpg" /></figure>
 
 Премьера состоялась **19** октября **2013** года.
 

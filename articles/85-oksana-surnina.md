@@ -7,7 +7,7 @@ modified: 2012-04-21 19:31:40
 
 **ОКСАНА СУРНИНА**
 
-<figure><img src="images/stories/oksana.jpg" /></figure>
+<figure><img src="./images/stories/oksana.jpg" /></figure>
 
 Родилась 17 августа 1983 года в Ленинграде. В 2004 году окончила СПбГАТИ , курс В.В.Петрова. Снималась в фильмах: «Ветка сирени», «Холмы и равнины», «В сторону от войны», «Робинзон» и др. Так же очень много работает на озвучании и дубляже русского и зарубежного кино.
 
@@ -27,5 +27,5 @@ modified: 2012-04-21 19:31:40
 
 <a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Внучка
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/17756/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/17756/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

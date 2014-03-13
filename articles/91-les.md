@@ -67,17 +67,17 @@ modified: 2014-03-06 12:27:56
 
 <a href="249-pressa-premera-les-ishnurenko-.html">"Капитализм с алчной блондинкой".О премьерном спектакле "ЛЕС" (газета "Деловой Петербург")(автор:И.Шнуренко)</a>
 
-<figure><img src="images/stories/random/11les2.jpg" /></figure>
+<figure><img src="./images/stories/random/11les2.jpg" /></figure>
 
-<figure><img src="images/stories/random/11les3.jpg" /></figure>
+<figure><img src="./images/stories/random/11les3.jpg" /></figure>
 
-<figure><img src="images/stories/random/11les4.jpg" /></figure>
+<figure><img src="./images/stories/random/11les4.jpg" /></figure>
 
-<figure><img src="images/stories/random/11les5.jpg" /></figure>
+<figure><img src="./images/stories/random/11les5.jpg" /></figure>
 
-<figure><img src="images/stories/random/11les6.jpg" /></figure>
+<figure><img src="./images/stories/random/11les6.jpg" /></figure>
 
-<figure><img src="images/stories/random/11les.jpg" /></figure>
+<figure><img src="./images/stories/random/11les.jpg" /></figure>
 
 Спектакль идёт **3** часа **30** минут с антрактом.
 

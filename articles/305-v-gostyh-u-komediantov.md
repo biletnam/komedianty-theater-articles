@@ -5,7 +5,7 @@ alias: v-gostyh-u-komediantov
 modified: 2014-01-29 10:15:34
 ---
 
-<figure><img src="images/stories/af/ranpassajir.jpg" /></figure>
+<figure><img src="./images/stories/af/ranpassajir.jpg" /></figure>
 
 Дорогие зрители! Представляем Вам дорогих гостей нашего театра - театр "Кураж" и театр "Эксперимент"
 
@@ -25,7 +25,7 @@ modified: 2014-01-29 10:15:34
 
 трагифарс
 
-<figure><img src="images/stories/af/afisha_igra_v_djin%20.jpg" /></figure>
+<figure><img src="./images/stories/af/afisha_igra_v_djin%20.jpg" /></figure>
 
 Режиссер-постановщик – В. Сиваков
 

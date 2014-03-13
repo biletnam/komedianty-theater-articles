@@ -105,23 +105,23 @@ modified: 2014-02-05 19:08:43
 
 <figure>{youtube:http://www.youtube.com/watch?v=GtpdgTMOVDE 510 383}</figure>
 
-<figure><img src="images/stories/mymy.jpg" /></figure>
+<figure><img src="./images/stories/mymy.jpg" /></figure>
 
-<figure><img src="images/stories/mymy foto.2.jpg" /></figure>
+<figure><img src="./images/stories/mymy foto.2.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy foto.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy fff4.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy fff4.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy foto33.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy foto33.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy foto.6.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy foto.6.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy_foto.3_gerasim.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy_foto.3_gerasim.jpg" /></figure>
 
-<figure><img src="images/stories/random/mymy fffo.jpg" /></figure>
+<figure><img src="./images/stories/random/mymy fffo.jpg" /></figure>
 
-<figure><img src="images/stories/random/myymyy.jpg" /></figure>
+<figure><img src="./images/stories/random/myymyy.jpg" /></figure>
 
 Спектакль идёт **2** часа **30** мин. с одним антрактом.
 

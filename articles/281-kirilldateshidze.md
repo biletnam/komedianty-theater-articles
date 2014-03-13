@@ -7,7 +7,7 @@ modified: 2013-07-10 19:23:50
 
 **КИРИЛЛ ДАТЕШИДЗЕ**
 
-<figure><img src="images/stories/random/dateshidze kirill.jpg" /></figure>
+<figure><img src="./images/stories/random/dateshidze kirill.jpg" /></figure>
 
 Родился 22 сентября 1946 года. В 1972 году закончил Ленинградский Государственный институт театра, музыки и кинематографии. Играет в разных театрах г. Санкт-Петербурга (Антреприза Миронова, Театр им.Акимова, Приют Комедианта и т.д.). Снимался в фильмах: "Бандитский Петербург", "Настоятель-2", "Попытка к бегству", "Честь", "Третий дубль" и т.д.
 
@@ -23,5 +23,5 @@ modified: 2013-07-10 19:23:50
 
 <a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Лейзер Вольф
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

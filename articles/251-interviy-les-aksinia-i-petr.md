@@ -9,7 +9,7 @@ modified: 2013-01-22 16:32:40
 
 **
 
-<figure><img src="images/stories/random/11les.jpg" /></figure>
+<figure><img src="./images/stories/random/11les.jpg" /></figure>
 
 **
 

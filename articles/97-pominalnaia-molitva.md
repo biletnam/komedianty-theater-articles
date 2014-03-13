@@ -85,19 +85,19 @@ modified: 2014-03-06 12:30:05
 
 <figure>{youtube:http://www.youtube.com/watch?v=cTTTQYokETI&amp;feature=related 480 360}</figure>
 
-<figure><img src="images/stories/random/pominalnaia molitva foto.jpg" /></figure>
+<figure><img src="./images/stories/random/pominalnaia molitva foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/pominalnaia molitva foto 2.jpg" /></figure>
+<figure><img src="./images/stories/random/pominalnaia molitva foto 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/pominalnaia molitva foto 1.jpg" /></figure>
+<figure><img src="./images/stories/random/pominalnaia molitva foto 1.jpg" /></figure>
 
-<figure><img src="images/stories/random/pominalnaia molitva foto 3.jpg" /></figure>
+<figure><img src="./images/stories/random/pominalnaia molitva foto 3.jpg" /></figure>
 
-<figure><img src="images/stories/random/pominalnaia molitva foto 4.jpg" /></figure>
+<figure><img src="./images/stories/random/pominalnaia molitva foto 4.jpg" /></figure>
 
-<figure><img src="images/stories/random/molitva terehova n.jpg" /></figure>
+<figure><img src="./images/stories/random/molitva terehova n.jpg" /></figure>
 
-<figure><img src="images/stories/random/molitva 218.jpg" /></figure>
+<figure><img src="./images/stories/random/molitva 218.jpg" /></figure>
 
 Премьера состоялась **23** февраля **2013** года.
 

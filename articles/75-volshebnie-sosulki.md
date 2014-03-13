@@ -33,13 +33,13 @@ modified: 2013-03-15 08:11:16
 
 Жадюкин - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a>
 
-<figure><img src="images/stories/sosylki%20ss.jpg" /></figure>
+<figure><img src="./images/stories/sosylki%20ss.jpg" /></figure>
 
-<figure><img src="images/stories/random/sosylki2.jpg" /></figure>
+<figure><img src="./images/stories/random/sosylki2.jpg" /></figure>
 
-<figure><img src="images/stories/random/sosylki3.jpg" /></figure>
+<figure><img src="./images/stories/random/sosylki3.jpg" /></figure>
 
-<figure><img src="images/stories/random/sosylki.jpg" /></figure>
+<figure><img src="./images/stories/random/sosylki.jpg" /></figure>
 
 Спектакль идёт **1** час **10** мин без антракта.
 

@@ -61,15 +61,15 @@ modified: 2013-11-05 10:54:48
 
 <a href="272-pressa-trigorin-v-moskve.html">"Средний актёр стал гораздо выше" о гастролях спектакля "Записные книжки Тригорина" в Москве ("Литературная газета")(Автор:К.Рубина)</a>
 
-<figure><img src="images/stories/trigorin.jpg" /></figure>
+<figure><img src="./images/stories/trigorin.jpg" /></figure>
 
-<figure><img src="images/stories/random/trigorin.jpg" /></figure>
+<figure><img src="./images/stories/random/trigorin.jpg" /></figure>
 
-<figure><img src="images/stories/random/trigorin.j2.jpg" /></figure>
+<figure><img src="./images/stories/random/trigorin.j2.jpg" /></figure>
 
-<figure><img src="images/stories/random/trigorin.4.jpg" /></figure>
+<figure><img src="./images/stories/random/trigorin.4.jpg" /></figure>
 
-<figure><img src="images/stories/random/trigorin.3.jpg" /></figure>
+<figure><img src="./images/stories/random/trigorin.3.jpg" /></figure>
 
 _Премьера спектакля состоялась 17 апреля 2008 года._
 

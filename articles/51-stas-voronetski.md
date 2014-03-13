@@ -7,7 +7,7 @@ modified: 2013-10-20 23:48:20
 
 **СТАНИСЛАВ ВОРОНЕЦКИЙ**
 
-<figure><img src="images/stories/oronetskii%20ss.jpg" /></figure>
+<figure><img src="./images/stories/oronetskii%20ss.jpg" /></figure>
 
 Родился 28 мая 1984 года . В 2005 году окончил Санкт-Петербургскую государственную академию театрального искусства (СПбГАТИ) , курс профессора В.Д. Сошникова . С 2003 по 2005 гг ведущий информационно-развлекательной программы «Солнечный Зайчик» на «Телеканале СТО» . Снимался в фильмах: «Пером и шпагой» , т/с «Дорожный патруль», т/с «Улицы разбитых фонарей», «Формат А4» и др.
 
@@ -31,5 +31,5 @@ modified: 2013-10-20 23:48:20
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роли Ося Чернов, жокей Анатолий Иванов, официант, Логинов
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/31838/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/31838/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

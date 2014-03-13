@@ -5,7 +5,7 @@ alias: komfestivals
 modified: 2013-12-05 20:43:12
 ---
 
-<figure><img src="images/stories/random/zzz festival-mmaski.jpg" /></figure>
+<figure><img src="./images/stories/random/zzz festival-mmaski.jpg" /></figure>
 
 Каждый год с 1992 года, по традиции в последнюю неделю ноября, театр «Комедианты» при поддержке Правительства Ленинградской области проводит благотворительный фестиваль **«Дворцы Санкт-Петербурга – детям»**.
 

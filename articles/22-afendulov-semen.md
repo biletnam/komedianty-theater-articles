@@ -7,7 +7,7 @@ modified: 2012-04-21 17:19:46
 
 **СЕМЁН АФЕНДУЛОВ**
 
-<figure><img src="images/stories/random/afendulov 3.jpg" /></figure>
+<figure><img src="./images/stories/random/afendulov 3.jpg" /></figure>
 
 Родился 14 мая 1977 года.
 
@@ -29,5 +29,5 @@ modified: 2012-04-21 17:19:46
 
 <a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега - роль Лисео
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6450/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6450/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

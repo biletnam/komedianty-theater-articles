@@ -7,7 +7,7 @@ modified: 2013-10-20 23:51:52
 
 **ЮЛИЯ ГОРШЕНИНА**
 
-<figure><img src="images/stories/gorshenina%20yyy.jpg" /></figure>
+<figure><img src="./images/stories/gorshenina%20yyy.jpg" /></figure>
 
 Родилась 6 октября 1974 года в Ленинграде . В 1982–1992 гг. пела в Ленинградском детском хоре Радио и Телевидения . В 1993–1997 гг. СПГУП, училась на актёрско - режиссёрском курсе З.Я.Корогодского . В 1997 году перевелась в Санкт-Петербургскую Академию культуры и искусств на курс В.П.Маркова по специальности «режиссура драмы» (год окончания 1998г.) Имеет дополнительное образование - аспирантура СПбГАТИ по специальности «актёрское мастерство», курс В.В.Петрова . В 2000-2003 гг. работала на радио «Северная Столица»: автор и ведущая программы «Секретные материалы». Снималась в фильмах : «Чёрный ворон» , «Закон мышеловки» , т/с«Гаишники» , «Цвет пламени» , «Янтарный барон» , «Дубля не будет» , «Груз», х/ф «Ключ Саламандры» и др.
 
@@ -31,7 +31,7 @@ modified: 2013-10-20 23:51:52
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Белла Константиновна
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/1072/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/1072/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 
-<figure><a href="http://ruskino.ru/art/1706"><img src="images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/1706"><img src="./images/stories/random/rus-.png" /></a></figure>
 

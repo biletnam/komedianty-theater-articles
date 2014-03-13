@@ -45,17 +45,17 @@ modified: 2013-12-12 23:26:42
 
 Федя (мужик) - Александр ГОНЧАРУК (баян).
 
-<figure><img src="images/stories/derevna.jpg" /></figure>
+<figure><img src="./images/stories/derevna.jpg" /></figure>
 
-<figure><img src="images/stories/random/derevnia.2.jpg" /></figure>
+<figure><img src="./images/stories/random/derevnia.2.jpg" /></figure>
 
-<figure><img src="images/stories/random/derevnia.3.jpg" /></figure>
+<figure><img src="./images/stories/random/derevnia.3.jpg" /></figure>
 
-<figure><img src="images/stories/random/derevnia.4.jpg" /></figure>
+<figure><img src="./images/stories/random/derevnia.4.jpg" /></figure>
 
-<figure><img src="images/stories/random/erevnia foto.jpg" /></figure>
+<figure><img src="./images/stories/random/erevnia foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/derevnia.45.jpg" /></figure>
+<figure><img src="./images/stories/random/derevnia.45.jpg" /></figure>
 
 Спектакль идет **1** ч. **15** мин. без антракта.
 

@@ -7,7 +7,7 @@ modified: 2013-07-13 00:03:46
 
 **МАРК ГАВРИЛОВ**
 
-<figure><img src="images/stories/random/gavrilov mark.jpg" /></figure>
+<figure><img src="./images/stories/random/gavrilov mark.jpg" /></figure>
 
 Родился 17 апреля 1969 года.<br/>В 1991 году окончил ЛГИТМиК (СПБГАТИ) класс профессора А.И.Кацмана и В.М.Фильштинского. <br/>Работал в Театре Сатиры на Васильевском, в Театре На Литейном, Молодежном театре и в Студии "АСБ" под управлением Алексея Янковского.Снимался в фильмах: "Лабиринты разума", "Саквояж с большим будущим", "Двое из ларца", "Тот, кто рядом", "Бомбилы", "Груз 200" и др.
 
@@ -21,5 +21,5 @@ modified: 2013-07-13 00:03:46
 
 <a href="97-pominalnaia-molitva.html">"Поминальная молитва"</a> Г. Горин - роль Менахема Мендла
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

@@ -53,23 +53,23 @@ modified: 2013-12-15 23:23:01
 
 <figure>{youtube:www.youtube.com/watch?v=j5ko5TxBnn0&amp;feature=related 480 353}</figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto-2013 2.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto-2013 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto1.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto1.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto-2013 4.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto-2013 4.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto-2013g.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto-2013g.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto2.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto2.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto-2013.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto-2013.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto-2013 3.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto-2013 3.jpg" /></figure>
 
-<figure><img src="images/stories/random/karlson-foto/karlson-foto1-2013.jpg" /></figure>
+<figure><img src="./images/stories/random/karlson-foto/karlson-foto1-2013.jpg" /></figure>
 
 Спектакль идёт **1** час **5** мин. без антракта.
 

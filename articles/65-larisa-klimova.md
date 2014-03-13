@@ -7,7 +7,7 @@ modified: 2013-01-27 11:49:20
 
 **ЛАРИСА КЛИМОВА**
 
-<figure><img src="images/stories/klimova%20ll.jpg" /></figure>
+<figure><img src="./images/stories/klimova%20ll.jpg" /></figure>
 
 Родилась 4 октября 1969 года в Воронеже. В 1995 году окончила Институт искусств (Воронеж), факультет театрального искусства , мастер Сисикина И.Б. 1992-1995 г. играла в Воронежском Молодежном театре, 1995-1997 г. в Санкт-Петербургском театре «Причастие».
 
@@ -29,5 +29,5 @@ modified: 2013-01-27 11:49:20
 
 <a href="90-ychilka.html">«Училка из будущего»</a> В.Ольшанский - роль Училка Ненси Аллен
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/16931/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/16931/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

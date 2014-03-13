@@ -7,7 +7,7 @@ modified: 2013-10-20 23:50:50
 
 **ЛЮДМИЛА НИКИТИНА**
 
-<figure><img src="images/stories/random/nikitina luda.jpg" /></figure>
+<figure><img src="./images/stories/random/nikitina luda.jpg" /></figure>
 
 Родилась 23 апреля 1970 года. В 1989 году ,в городе Львове, окончила Училище культуры, режиссерский факультет. В 1996 году окончила Санкт-Петербургскую Академию Культуры, режиссерский факультет, класс профессора Н.И.Басина. А в 2002 году – Аспирантуру Санкт-Петербургской Государственной Академии Театрального Искусства, факультет педагогики актерского мастерства, класс заслуженного деятеля искусств М.А.Левшина.
 
@@ -35,5 +35,5 @@ modified: 2013-10-20 23:50:50
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Тина Кару
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/281305/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/281305/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

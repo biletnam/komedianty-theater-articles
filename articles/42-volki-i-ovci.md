@@ -49,17 +49,17 @@ modified: 2013-11-05 10:55:41
 
 Павлин - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
 
-<figure><img src="images/stories/volki.jpg" /></figure>
+<figure><img src="./images/stories/volki.jpg" /></figure>
 
-<figure><img src="images/stories/random/volki i ovci foto2.jpg" /></figure>
+<figure><img src="./images/stories/random/volki i ovci foto2.jpg" /></figure>
 
-<figure><img src="images/stories/random/volki i ovci fto.jpg" /></figure>
+<figure><img src="./images/stories/random/volki i ovci fto.jpg" /></figure>
 
-<figure><img src="images/stories/volki i ovci foto 2.jpg" /></figure>
+<figure><img src="./images/stories/volki i ovci foto 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/volki i ovci foto 2 1.jpg" /></figure>
+<figure><img src="./images/stories/random/volki i ovci foto 2 1.jpg" /></figure>
 
-<figure><img src="images/stories/random/volki i ovci foto 2 2.jpg" /></figure>
+<figure><img src="./images/stories/random/volki i ovci foto 2 2.jpg" /></figure>
 
 Спектакль идет **3** часа **30** минут с одним антрактом.
 

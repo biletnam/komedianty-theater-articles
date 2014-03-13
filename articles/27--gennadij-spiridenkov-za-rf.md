@@ -7,7 +7,7 @@ modified: 2013-02-02 14:56:10
 
 **ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ**
 
-<figure><img src="images/stories/random/spiridenkov.jpg" /></figure>
+<figure><img src="./images/stories/random/spiridenkov.jpg" /></figure>
 
 Родился в 1956-м году. Окончил ЛГИТМиК, факультет драматического искусства (1981), педагог - З. Я. Корогодский. Работал в Санкт-Петербургском Театре юного зрителя им. А.А.Брянцева. Заслуженный артист Российской Федерации (1997г). Артист разговорного жанра "Петербург-концерта". Снимался в фильмах: «Мама» (короткометражный), «Версия», т/с «Тайны следствия-7», т/с «Улицы разбитых фонарей», «Татьяна Ларина», «Синема, синема, или Неотвратимая весна», «Осечка» (фильм-спектакль), «Кабачок "13 стульев"» и др.
 
@@ -25,5 +25,5 @@ modified: 2013-02-02 14:56:10
 
 <a href="147-karlson.html">«Карлсон»</a> А.Линдгрен - роль Фрекен Бок
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6427/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6427/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

@@ -7,7 +7,7 @@ modified: 2013-06-25 11:24:13
 
 **АЛЕКСАНДР ШЕВЕЛЁВ**
 
-<figure><img src="images/stories/logo/logo/ .jpg" /></figure>
+<figure><img src="./images/stories/logo/logo/ .jpg" /></figure>
 
 Родился 5 сентября 1948 года.
 

@@ -35,17 +35,17 @@ modified: 2013-12-03 09:58:02
 
 Антонио - <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ</a> / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН </a>
 
-<figure><img src="images/stories/random/vor.jpg" /></figure>
+<figure><img src="./images/stories/random/vor.jpg" /></figure>
 
-<figure><img src="images/stories/random/vor2.jpg" /></figure>
+<figure><img src="./images/stories/random/vor2.jpg" /></figure>
 
-<figure><img src="images/stories/random/vor3.jpg" /></figure>
+<figure><img src="./images/stories/random/vor3.jpg" /></figure>
 
-<figure><img src="images/stories/random/vor4.jpg" /></figure>
+<figure><img src="./images/stories/random/vor4.jpg" /></figure>
 
-<figure><img src="images/stories/random/vor5.jpg" /></figure>
+<figure><img src="./images/stories/random/vor5.jpg" /></figure>
 
-<figure><img src="images/stories/random/vor6.jpg" /></figure>
+<figure><img src="./images/stories/random/vor6.jpg" /></figure>
 
 Спектакль идёт **1** час **30** мин без антракта.
 

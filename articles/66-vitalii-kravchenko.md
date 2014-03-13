@@ -7,7 +7,7 @@ modified: 2013-07-13 16:18:42
 
 **ВИТАЛИЙ КРАВЧЕНКО**
 
-<figure><img src="images/stories/random/kravchenko vvv.jpg" /></figure>
+<figure><img src="./images/stories/random/kravchenko vvv.jpg" /></figure>
 
 Родился 3 октября 1979 года в Ленинграде. В 2007 году окончил СПбГАТИ , курс А.С.Шведерского. Снимался в фильмах: т/с «Улицы разбитых фонарей» , «Свой - чужой» и др.
 
@@ -35,5 +35,5 @@ modified: 2013-07-13 16:18:42
 
 <a href="75-volshebnie-sosulki.html">«Волшебные сосульки»</a> М.Мокиенко - роль Дед Мороз
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 

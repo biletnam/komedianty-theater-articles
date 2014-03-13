@@ -7,7 +7,7 @@ modified: 2014-03-04 21:01:41
 
 Драматический театр «Комедианты»
 
-<figure><a href="283-zemlyaki.html"><img src="images/stories/news/af-zemliaki-pikalovo.jpg" /></a></figure>
+<figure><a href="283-zemlyaki.html"><img src="./images/stories/news/af-zemliaki-pikalovo.jpg" /></a></figure>
 
 представляет:
 

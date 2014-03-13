@@ -7,7 +7,7 @@ modified: 2014-01-28 18:49:43
 
 **ГАЛИНА САБУРОВА**
 
-<figure><img src="images/stories/random/sabyrova.jpg" /></figure>
+<figure><img src="./images/stories/random/sabyrova.jpg" /></figure>
 
 Родилась 22 декабря 1937 года в Ленинграде. В 1964 году окончила ЛГИТМиК (СПБГАТИ) курс Л.Макарьева, Ф.М.Никитина. В 1964-1969 годах работала в Красноярском драматическом театре. В 1970-1975 гг. - в "Ленконцерте". В 1976-1984 гг. - на Ленфильме. В 1984-1998 гг. - в "Студии киноактёра". Актриса прошла большой творческий путь, много снималась в кино у таких режиссеров, как Иосиф Хейфиц, Виктор Садовский, Владимир Фетин, Эрнест Ясан, Виктор Титов, Александр Бурцев, Александр Калягин.
 
@@ -25,7 +25,7 @@ modified: 2014-01-28 18:49:43
 
 <a href="69-genitba.html">«Женитьба»</a> Н.В.Гоголь - роль Фекла Ивановна
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/3712/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/3712/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 
-<figure><a href="http://ruskino.ru/art/5110"><img src="images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/5110"><img src="./images/stories/random/rus-.png" /></a></figure>
 

@@ -16,7 +16,7 @@ modified: 2014-01-20 22:09:04
 
 Мы открыты к любому общению. Готовы рассмотреть самые фантастические предложения. Вместе с нами Вы сможете окунуться в загадочный мир театра, его закулисье и зазеркалье. Вы полюбите ТЕАТР, а мы полюбим Вас, и это взаимное чувство обязательно принесет свои плоды.
 
-<figure><img src="images/stories/random/drama-vehalka.png" /></figure>
+<figure><img src="./images/stories/random/drama-vehalka.png" /></figure>
 
 Наши проекты.
 
@@ -36,7 +36,7 @@ modified: 2014-01-20 22:09:04
 
 коллектив театра «КОМЕДИАНТЫ»
 
-<figure><img src="images/stories/x_913edd02.jpg" /></figure>
+<figure><img src="./images/stories/x_913edd02.jpg" /></figure>
 
 Санкт-Петербург 191040 Лиговский проспект, 44
 

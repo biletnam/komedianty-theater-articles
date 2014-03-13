@@ -55,19 +55,19 @@ modified: 2013-09-11 15:07:32
 
 <a href="120-ych.html">Рецензия на спектакль "Училка из будущего" театра "Комедианты" (интернет-журнал "KidsReview.ru")(автор:Владимир Несторович)</a>
 
-<figure><img src="images/stories/ychilka.jpg" /></figure>
+<figure><img src="./images/stories/ychilka.jpg" /></figure>
 
-<figure><img src="images/stories/ychilka iz byyyy.jpg" /></figure>
+<figure><img src="./images/stories/ychilka iz byyyy.jpg" /></figure>
 
-<figure><img src="images/stories/foto ychilka 2.jpg" /></figure>
+<figure><img src="./images/stories/foto ychilka 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/yyychilka foto.8.png" /></figure>
+<figure><img src="./images/stories/random/yyychilka foto.8.png" /></figure>
 
-<figure><img src="images/stories/random/yyychilka foto.38.png" /></figure>
+<figure><img src="./images/stories/random/yyychilka foto.38.png" /></figure>
 
-<figure><img src="images/stories/random/ychilka foto.jpg" /></figure>
+<figure><img src="./images/stories/random/ychilka foto.jpg" /></figure>
 
-<figure><img src="images/stories/random/ychilka foto3.jpg" /></figure>
+<figure><img src="./images/stories/random/ychilka foto3.jpg" /></figure>
 
 Спектакль идёт **2** часа с антрактом.
 

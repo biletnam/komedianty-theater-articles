@@ -21,7 +21,7 @@ modified: 2013-03-23 12:48:53
 
 <a href="257-recenzia-na-pominalnaya-molitva.html"> Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин</a>
 
-<figure><a href="97-pominalnaia-molitva.html"><img src="images/stories/molitva logo.jpg" /></a></figure>
+<figure><a href="97-pominalnaia-molitva.html"><img src="./images/stories/molitva logo.jpg" /></a></figure>
 
 12.03.2013г.
 

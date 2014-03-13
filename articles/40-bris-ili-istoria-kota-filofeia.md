@@ -47,19 +47,19 @@ modified: 2014-01-28 18:47:34
 
 Бабушка Шура - Заслуженная артистка России <a href="26-popenko-taisija.html">Таисия ПОПЕНКО</a>
 
-<figure><img src="images/stories/random/bris1 2013 1.jpg" /></figure>
+<figure><img src="./images/stories/random/bris1 2013 1.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013 1.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013 1.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013 2.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013 2.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013 3.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013 3.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013 4.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013 4.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013 5.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013 5.jpg" /></figure>
 
-<figure><img src="images/stories/random/bris 2013.jpg" /></figure>
+<figure><img src="./images/stories/random/bris 2013.jpg" /></figure>
 
 Спектакль идет **1** ч. **20** мин.
 

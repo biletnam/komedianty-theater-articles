@@ -7,11 +7,11 @@ modified: 2012-06-24 19:47:44
 
 <!--[endif] -->
 
-<figure><img src="images/stories/random/prostrannosti love.jpg" /></figure>
+<figure><img src="./images/stories/random/prostrannosti love.jpg" /></figure>
 
 Дорогие друзья! В День всех влюбленных мы запустили уникальный проект и приглашаем Вас к активному участию! Его цель – поиск оригинальных путей взаимоотношения между театром и зрителем. Мы призываем Вас стать нашими соавторами в создании экспериментального спектакля под рабочим названием «ПроСтранности любви». Нам нужны Ваши мысли!!! Официальная группа проекта - **<a href="http://vk.com/prostrannosti">http://vk.com/prostrannosti</a>**. Вступайте и делитесь информацией с друзьями! Всегда Ваши, Комедианты)
 
-<figure><img src="images/stories/random/06.gif" /></figure>
+<figure><img src="./images/stories/random/06.gif" /></figure>
 
 1.02.2012
 

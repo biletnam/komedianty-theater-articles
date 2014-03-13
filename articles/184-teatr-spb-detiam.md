@@ -5,11 +5,11 @@ alias: teatr-spb-detiam
 modified: 2013-12-05 20:38:43
 ---
 
-<figure><img src="images/stories/suhanova%20ss.jpg" /></figure>
+<figure><img src="./images/stories/suhanova%20ss.jpg" /></figure>
 
 Друзья!!!На ХХI фестивале **"ТЕАТРЫ САНКТ-ПЕТЕРБУРГА - ДЕТЯМ"** получили премию и дипломы Светлана Суханова в номинации
 
-<figure><a href="50-roman-pritula.html"><img src="images/stories/random/roooo.jpg" /></a></figure>
+<figure><a href="50-roman-pritula.html"><img src="./images/stories/random/roooo.jpg" /></a></figure>
 
 "Лучший дебют" за режиссуру спектакля <a href="147-karlson.html">"Карлсон"</a> и <a href="50-roman-pritula.html">Роман Притула</a> в номинации "Лучший дебют" сразу за две роли, за роль Карлсона в спектакле <a href="147-karlson.html"> "Карлсон"</a> и за роль Марка Трайвера в спектакле <a href="90-ychilka.html">"Училка из будущего"</a>. Мы от всей души поздравляем наших дипломантов и желаем им дальнейших творческих и феерических успехов и премьер!!!УРА!!!УРА!!!УРА!!!ПОЗДРАВЛЯЕМ!!!
 

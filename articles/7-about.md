@@ -11,5 +11,5 @@ modified: 2012-12-21 19:39:27
 
 <a href="38-2010-09-05-20-35-54.html" title="Технические параметры сцены">ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ СЦЕНЫ</a>
 
-<figure><img src="images/stories/fruit/x_275477a3.jpg" /></figure>
+<figure><img src="./images/stories/fruit/x_275477a3.jpg" /></figure>
 
