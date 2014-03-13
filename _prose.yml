@@ -6,7 +6,7 @@ prose:
     - .gitattributes
     - .gitignore
   media: "images"
-  relativeLinks: "links.jsonp"
+  relativeLinks: "http://prose.io/#abnmt/komedianty-theater-articles/links.jsonp"
   metadata:
     "":
       - name: "id"
