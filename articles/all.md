@@ -204,7 +204,7 @@ _- Каково переживать каждый раз на сцене так�
 
 <a href="http://sub-cult.ru/index.php/foto/teatr/1876-18-01-2014-krepostnaya-lubov-spb-dramaticheskiy-teatr-komedianty.html">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 305-v-gostyh-u-komediantov.md
 ---
@@ -324,7 +324,7 @@ modified: 2013-07-07 17:48:59
 
 Ваши «Комедианты».
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 7.07.2013г.
 
@@ -986,7 +986,7 @@ modified: 2014-02-18 11:49:40
 
 2008 - 2014 © ТЕАТР «КОМЕДИАНТЫ»
 
-<figure><img src="images/stories/random/sait 44logo logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait 44logo logo.jpg" /></figure>
 
 15-komfestivals.md
 ---
@@ -1206,7 +1206,7 @@ modified: 2014-01-20 22:08:01
 
 **История Санкт-Петербургского Государственного драматического театра "КОМЕДИАНТЫ"**
 
-<figure><img src="images/stories/random/x2y47tbwgx4.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/x2y47tbwgx4.jpg" /></figure>
 
 История нашего театра началась в конце 80-х годов, когда в Молодежном центре Ленинского района образовалась небольшая труппа из шести человек под руководством Михаила Левшина. Первым спектаклем молодого актерского коллектива стала комедия классика итальянской драматургии Эдуардо де Филиппо «Страсти по-итальянски». Спектакль состоял из 3-х маленьких пьес, которые разыгрывали перед зрителями бродячие комедианты. Искрометный юмор, обаяние,
 
@@ -1234,7 +1234,7 @@ modified: 2014-01-20 22:08:01
 
 Своим кредо «Комедианты» считают «искренность, доверие и любовь к публике и людям, неравнодушным к театру и искусству в целом».
 
-<figure><img src="images/stories/random/truppa 2012.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/truppa 2012.jpg" /></figure>
 
 _фото: Светлана Пь_
 
@@ -1242,7 +1242,7 @@ _фото: Светлана Пь_
 
 2008 - 2014 © ТЕАТР «КОМЕДИАНТЫ»
 
-<figure><img src="images/stories/random/sait 44logo logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait 44logo logo.jpg" /></figure>
 
 261-q-q-qq-.md
 ---
@@ -1291,7 +1291,7 @@ modified: 2013-03-11 15:32:24
 
 <a href="http://ptj.spb.ru/blog/brodvej-naligovke/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 262-pressa-ptj-pomanalnaya-molitva.md
 ---
@@ -1323,7 +1323,7 @@ modified: 2013-03-12 18:22:40
 
 <a href="http://ptj.spb.ru/pressa/o-zhizni-kotoraya-dobree-i-mudree-nas/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 263--q-q.md
 ---
@@ -1379,7 +1379,7 @@ modified: 2013-03-12 18:21:28
 
 <a href="http://gaude.ru/news/23100">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 269-pressa-vjlki-i-ovci.md
 ---
@@ -1417,7 +1417,7 @@ modified: 2013-03-30 23:03:18
 
 <a href="http://www.blogslov.ru/date.php/2005/12/09/09_01-22-23.xml">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 270-q-q.md
 ---
@@ -2226,7 +2226,7 @@ alias: art-chitka-kompromiss-dovlatov
 
 <a href="http://okolo.me/2013/03/v-obnovlennoe-proshloe/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 254-pressa-premera-les.md
 ---
@@ -2526,7 +2526,7 @@ modified: 2013-03-23 12:45:55
 
 фото: Светлана Пьянкова (СПь)
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 272-pressa-trigorin-v-moskve.md
 ---
@@ -2572,7 +2572,7 @@ modified: 2013-03-31 20:13:30
 
 <a href="http://www.lgz.ru/article/8601/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 266-gastroli.md
 ---
@@ -3530,15 +3530,15 @@ modified: 2014-01-28 18:45:13
 
 <a href="259-art-chitka-kompromiss-dovlatov.html">"В обновлённое прошлое" арт-читка С.Довлатова "Компромисс" на киностудии "Ленфильм" (Арт-журнал "Оkolo.me")(автор:Л.Шафранская)</a>
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/ros/136631/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" border="0" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/ros/136631/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 
-<figure><a href="http://ruskino.ru/art/7930"><img src="images/stories/random/rus-.png" border="0" /></a></figure>
+<figure><a href="http://ruskino.ru/art/7930"><img src="images/stories/random/rus-.png" /></a></figure>
 
 <figure><a href="http://romanpritula.ru"><img src="images/stories/random/sait logl roma.png" /></a></figure>
 
 **<a href="http://romanpritula.ru">http://romanpritula.ru</a>** **(официальный сайт актёра)**
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 51-stas-voronetski.md
 ---
@@ -4429,7 +4429,7 @@ modified: 2013-03-27 19:24:40
 
 <a href="http://ok-inform.ru/prazdnik-zhizni/1613-o-bolshikh-lyudyakh-nebolshogo-teatra.html">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 72-trigorin.md
 ---
@@ -5947,7 +5947,7 @@ _Дарья_ _МАЙОРОВА , RUTV.ru_
 
 <a href="http://www.rutv.ru/tvpreg_rnews.html?tvpreg_id=119729&amp;type_id=8&amp;mid=10&amp;id=135254&amp;cid=42&amp;d=0"></a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 117-foto-raznoe.md
 ---
@@ -6347,7 +6347,7 @@ modified: 2013-11-30 09:48:22
 
 <a href="http://ptj.spb.ru/pressa/kompromiss-nesvobody-i-talanta/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 155-pozdnie-vstrechi-o-mymy.md
 ---
@@ -6434,7 +6434,7 @@ _У опушки в день ненастный
 
 <a href="http://musecube.org/?p=121170">ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 161-lot-o-mymy.md
 ---
@@ -6494,7 +6494,7 @@ modified: 2012-06-24 19:50:19
 
 Желаем вам самых светлых театральных впечатлений в наступившем году!
 
-<figure><a href="http://bigbilet.ru/ticket-client/?owner=B38F500DAFE5B638E040115529B046C5" title="Купить билеты ОН-ЛАЙН"><img src="http://bigbilet.ru/button/buy-btn_016.gif" border="0" /></a></figure>
+<figure><a href="http://bigbilet.ru/ticket-client/?owner=B38F500DAFE5B638E040115529B046C5" title="Купить билеты ОН-ЛАЙН"><img src="http://bigbilet.ru/button/buy-btn_016.gif" /></a></figure>
 
 15.01.2012
 
@@ -6705,13 +6705,13 @@ alias: mymy-v-tyrcii
 modified: 2013-10-26 21:04:47
 ---
 
-<figure><a href="46-mumu.html"><img src="images/stories/mymy afisha2.jpg" border="0" /></a></figure>
+<figure><a href="46-mumu.html"><img src="images/stories/mymy afisha2.jpg" /></a></figure>
 
 Спектакль "Крепостная любовь" (МуМу) ПОЛУЧИЛ МЕЖДУНАРОДНОЕ ПРИЗНАНИЕ!!!
 
 **14 мая** спектакль по повести И. С. Тургенева <a href="46-mumu.html">"Крепостная любовь" (МуМу)</a> участвовал в **"13 Международном Черноморском театральном фестивале"** в **г. Трабзон - Турция** ("13.Uluslararasi Karadeniz Tiyatro Festivali")!!! Театр "Комедианты" с постановкой<a href="46-mumu.html"> "Крепостная любовь" (МуМу)</a> признан оргкомитетом фестиваля во главе с его председателем самым лучшим из всех представленных на фестивале театров из разных стран (Италия, Турция, Румыния, Австрия и др.) Спекталь получил **ПРИЗ ФЕСТИВАЛЯ "ХРУСТАЛЬНЫЙ ТРАБЗОН"**!!!УРА!!!УРА!!!УРА!!!
 
-<figure><a href="208-foto-iz-trabzona-mymy.html"><img src="images/stories/random/hrystalnii trabzon.jpg" border="0" /></a></figure>
+<figure><a href="208-foto-iz-trabzona-mymy.html"><img src="images/stories/random/hrystalnii trabzon.jpg" /></a></figure>
 
 <a href="208-foto-iz-trabzona-mymy.html">ФОТО С ГАСТРОЛЕЙ В ТУРЦИЮ</a>
 
@@ -6725,7 +6725,7 @@ modified: 2013-01-14 15:40:39
 
 ****
 
-<figure><img src="images/stories/random/atruppa 2012.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/atruppa 2012.jpg" /></figure>
 
 Зрители смогут насладиться спектаклем в обновленных интерьерах, посетить новое кафе в уютном бельэтаже. Новые удобные кресла, новая сцена, инсталляция, посвященная двадцатидвухлетней истории театра – все это ожидает Вас в театре «Комедианты» в новом сезоне. И, конечно, новые спектакли!
 
@@ -7152,7 +7152,7 @@ alias: podmostki-peterburga-drygay-gizn
 
 **Журналист:** У вас в репертуаре появились спектакли для детей. Это что-то новое или это давняя тема вашего театра?
 
-**Михаил Левшин:** И давняя и новая. Первым нашим спектаклем были  спектакль нам поможет продержаться, всё-таки собрать детского зрителя полегче, честно говоря. Нам никак не остановиться, мы проводим фестиваль для детей _"Дворцы Санкт-Петербурга детям"_ как организаторы и участники. Это наш фирменный фестиваль для Детских домов Ленинградской области, мы же областного подчинения. И всё вместе тянет нас к тому, что у нас всё время появляются премьеры, а последняя была знаменательна тем, что её спровоцировали сами артисты, они сами стали репетировать Карлсона. Артист <a href="50-roman-pritula.html">Роман Притула</a> мечтал его сыграть, а его подруга <a href="48-svetlana-suhanova.html">Света Суханова </a> захотела поставить… И сейчас есть спектакль <a href="147-karlson.html">"Карлсон"</a> , очень его любят дети. А до этого появился спектакль <a href="90-ychilka.html">"Училка из будущего"</a> для ребят 12-14-ти лет, не охваченный контингент, которым сказка "Царевна-лягушка" уже не очень интересна, а "Венецианский купец" ещё рановато. На него много заявок и мы вынуждены играть его очень много. С детьми у нас такие серьёзные взаимоотношения.
+**Михаил Левшин:** И давняя и новая. Первым нашим спектаклем были спектакль нам поможет продержаться, всё-таки собрать детского зрителя полегче, честно говоря. Нам никак не остановиться, мы проводим фестиваль для детей _"Дворцы Санкт-Петербурга детям"_ как организаторы и участники. Это наш фирменный фестиваль для Детских домов Ленинградской области, мы же областного подчинения. И всё вместе тянет нас к тому, что у нас всё время появляются премьеры, а последняя была знаменательна тем, что её спровоцировали сами артисты, они сами стали репетировать Карлсона. Артист <a href="50-roman-pritula.html">Роман Притула</a> мечтал его сыграть, а его подруга <a href="48-svetlana-suhanova.html">Света Суханова </a> захотела поставить… И сейчас есть спектакль <a href="147-karlson.html">"Карлсон"</a> , очень его любят дети. А до этого появился спектакль <a href="90-ychilka.html">"Училка из будущего"</a> для ребят 12-14-ти лет, не охваченный контингент, которым сказка "Царевна-лягушка" уже не очень интересна, а "Венецианский купец" ещё рановато. На него много заявок и мы вынуждены играть его очень много. С детьми у нас такие серьёзные взаимоотношения.
 
 <figure><a href="59-strasti-po-italianski.html">"Страсти по-итальянски"</a>, следующим был <a href="74-kot-v-sapogah.html">"Кот в сапогах"</a>. Мы понимали, что этот <a href="147-karlson.html"><img src="images/stories/afisha karlson.jpg" /></a></figure>
 
@@ -7550,7 +7550,7 @@ modified: 2013-06-14 18:30:04
 
 <a href="http://ok-inform.ru/rubriki/47-double-you/2895-mikhail-levshin-akter-eto-krovotochashchaya-rana-video.html"></a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 282-kompromiss-sdovlatov.md
 ---
@@ -7754,7 +7754,7 @@ modified: 2013-12-12 13:46:41
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/5926/bio/"><img src="images/stories/random/kino-teatr-88x31.gif" /></a></figure>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 285-24th-season.md
 ---
@@ -7930,7 +7930,7 @@ modified: 2013-10-19 19:40:55
 
 <a href="http://rus.err.ee/culture/7d0d95ed-4829-41b5-9203-bbdfebbbdccb">ссылка на статью </a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 291-ehaladerevniaparis.md
 ---
@@ -8085,7 +8085,7 @@ modified: 2014-03-07 22:12:33
 
 <a href="http://www.vesty.spb.ru/apps/novosti/2014/03/07/premera-v-leningradskoj-oblasti/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
 307-premiera-zemlyki-shukshin.md
 ---

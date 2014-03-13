@@ -33,5 +33,5 @@ modified: 2013-03-30 23:03:18
 
 <a href="http://www.blogslov.ru/date.php/2005/12/09/09_01-22-23.xml">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 

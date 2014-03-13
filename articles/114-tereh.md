@@ -69,5 +69,5 @@ _Дарья_ _МАЙОРОВА , RUTV.ru_
 
 <a href="http://www.rutv.ru/tvpreg_rnews.html?tvpreg_id=119729&amp;type_id=8&amp;mid=10&amp;id=135254&amp;cid=42&amp;d=0"></a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 

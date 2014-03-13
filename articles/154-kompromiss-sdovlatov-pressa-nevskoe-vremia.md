@@ -25,5 +25,5 @@ modified: 2013-11-30 09:48:22
 
 <a href="http://ptj.spb.ru/pressa/kompromiss-nesvobody-i-talanta/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 

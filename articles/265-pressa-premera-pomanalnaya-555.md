@@ -27,5 +27,5 @@ modified: 2013-03-23 12:45:55
 
 фото: Светлана Пьянкова (СПь)
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 

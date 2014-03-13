@@ -11,7 +11,7 @@ modified: 2012-06-24 19:50:19
 
 Желаем вам самых светлых театральных впечатлений в наступившем году!
 
-<figure><a href="http://bigbilet.ru/ticket-client/?owner=B38F500DAFE5B638E040115529B046C5" title="Купить билеты ОН-ЛАЙН"><img src="http://bigbilet.ru/button/buy-btn_016.gif" border="0" /></a></figure>
+<figure><a href="http://bigbilet.ru/ticket-client/?owner=B38F500DAFE5B638E040115529B046C5" title="Купить билеты ОН-ЛАЙН"><img src="http://bigbilet.ru/button/buy-btn_016.gif" /></a></figure>
 
 15.01.2012
 

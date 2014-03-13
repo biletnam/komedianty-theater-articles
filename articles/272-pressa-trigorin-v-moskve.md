@@ -41,5 +41,5 @@ modified: 2013-03-31 20:13:30
 
 <a href="http://www.lgz.ru/article/8601/">Ссылка на статью</a>
 
-<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" border="0" /></figure>
+<figure><img src="images/stories/random/sait%2044logo%20logo.jpg" /></figure>
 
