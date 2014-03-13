@@ -1,0 +1,18 @@
+---
+layout: default
+published: false
+id: 0
+category: Без категории
+---
+
+{
+  "manifest_version": 1,
+  "name": "Your Awsome App Name",
+  "version": "1",
+  "permissions":[
+    "http://localhost/",
+    "http://prose.io/",
+    "http://github.io,
+    "http://github.com
+  ]
+}
