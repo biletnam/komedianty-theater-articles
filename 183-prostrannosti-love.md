@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 183
 title: «PROстранности Любви»
-alias: "prostrannosti-love"
-modified: {}
-published: true
-category: Без категории
+alias: prostrannosti-love
+modified: 2012-06-24 19:47:44
 ---
 
 <figure>

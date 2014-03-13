@@ -5,13 +5,13 @@ alias: anekdoti
 modified: 2013-12-12 13:45:47
 ---
 
-**Александр Вампилов**
+## Александр Вампилов
 
 **«ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ» 16+**
 
 Трагикомедия в 2-х действиях.
 
-Режиссёр - постановщик: <a href="53-aleksei-ispolatov.html">Алексей ИСПОЛАТОВ</a>
+Режиссёр - постановщик: [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
 Художник: Светлана БУРЯКОВА
 
@@ -19,39 +19,39 @@ modified: 2013-12-12 13:45:47
 
 Пресса о спектакле "Провинциальные анекдоты":
 
-<a href="268-pressa-anekdoti-2010.html">"Провинциальный анекдоты" в театре "Комедианты": всё не просто так!" (газета "Мой район онлайн")(автор:Т.Морозова)</a>
+["Провинциальный анекдоты" в театре "Комедианты": всё не просто так!" (газета "Мой район онлайн")(автор:Т.Морозова)](268-pressa-anekdoti-2010.html)
 
 В спектакле заняты:
 
 **Анекдот 1** **(История с метранпажем)**
 
-Калошин - <a href="52-sergei-nikolaev.html">Сергей НИКОЛАЕВ</a>
+Калошин - [Сергей НИКОЛАЕВ](52-sergei-nikolaev.html)
 
-Виктория - <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА</a>
+Виктория - [Екатерина БЕЛОВА](23-belova-ekaterina.html)
 
-Марина (жена Калошина) - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a> / <a href="64-asia-pigel-sergeevna.html">Анастасия ПИЖЕЛЬ</a>
+Марина (жена Калошина) - [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / [Анастасия ПИЖЕЛЬ](64-asia-pigel-sergeevna.html)
 
-Рукосуев (врач) - <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ</a>
+Рукосуев (врач) - [Сергей БЛЕДНЫХ](24-blednyh-sergej.html)
 
-Потапов - <a href="51-stas-voronetski.html">Станислав ВОРОНЕЦКИЙ</a> / <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a>
+Потапов - [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html) / [Семён АФЕНДУЛОВ](22-afendulov-semen.html)
 
-Камаев<a href="284-2013-09-08-18-38-31.html"></a> - <a href="21-fillipp-azarov.html">Филипп АЗАРОВ </a>/ <a href="284-2013-09-08-18-38-31.html">Павел ИВАНОВСКИЙ</a>
+Камаев[</a> - <a href="21-fillipp-azarov.html">Филипп АЗАРОВ](284-2013-09-08-18-38-31.html)/ [Павел ИВАНОВСКИЙ](284-2013-09-08-18-38-31.html)
 
 **Анекдот 2** **(20 минут с ангелом)**
 
-Хомутов - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
+Хомутов - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
 
-Угаров -<a href="55-anatolii-ilchenko.html"> Анатолий ИЛЬЧЕНКО</a>
+Угаров -[ Анатолий ИЛЬЧЕНКО](55-anatolii-ilchenko.html)
 
-Анчугин - <a href="77-ilgiz-bulgakov.html">Ильгиз БУЛГАКОВ</a>
+Анчугин - [Ильгиз БУЛГАКОВ](77-ilgiz-bulgakov.html)
 
-Васюта - <a href="61-galina-saburova.html">Галина САБУРОВА</a> / <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a>
+Васюта - [Галина САБУРОВА](61-galina-saburova.html) / [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html)
 
-Фаина - <a href="78-ylia-burceva.html">Юлия БУРЦЕВА</a> / <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА</a>
+Фаина - [Юлия БУРЦЕВА](78-ylia-burceva.html) / [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html)
 
-Базильский - <a href="54-nikolai-ispolatov.html">Николай ИСПОЛАТОВ</a>
+Базильский - [Николай ИСПОЛАТОВ](54-nikolai-ispolatov.html)
 
-Ступак - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a> <a href="112-mark-gavrilov.html"></a>/ <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
+Ступак - [Семён АФЕНДУЛОВ](22-afendulov-semen.html) [</a>/ <a href="83-bezryk-ilya.html">Илья БЕЗРУК](112-mark-gavrilov.html)
 
 <figure>
 ![](/images/stories/random/anekdoti55.jpg)

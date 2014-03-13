@@ -5,7 +5,7 @@ alias: m-levshin-ok-inform
 modified: 2013-06-14 18:30:04
 ---
 
-**Михаил Левшин: «Актер – это кровоточащая рана»**
+## Михаил Левшин: «Актер – это кровоточащая рана»
 
 <h4>Худрук театра «Комедианты» рассказал W, как относится к идее Минкульта об аттестации творческих работников, и почему работу актера опасно формализовывать.</h4>
 
@@ -37,7 +37,7 @@ modified: 2013-06-14 18:30:04
 
 Интернет-газета "Ок-inform" / 13.06.2013 / Е.Садкова
 
-<a href="http://ok-inform.ru/rubriki/47-double-you/2895-mikhail-levshin-akter-eto-krovotochashchaya-rana-video.html">Ссылка на статью</a>
+[Ссылка на статью](http://ok-inform.ru/rubriki/47-double-you/2895-mikhail-levshin-akter-eto-krovotochashchaya-rana-video.html)
 
 <a href="http://ok-inform.ru/rubriki/47-double-you/2895-mikhail-levshin-akter-eto-krovotochashchaya-rana-video.html"></a>
 

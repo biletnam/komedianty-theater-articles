@@ -5,7 +5,7 @@ alias: irina-mityshkina
 modified: 2012-04-21 19:07:10
 ---
 
-**ИРИНА МИТЮШКИНА**
+## ИРИНА МИТЮШКИНА
 
 <figure>
 ![](/images/stories/mityshkina%20iii.jpg)
@@ -17,9 +17,9 @@ modified: 2012-04-21 19:07:10
 
 Занята в спектаклях:
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак» </a>Э.Ростан - роль Дуэнья
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html)Э.Ростан - роль Дуэнья
 
-<a href="41-v-paris.html">«В Париж»</a> А. П. Чехов - роль Сваха
+[«В Париж»](41-v-paris.html) А. П. Чехов - роль Сваха
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/242217/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

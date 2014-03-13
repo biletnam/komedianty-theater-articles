@@ -5,7 +5,7 @@ alias: contacts
 modified: 2014-03-11 11:31:34
 ---
 
-**Адрес:** 191040, г. Санкт-Петербург, Лиговский проспект, д. 44
+## Адрес: 191040, г. Санкт-Петербург, Лиговский проспект, д. 44
 
 <figure>
 ![](/images/stories/random/777quillandink.gif)
@@ -59,5 +59,5 @@ adelveis1344@yandex.ru
 
 **Наш адрес на карте:**
 
-<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=ofuw_4OqE_At8OMR-JBS9l5Jc4caDeu1&amp;width=600&amp;height=450"></script>
+<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=ofuw_4OqE_At8OMR-JBS9l5Jc4caDeu1&width=600&height=450"></script>
 

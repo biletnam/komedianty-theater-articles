@@ -5,7 +5,7 @@ alias: anna-zagrebna
 modified: 2013-09-11 15:04:50
 ---
 
-**АННА ЗАГРЕБНА**
+## АННА ЗАГРЕБНА
 
 <figure>
 ![](/images/stories/agrebna%20aaa.jpg)
@@ -17,21 +17,21 @@ modified: 2013-09-11 15:04:50
 
 Занята в спектаклях:
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Роксана
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Роксана
 
-<a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега - роль Финея
+[«Дурочка»](44-dyrochka.html) Лопе де Вега - роль Финея
 
-<a href="75-volshebnie-sosulki.html">«Волшебные сосульки»</a> М.Мокиенко – роль Настенька
+[«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко – роль Настенька
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Настенька
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Настенька
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Внучка
+[«Дачницы»](43-dachnici.html) В.Карасёв - роль Внучка
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь!или истории кота Филофея»</a> В.Зимин - роль Анфиса
+[«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В.Зимин - роль Анфиса
 
-<a href="76-kicik-micik-i-mari.html">«Кыцик, Мыцик и Тетушка Мари»</a> Е.Чеповецкий - роль Мыцик
+[«Кыцик, Мыцик и Тетушка Мари»](76-kicik-micik-i-mari.html) Е.Чеповецкий - роль Мыцик
 
-<a href="90-ychilka.html">«Училк</a><a href="90-ychilka.html">а из будущего»</a> В.Ольшанский - роль Уэнди Кларк
+[«Училк](90-ychilka.html)[а из будущего»](90-ychilka.html) В.Ольшанский - роль Уэнди Кларк
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/8276/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

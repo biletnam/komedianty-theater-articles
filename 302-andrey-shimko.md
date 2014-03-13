@@ -14,9 +14,9 @@ alias: andrey-shimko
 
 Занят в спектаклях:
 
-<a href="91-les.html">«ЛЕС»</a> А.Островский - роль Несчастливцев
+[«ЛЕС»](91-les.html) А.Островский - роль Несчастливцев
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Сирано де Бержерак
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Сирано де Бержерак
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/5826/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

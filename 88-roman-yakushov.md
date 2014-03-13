@@ -5,7 +5,7 @@ alias: roman-yakushov
 modified: 2013-07-13 21:03:20
 ---
 
-**РОМАН ЯКУШОВ**
+## РОМАН ЯКУШОВ
 
 <figure>
 ![](/images/stories/random/yakushov ro.jpg)
@@ -17,15 +17,15 @@ modified: 2013-07-13 21:03:20
 
 Занят в спектаклях:
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь! Или история коты Филофея»</a> В. Зимин – роль Филофея
+[«Брысь! Или история коты Филофея»](40-bris-ili-istoria-kota-filifeia.html) В. Зимин – роль Филофея
 
-<a href="72-trigorin.html">«Записные книжки Тригорина»</a> Т. Уильямс – роль Константина Треплева
+[«Записные книжки Тригорина»](72-trigorin.html) Т. Уильямс – роль Константина Треплева
 
-<a href="74-kot-v-sapogah.html">«Кот в сапогах»</a> Г. Андерсон – роль Людоеда
+[«Кот в сапогах»](74-kot-v-sapogah.html) Г. Андерсон – роль Людоеда
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г. Горин – роль Мотла
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г. Горин – роль Мотла
 
-<a href="76-kicik-micik-i-mari.html">«Кыцик, Мыцик и тётушка Мари»</a> Е.Чеповецкий - Кыцик
+[«Кыцик, Мыцик и тётушка Мари»](76-kicik-micik-i-mari.html) Е.Чеповецкий - Кыцик
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/18482/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

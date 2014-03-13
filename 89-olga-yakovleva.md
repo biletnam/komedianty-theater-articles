@@ -5,7 +5,7 @@ alias: olga-yakovleva
 modified: 2013-01-27 11:46:27
 ---
 
-**ОЛЬГА ЯКОВЛЕВА**
+## ОЛЬГА ЯКОВЛЕВА
 
 <figure>
 ![](/images/stories/yakovleva.jpg)
@@ -17,15 +17,15 @@ modified: 2013-01-27 11:46:27
 
 Занята в спектаклях:
 
-<a href="46-mumu.html">«Крепостная любовь» (МуМу)</a> И.Тургенев - роль Барыня
+[«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль Барыня
 
-<a href="59-strasti-po-italianski.html">«Страсти по-итальянски»</a> Э.де Филиппо - роли Рита-Доротея-Женщина
+[«Страсти по-итальянски»](59-strasti-po-italianski.html) Э.де Филиппо - роли Рита-Доротея-Женщина
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Бояркина
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Бояркина
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Бабушка
+[«Дачницы»](43-dachnici.html) В.Карасёв - роль Бабушка
 
-<a href="72-trigorin.html">«Записные книжки Тригорина»</a> Т.Уильямс - роль Полина Андреевна
+[«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс - роль Полина Андреевна
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/283054/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

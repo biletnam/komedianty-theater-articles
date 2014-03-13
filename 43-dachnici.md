@@ -5,7 +5,7 @@ alias: dachnici
 modified: 2012-10-16 20:42:01
 ---
 
-**В. Карасёв**
+## В. Карасёв
 
 **«ДАЧНИЦЫ»**
 
@@ -21,17 +21,17 @@ modified: 2012-10-16 20:42:01
 
 В спектакле заняты:
 
-Мужик - Заслуженный артист России <a href="27--gennadij-spiridenkov-za-rf.html">Геннадий СПИРИДЕНКОВ</a> / <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ</a>
+Мужик - Заслуженный артист России [Геннадий СПИРИДЕНКОВ](27--gennadij-spiridenkov-za-rf.html) / [Сергей БЛЕДНЫХ](24-blednyh-sergej.html)
 
-Бабушка - <a href="89-olga-yakovleva.html">Ольга ЯКОВЛЕВА </a>
+Бабушка - [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html)
 
-Мама - Заслуженная артистка России <a href="26-popenko-taisija.html">Таисия ПОПЕНКО </a>
+Мама - Заслуженная артистка России [Таисия ПОПЕНКО](26-popenko-taisija.html)
 
-Хозяйка дачи - <a href="65-larisa-klimova.html">Лариса КЛИМОВА </a>
+Хозяйка дачи - [Лариса КЛИМОВА](65-larisa-klimova.html)
 
-Внучка - <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a> / <a href="79-anna-zagrebna.html">Анна ЗАГРЕБНА</a> / <a href="85-oksana-surnina.html">Оксана СУРНИНА</a>
+Внучка - [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Домработница Дуся - <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a> / <a href="61-galina-saburova.html">Галина САБУРОВА</a>
+Домработница Дуся - [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html) / [Галина САБУРОВА](61-galina-saburova.html)
 
 <figure>
 ![](/images/stories/dachnici.jpg)

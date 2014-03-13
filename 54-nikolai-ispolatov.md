@@ -5,7 +5,7 @@ alias: nikolai-ispolatov
 modified: 2013-02-02 15:29:18
 ---
 
-**НИКОЛАЙ ИСПОЛАТОВ**
+## НИКОЛАЙ ИСПОЛАТОВ
 
 <figure>
 ![](/images/stories/act/nikolaispolatov.jpg)
@@ -17,13 +17,13 @@ modified: 2013-02-02 15:29:18
 
 Занят в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Священник
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Священник
 
-<a href="69-genitba.html">«Женитьба»</a> Н.В.Гоголь - роль Степан
+[«Женитьба»](69-genitba.html) Н.В.Гоголь - роль Степан
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак» </a>Э.Ростан - роль Капуцин
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html)Э.Ростан - роль Капуцин
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> В.Вампилов - роль Скрипач Базильский
+[«Провинциальные анекдоты»](71-anekdoti.html) В.Вампилов - роль Скрипач Базильский
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/1762/works/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

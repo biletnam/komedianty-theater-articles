@@ -4,9 +4,9 @@ title: Интервью валерия Полетаева
 alias: pressa-podmostki-peterburga-poletaev
 ---
 
-**"ТВОРЧЕСКАЯ ЛИЧНОСТЬ… "**
+## "ТВОРЧЕСКАЯ ЛИЧНОСТЬ… "
 
-**Сразу по окончанию первого в сезоне спектакля <a href="72-trigorin.html">"Записные книжки Тригорина"</a>, мы встретились с актёром <a href="82-valerii-poletaev.html">Валерием Полетаевым</a>, чтобы задать ему несколько вопросов о спектакле и его роли.**
+**Сразу по окончанию первого в сезоне спектакля ["Записные книжки Тригорина"](72-trigorin.html), мы встретились с актёром [Валерием Полетаевым](82-valerii-poletaev.html), чтобы задать ему несколько вопросов о спектакле и его роли.**
 
 <figure>
 ![](/images/stories/random/poletaev.jpg)
@@ -32,5 +32,5 @@ alias: pressa-podmostki-peterburga-poletaev
 
 Театральный видеожурнал "Подмостки в Петербурге" / 13.10.2012г.
 
-<a href="http://theatre.inspb.ru/Interviews_with_the_actors/275.html">Ссылка на статью (видео)</a>
+[Ссылка на статью (видео)](http://theatre.inspb.ru/Interviews_with_the_actors/275.html)
 

@@ -5,7 +5,7 @@ alias: v-paris
 modified: 2014-03-06 12:31:49
 ---
 
-**А.П.Чехов**
+## А.П.Чехов
 
 **«В ПАРИЖ!»**
 
@@ -17,7 +17,7 @@ modified: 2014-03-06 12:31:49
 
 Режиссер-постановщик - заслуженный деятель искусств России
 
-<a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+[Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Хореограф – постановщик – Ирина ШАРОНОВА
 
@@ -37,33 +37,33 @@ modified: 2014-03-06 12:31:49
 
 В спектакле заняты:
 
-Пётр Пересолин - Заслуженный артист России <a href="27--gennadij-spiridenkov-za-rf.html">Геннадий СПИРИДЕНКОВ</a>
+Пётр Пересолин - Заслуженный артист России [Геннадий СПИРИДЕНКОВ](27--gennadij-spiridenkov-za-rf.html)
 
-Маша - Заслуженная артистка России <a href="25-mewaninova-nina.html">Нина МЕЩАНИНОВА</a> / <a href="89-olga-yakovleva.html">Ольга ЯКОВЛЕВА</a>
+Маша - Заслуженная артистка России [Нина МЕЩАНИНОВА](25-mewaninova-nina.html) / [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html)
 
-Мария Денисовна - <a href="65-larisa-klimova.html">Лариса КЛИМОВА</a>
+Мария Денисовна - [Лариса КЛИМОВА](65-larisa-klimova.html)
 
-Первая сваха - <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a>
+Первая сваха - [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html)
 
-Вторая сваха, Лукинична - <a href="62-irina-mityshkina.html">Ирина МИТЮШКИНА</a>
+Вторая сваха, Лукинична - [Ирина МИТЮШКИНА](62-irina-mityshkina.html)
 
-Лёля - <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a> / <a href="85-oksana-surnina.html">Оксана СУРНИНА</a>
+Лёля - [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Грязнов, чиновник - <a href="22-afendulov-semen.html">Семен АФЕНДУЛОВ</a>
+Грязнов, чиновник - [Семен АФЕНДУЛОВ](22-afendulov-semen.html)
 
-Лампадкин, чиновник - <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ</a>
+Лампадкин, чиновник - [Сергей БЛЕДНЫХ](24-blednyh-sergej.html)
 
-Дездемонов, чиновник - <a href="51-stas-voronetski.html">Станислав ВОРОНЕЦКИЙ</a>
+Дездемонов, чиновник - [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html)
 
-Соусов, чиновник - <a href="55-anatolii-ilchenko.html">Анатолий ИЛЬЧЕНКО</a>
+Соусов, чиновник - [Анатолий ИЛЬЧЕНКО](55-anatolii-ilchenko.html)
 
-Стручков, чиновник -<a href="53-aleksei-ispolatov.html"> Алексей ИСПОЛАТОВ</a>
+Стручков, чиновник -[ Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
-Брындин, чиновник - <a href="52-sergei-nikolaev.html">Сергей НИКОЛАЕВ</a>
+Брындин, чиновник - [Сергей НИКОЛАЕВ](52-sergei-nikolaev.html)
 
-Брюнет, гордый человек - <a href="57-maxsim-sergeev.html">Максим СЕРГЕЕВ</a>
+Брюнет, гордый человек - [Максим СЕРГЕЕВ](57-maxsim-sergeev.html)
 
-Миша Бобов, поэт - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
+Миша Бобов, поэт - [Илья БЕЗРУК](83-bezryk-ilya.html)
 
 <figure>
 ![](/images/stories/parij.jpg)

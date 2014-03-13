@@ -11,13 +11,13 @@ modified: 2013-12-06 19:32:03
 
 **Средневековые фарсы**
 
-Режиссёр-постановщик - <a href="53-aleksei-ispolatov.html">Алексей ИСПОЛАТОВ</a>
+Режиссёр-постановщик - [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
 В спектакле заняты:
 
-<a href="78-ylia-burceva.html">Юлия БУРЦЕВА</a>
+[Юлия БУРЦЕВА](78-ylia-burceva.html)
 
-<a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a>
+[Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html)
 
 Елизавета ЧЕРНОВА
 

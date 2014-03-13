@@ -5,7 +5,7 @@ alias: chernovaelizaveta
 modified: 2013-12-15 23:07:54
 ---
 
-**ЕЛИЗАВЕТА ЧЕРНОВА**
+## ЕЛИЗАВЕТА ЧЕРНОВА
 
 <figure>
 ![](/images/stories/random/liza chernova.jpg)
@@ -17,13 +17,13 @@ modified: 2013-12-15 23:07:54
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Бейлке
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Бейлке
 
-<a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега - роль Селья
+[«Дурочка»](44-dyrochka.html) Лопе де Вега - роль Селья
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь,или истории кота Филофея»</a> В. Зимин – роль Офелия
+[«Брысь,или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В. Зимин – роль Офелия
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак» </a>Э.Ростан - роль Монашка
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html)Э.Ростан - роль Монашка
 
-<a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Эви Саксон
+[«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова - роль Эви Саксон
 

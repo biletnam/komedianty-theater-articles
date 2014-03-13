@@ -5,7 +5,7 @@ alias: volki-i-ovci
 modified: 2013-11-05 10:55:41
 ---
 
-**А.Н. Островский**
+## А.Н. Островский
 
 **«ВОЛКИ И ОВЦЫ»**
 
@@ -13,7 +13,7 @@ modified: 2013-11-05 10:55:41
 
 Режиссер-постановщик – заслуженный деятель искусств России
 
-<a href="153-mihail-levshin.html">Михаил ЛЕВШИН </a>
+[Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Сценография – народный художник России Март КИТАЕВ
 
@@ -25,29 +25,29 @@ modified: 2013-11-05 10:55:41
 
 Пресса о спектакле "Волки и овцы":
 
-<a href="269-pressa-vjlki-i-ovci.html">"Живая классика на маленькой сцене" о спектакле "Волки и овцы" А.Островский (издание "BlogSlov")(автор:Мария Кингисепп)</a>
+["Живая классика на маленькой сцене" о спектакле "Волки и овцы" А.Островский (издание "BlogSlov")(автор:Мария Кингисепп)](269-pressa-vjlki-i-ovci.html)
 
 В спектакле заняты:
 
 Мурзавецкая - Светлана СУХАНОВА
 
-Беркутов - <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ </a>
+Беркутов - [Сергей БЛЕДНЫХ](24-blednyh-sergej.html)
 
-Купавина - <a href="85-oksana-surnina.html">Оксана СУРНИНА </a>
+Купавина - [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Мурзавецкий - <a href="50-roman-pritula.html">Роман ПРИТУЛА</a>
+Мурзавецкий - [Роман ПРИТУЛА](50-roman-pritula.html)
 
-Глафира - <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА </a>
+Глафира - [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html)
 
-Анфуса Тихоновна - <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА </a>
+Анфуса Тихоновна - [Екатерина БЕЛОВА](23-belova-ekaterina.html)
 
-Горецкий - <a href="22-afendulov-semen.html">Семен АФЕНДУЛОВ </a>
+Горецкий - [Семен АФЕНДУЛОВ](22-afendulov-semen.html)
 
-Лыняев - <a href="281-kirilldateshidze.html">Кирилл ДАТЕШИДЗЕ</a>
+Лыняев - [Кирилл ДАТЕШИДЗЕ](281-kirilldateshidze.html)
 
-Чугунов - <a href="53-aleksei-ispolatov.html">Алексей ИСПОЛАТОВ</a>
+Чугунов - [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
-Павлин - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
+Павлин - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
 
 <figure>
 ![](/images/stories/volki.jpg)

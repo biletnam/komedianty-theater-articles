@@ -5,7 +5,7 @@ alias: bezryk-ilya
 modified: 2013-10-20 23:49:31
 ---
 
-**ИЛЬЯ БЕЗРУК**
+## ИЛЬЯ БЕЗРУК
 
 <figure>
 ![](/images/stories/random/bezryk.jpg)
@@ -17,25 +17,25 @@ modified: 2013-10-20 23:49:31
 
 Занят в спектаклях:
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Ступак
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Ступак
 
-<a href="147-karlson.html">«Карлсон»</a> А.Линдгрен - роль Папа
+[«Карлсон»](147-karlson.html) А.Линдгрен - роль Папа
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Трактирщик
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Трактирщик
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Гвардеец
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Гвардеец
 
-<a href="44-dyrochka.html">«Дурочка» </a>Лопе де Вега - роль Фенисо
+[«Дурочка»](44-dyrochka.html)Лопе де Вега - роль Фенисо
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Француз
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Француз
 
-<a href="90-ychilka.html">«Училка из будущего»</a> В.Ольшанский - роль Наладчик
+[«Училка из будущего»](90-ychilka.html) В.Ольшанский - роль Наладчик
 
-<a href="41-v-paris.html">«В Париж!» </a>А.П.Чехов - роль Миша Бобов<a href="75-volshebnie-sosulki.html"></a>
+[«В Париж!»](41-v-paris.html)А.П.Чехов - роль Миша Бобов<a href="75-volshebnie-sosulki.html"></a>
 
-<a href="75-volshebnie-sosulki.html">«Волшебные сосульки» </a>М. Мокиенко - роль Дед Мороз
+[«Волшебные сосульки»](75-volshebnie-sosulki.html)М. Мокиенко - роль Дед Мороз
 
-<a href="45-exala-derevna-mimo-mushika.html">«Ехала деревня мимо мужика»</a> А.Исполатов - скоморох
+[«Ехала деревня мимо мужика»](45-exala-derevna-mimo-mushika.html) А.Исполатов - скоморох
 
-<a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роли Хуберт, Мельдер
+[«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова - роли Хуберт, Мельдер
 

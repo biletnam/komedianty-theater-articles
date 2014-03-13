@@ -5,7 +5,7 @@ alias: -gennadij-spiridenkov-za-rf
 modified: 2013-02-02 14:56:10
 ---
 
-**ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ**
+## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ
 
 <figure>
 ![](/images/stories/random/spiridenkov.jpg)
@@ -17,15 +17,15 @@ modified: 2013-02-02 14:56:10
 
 Занят в спектаклях:
 
-<a href="91-les.html">«ЛЕС»</a> А.Островский - роль Восьмибратов
+[«ЛЕС»](91-les.html) А.Островский - роль Восьмибратов
 
-<a href="41-v-paris.html">«В Париж!»</a> А.П.Чехов - роль Петр Федорыч Пересолин
+[«В Париж!»](41-v-paris.html) А.П.Чехов - роль Петр Федорыч Пересолин
 
-<a href="69-genitba.html">«Женитьба» </a>Н.В.Гоголь - роль Яичница
+[«Женитьба»](69-genitba.html)Н.В.Гоголь - роль Яичница
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв
+[«Дачницы»](43-dachnici.html) В.Карасёв
 
-<a href="147-karlson.html">«Карлсон»</a> А.Линдгрен - роль Фрекен Бок
+[«Карлсон»](147-karlson.html) А.Линдгрен - роль Фрекен Бок
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6427/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

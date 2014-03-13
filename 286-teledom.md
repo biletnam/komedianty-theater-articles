@@ -13,7 +13,7 @@ modified: 2013-10-30 10:14:48
 
 Михаил Левшин в гостях у "Теледома"
 
-<a href="http://journal.komedianty.com/novyy-sezon-na-telekanale-teledom/">http://journal.komedianty.com/novyy-sezon-na-telekana..</a>
+[http://journal.komedianty.com/novyy-sezon-na-telekana..](http://journal.komedianty.com/novyy-sezon-na-telekanale-teledom/)
 
 1.10.2013
 

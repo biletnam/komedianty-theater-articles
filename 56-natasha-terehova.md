@@ -5,7 +5,7 @@ alias: natasha-terehova
 modified: 2013-10-20 23:52:33
 ---
 
-**НАТАЛЬЯ ТЕРЕХОВА**
+## НАТАЛЬЯ ТЕРЕХОВА
 
 <figure>
 ![](/images/stories/terehova%20natasha.jpg)
@@ -17,23 +17,23 @@ modified: 2013-10-20 23:52:33
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Годл
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Годл
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Внучка
+[«Дачницы»](43-dachnici.html) В.Карасёв - роль Внучка
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь!или истории кота Филофея»</a> В.Зимин - роль Офелия
+[«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В.Зимин - роль Офелия
 
-<a href="41-v-paris.html">«В Париж!»</a> А.П.Чехов - роль Лёля
+[«В Париж!»](41-v-paris.html) А.П.Чехов - роль Лёля
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Машенька
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Машенька
 
-<a href="75-volshebnie-sosulki.html">«Волшебные сосульки»</a> М.Мокиенко - роль Настенька
+[«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко - роль Настенька
 
-<a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Белла Константиновна
+[«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова - роль Белла Константиновна
 
 Пресса:
 
-<a href="114-tereh.html">Интервью актрисы театра "Комедианты" Натальи Тереховой телеканалу "Россия 1"(автор: Дарья Майорова)</a>
+[Интервью актрисы театра "Комедианты" Натальи Тереховой телеканалу "Россия 1"(автор: Дарья Майорова)](114-tereh.html)
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/4275/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

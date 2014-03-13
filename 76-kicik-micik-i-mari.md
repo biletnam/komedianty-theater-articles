@@ -5,13 +5,13 @@ alias: kicik-micik-i-mari
 modified: 2013-12-12 23:20:12
 ---
 
-**Ефим Чеповецкий**
+## Ефим Чеповецкий
 
 **«КЫЦИК, МЫЦИК И ТЁТУШКА МАРИ» 0+**
 
 Сказка для детей в одном действии.
 
-Режиссёр - постановщик: <a href="53-aleksei-ispolatov.html">Алексей ИСПОЛАТОВ</a>
+Режиссёр - постановщик: [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
 Композитор: Андрей АНДЕРСЕН
 
@@ -25,11 +25,11 @@ modified: 2013-12-12 23:20:12
 
 В спектакле заняты :
 
-Мыцик - <a href="79-anna-zagrebna.html">Анна ЗАГРЕБНА </a><a href="79-anna-zagrebna.html">/</a><a href="86-alena-kiverskaia.html"> Алёна АЗАРОВА</a>
+Мыцик - [Анна ЗАГРЕБНА](79-anna-zagrebna.html)[/](79-anna-zagrebna.html)[ Алёна АЗАРОВА](86-alena-kiverskaia.html)
 
-Кыцик - <a href="50-roman-pritula.html"></a><a href="88-roman-yakushov.html">Роман ЯКУШОВ</a>
+Кыцик - [</a><a href="88-roman-yakushov.html">Роман ЯКУШОВ](50-roman-pritula.html)
 
-Тётушка Мари - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a> / Симона СТРОГАНОВА<a href="84-simona-stroganova.html"></a><a href="84-simona-stroganova.html"></a>
+Тётушка Мари - [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / Симона СТРОГАНОВА[</a><a href="84-simona-stroganova.html">](84-simona-stroganova.html)
 
 <figure>
 ![](/images/stories/mari.jpg)

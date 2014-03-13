@@ -5,15 +5,15 @@ alias: premiera-zemlyki-shukshin
 modified: 2014-02-07 15:53:21
 ---
 
-**27 и 29 марта - ПРЕМЬЕРА!!!**
+## 27 и 29 марта - ПРЕМЬЕРА!!!
 
-<a href="283-zemlyaki.html">**«ЗЕМЛЯКИ»**</a>
+[**«ЗЕМЛЯКИ»**](283-zemlyaki.html)
 
 лирическая комедия
 
 по рассказам Василия Шукшина
 
-Режиссёр-постановщик - з.д.и. России <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Режиссёр-постановщик - з.д.и. России [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Художник-постановщик - Мария Смирнова-Несвицкая
 
@@ -37,7 +37,7 @@ modified: 2014-02-07 15:53:21
 
 В спектакле используются песни советской эстрады.
 
-В ролях: <a href="27--gennadij-spiridenkov-za-rf.html">Заслуженный артист России Геннадий Спириденков</a>, <a href="86-alena-azarova.html">Алена Азарова</a>, <a href="23-belova-ekaterina.html">Екатерина Белова</a>, <a href="80-tatiana-kogevnikova.html">Татьяна Кожевникова</a>, <a href="62-irina-mityshkina.html">Ирина Митюшкина</a>, <a href="64-asia-pigel-sergeevna.html">Анастасия Пижель</a>, <a href="48-chernovaelizaveta.html">Елизавета Чернова</a>, <a href="89-olga-yakovleva.html">Ольга Яковлева</a>, <a href="83-bezryk-ilya.html">Илья Безрук</a>, <a href="24-blednyh-sergej.html">Сергей Бледных</a>, Александр Гончарук, <a href="55-anatolii-ilchenko.html">Анатолий Ильченко</a>, <a href="66-vitalii-kravchenko.html">Виталий Кравченко</a>, Виталий Такс, <a href="50-roman-pritula.html">Роман Притула</a>, <a href="84-talashmanovevgenii.html">Евгений Талашманов</a> , Юрий Агейкин.
+В ролях: [Заслуженный артист России Геннадий Спириденков](27--gennadij-spiridenkov-za-rf.html), [Алена Азарова](86-alena-azarova.html), [Екатерина Белова](23-belova-ekaterina.html), [Татьяна Кожевникова](80-tatiana-kogevnikova.html), [Ирина Митюшкина](62-irina-mityshkina.html), [Анастасия Пижель](64-asia-pigel-sergeevna.html), [Елизавета Чернова](48-chernovaelizaveta.html), [Ольга Яковлева](89-olga-yakovleva.html), [Илья Безрук](83-bezryk-ilya.html), [Сергей Бледных](24-blednyh-sergej.html), Александр Гончарук, [Анатолий Ильченко](55-anatolii-ilchenko.html), [Виталий Кравченко](66-vitalii-kravchenko.html), Виталий Такс, [Роман Притула](50-roman-pritula.html), [Евгений Талашманов](84-talashmanovevgenii.html) , Юрий Агейкин.
 
 <figure>
 ![](/images/stories/news/zemlyki-foto.jpg)

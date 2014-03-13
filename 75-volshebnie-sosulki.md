@@ -5,7 +5,7 @@ alias: volshebnie-sosulki
 modified: 2013-03-15 08:11:16
 ---
 
-**Михаил Мокиенко**
+## Михаил Мокиенко
 
 **«ВОЛШЕБНЫЕ СОСУЛЬКИ» 0+**
 
@@ -23,15 +23,15 @@ modified: 2013-03-15 08:11:16
 
 В спектакле заняты:
 
-Дед Мороз - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a> / <a href="83-bezryk-ilya.html">Илья БЕЗРУК </a>
+Дед Мороз - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html) / [Илья БЕЗРУК](83-bezryk-ilya.html)
 
-Настенька - <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a> / <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА</a> / <a href="86-alena-kiverskaia.html">Алёна КИВЕРСКАЯ</a>
+Настенька - [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html) / [Алёна КИВЕРСКАЯ](86-alena-kiverskaia.html)
 
-Параша Тарасовна - <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a>
+Параша Тарасовна - [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html)
 
-Груня - <a href="78-ylia-burceva.html">Юлия БУРЦЕВА</a> / <a href="64-asia-pigel-sergeevna.html">Анастасия ПИЖЕЛЬ</a> / <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a>
+Груня - [Юлия БУРЦЕВА](78-ylia-burceva.html) / [Анастасия ПИЖЕЛЬ](64-asia-pigel-sergeevna.html) / [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html)
 
-Жадюкин - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a>
+Жадюкин - [Семён АФЕНДУЛОВ](22-afendulov-semen.html)
 
 <figure>
 ![](/images/stories/sosylki%20ss.jpg)

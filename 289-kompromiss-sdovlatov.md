@@ -5,13 +5,13 @@ alias: kompromiss-sdovlatov
 modified: 2013-10-30 10:22:26
 ---
 
-**19 и 20 октября 2013 года**
+## 19 и 20 октября 2013 года
 
 **ПРЕМЬЕРА!!!**
 
 С. Д. Довлатов
 
-<a href="282-kompromiss-sdovlatov.html">**«КОМПРОМИСС»**</a>
+[**«КОМПРОМИСС»**](282-kompromiss-sdovlatov.html)
 
 16+
 
@@ -33,7 +33,7 @@ modified: 2013-10-30 10:22:26
 
 Эскиз к спектаклю стал лауреатом фестиваля-лаборатории ON.ТЕАТР 2012 г. в двух номинациях "Лучший режиссер" - Глеб Володин и "Лучшая мужская роль" – з.а. России Евгений Баранов.
 
-В спектакле заняты: з.а. России Евгений Баранов, <a href="86-alena-azarova.html">Алена Азарова</a>, <a href="78-ylia-burceva.html">Юлия Бурцева</a>, <a href="49-ylia-gorshenina.html">Юлия Горшенина</a>, <a href="63-lyda-nikitina.html">Людмила Никитина</a>, <a href="48-chernovaelizaveta.html">Елизавета Чернова</a>, <a href="83-bezryk-ilya.html">Илья Безрук</a>, Андрей Вергелис, <a href="51-stas-voronetski.html">Станислав Воронецкий</a>, <a href="53-aleksei-ispolatov.html">Алексей Исполатов</a>, <a href="52-sergei-nikolaev.html">Сергей Николаев</a>, <a href="57-maxsim-sergeev.html">Максим Сергеев</a>, Сергей Суржин.
+В спектакле заняты: з.а. России Евгений Баранов, [Алена Азарова](86-alena-azarova.html), [Юлия Бурцева](78-ylia-burceva.html), [Юлия Горшенина](49-ylia-gorshenina.html), [Людмила Никитина](63-lyda-nikitina.html), [Елизавета Чернова](48-chernovaelizaveta.html), [Илья Безрук](83-bezryk-ilya.html), Андрей Вергелис, [Станислав Воронецкий](51-stas-voronetski.html), [Алексей Исполатов](53-aleksei-ispolatov.html), [Сергей Николаев](52-sergei-nikolaev.html), [Максим Сергеев](57-maxsim-sergeev.html), Сергей Суржин.
 
 Спектакль идет 3 часа с одним антрактом
 

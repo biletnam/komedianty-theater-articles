@@ -5,7 +5,7 @@ alias: karlos-germani-tyr-2013
 modified: 2013-12-13 22:14:47
 ---
 
-<figure>{youtube:www.youtube.com/watch?v=bgXxfiqpJM8&amp;feature=related 480 353}</figure>
+<figure>{youtube:www.youtube.com/watch?v=bgXxfiqpJM8&feature=related 480 353}</figure>
 
 13.02.2014 - Ессен
 

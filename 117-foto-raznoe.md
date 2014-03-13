@@ -5,7 +5,7 @@ alias: foto-raznoe
 modified: 2013-11-28 20:25:38
 ---
 
-**РАЗНЫЕ ФОТО**
+## РАЗНЫЕ ФОТО
 
 <figure>
 ![](/images/stories/random/sto k odnomy2222.jpg)

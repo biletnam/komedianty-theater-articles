@@ -5,7 +5,7 @@ alias: interviy-les-aksinia-i-petr
 modified: 2013-01-22 16:32:40
 ---
 
-**ПЁТР и АКСИНЬЯ**
+## ПЁТР и АКСИНЬЯ
 
 **
 
@@ -85,5 +85,5 @@ modified: 2013-01-22 16:32:40
 
 Театральный видеожурнал "Подмостки в Петербурге" / 6 января 2013 г.
 
-<a href="http://theatre.inspb.ru/Interviews_with_the_actors/292.html">ссылка на статью (видео)</a>
+[ссылка на статью (видео)](http://theatre.inspb.ru/Interviews_with_the_actors/292.html)
 

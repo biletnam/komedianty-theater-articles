@@ -5,7 +5,7 @@ alias: fillipp-azarov
 modified: 2012-12-08 21:57:00
 ---
 
-**ФИЛИПП АЗАРОВ**
+## ФИЛИПП АЗАРОВ
 
 <figure>
 ![](/images/stories/azarov%20filll.jpg)
@@ -17,11 +17,11 @@ modified: 2012-12-08 21:57:00
 
 Занят в спектаклях:
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Камаев
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Камаев
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Кристиан
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Кристиан
 
-<a href="46-mumu.html">«Крепостная любовь» (МуМу)</a> И.Тургенев - роль Герасим
+[«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль Герасим
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/16218/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

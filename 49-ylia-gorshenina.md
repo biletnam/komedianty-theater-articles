@@ -5,7 +5,7 @@ alias: ylia-gorshenina
 modified: 2013-10-20 23:51:52
 ---
 
-**ЮЛИЯ ГОРШЕНИНА**
+## ЮЛИЯ ГОРШЕНИНА
 
 <figure>
 ![](/images/stories/gorshenina%20yyy.jpg)
@@ -17,21 +17,21 @@ modified: 2013-10-20 23:51:52
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Цейтл
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Цейтл
 
-<a href="76-kicik-micik-i-mari.html">«Кыцик,Мыцик и тётушка Мари»</a> Е.Чеповецкий – роль тётушка Мари
+[«Кыцик,Мыцик и тётушка Мари»](76-kicik-micik-i-mari.html) Е.Чеповецкий – роль тётушка Мари
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Марина
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Марина
 
-<a href="70-vor.html">«Не всякий вор - грабитель»</a> Дарио Фо - роль Анна
+[«Не всякий вор - грабитель»](70-vor.html) Дарио Фо - роль Анна
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь!или истории кота Филофея»</a> В.Зимин – роль Офелия
+[«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В.Зимин – роль Офелия
 
-<a href="75-volshebnie-sosulki.html">«Волшебные сосульки»</a> М.Мокиенко – роль Грушенька
+[«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко – роль Грушенька
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Машенька
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Машенька
 
-<a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Белла Константиновна
+[«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова - роль Белла Константиновна
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/1072/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

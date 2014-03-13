@@ -5,9 +5,9 @@ alias: premiera-zemlyki-shukshin-pikalovo-1
 modified: 2014-03-07 22:12:33
 ---
 
-<h1>ПРЕМЬЕРА В ЛЕНИНГРАДСКОЙ ОБЛАСТИ! </h1>
+# ПРЕМЬЕРА В ЛЕНИНГРАДСКОЙ ОБЛАСТИ!
 
-<h1>"ЗЕМЛЯКИ" </h1>
+## "ЗЕМЛЯКИ"
 
 <figure>
 ![](/images/stories/foto_pressa/pressa-zemlyaki.jpg)
@@ -33,7 +33,7 @@ modified: 2014-03-07 22:12:33
 
 Газета "ВЕСТИ" / 07.03.2014 / автор: Б.Шарова
 
-<a href="http://www.vesty.spb.ru/apps/novosti/2014/03/07/premera-v-leningradskoj-oblasti/">Ссылка на статью</a>
+[Ссылка на статью](http://www.vesty.spb.ru/apps/novosti/2014/03/07/premera-v-leningradskoj-oblasti/)
 
 <figure>
 ![](/images/stories/random/sait%2044logo%20logo.jpg)

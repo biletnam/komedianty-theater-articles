@@ -5,7 +5,7 @@ alias: oksana-surnina
 modified: 2012-04-21 19:31:40
 ---
 
-**ОКСАНА СУРНИНА**
+## ОКСАНА СУРНИНА
 
 <figure>
 ![](/images/stories/oksana.jpg)
@@ -17,17 +17,17 @@ modified: 2012-04-21 19:31:40
 
 Занята в спектаклях:
 
-<a href="42-volki-i-ovci.html">«Волки и овцы» </a>А.Островский - роль Евлампия Николаевна Купавина
+[«Волки и овцы»](42-volki-i-ovci.html)А.Островский - роль Евлампия Николаевна Купавина
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Катенька
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Катенька
 
-<a href="41-v-paris.html">«В Париж!»</a> А.П.Чехов - роль Лёля
+[«В Париж!»](41-v-paris.html) А.П.Чехов - роль Лёля
 
-<a href="74-kot-v-sapogah.html">«Кот в сапогах»</a> Г. Сапгир - роль Принцесса
+[«Кот в сапогах»](74-kot-v-sapogah.html) Г. Сапгир - роль Принцесса
 
-<a href="147-karlson.html">«Карлсон»</a> А.Линдгрен - роль Мама
+[«Карлсон»](147-karlson.html) А.Линдгрен - роль Мама
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Внучка
+[«Дачницы»](43-dachnici.html) В.Карасёв - роль Внучка
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/17756/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

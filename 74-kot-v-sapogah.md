@@ -5,13 +5,13 @@ alias: kot-v-sapogah
 modified: 2014-02-05 20:28:11
 ---
 
-**Г. Сапгир, С. Прокофьева**
+## Г. Сапгир, С. Прокофьева
 
 **«КОТ В САПОГАХ» 0+**
 
 Сказка
 
-Режиссёр: заслуженный деятель искусств России <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Режиссёр: заслуженный деятель искусств России [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Композитор: Андрей АНДЕРСЕН
 
@@ -25,15 +25,15 @@ modified: 2014-02-05 20:28:11
 
 В спектакле заняты:
 
-Кот в сапогах - <a href="51-stas-voronetski.html">Станислав ВОРОНЕЦКИЙ</a>
+Кот в сапогах - [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html)
 
-недоПринцесса - <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА</a> / <a href="85-oksana-surnina.html">Оксана СУРНИНА </a>
+недоПринцесса - [Екатерина БЕЛОВА](23-belova-ekaterina.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Людоед - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a> / <a href="88-roman-yakushov.html">Роман ЯКУШОВ</a>
+Людоед - [Семён АФЕНДУЛОВ](22-afendulov-semen.html) / [Роман ЯКУШОВ](88-roman-yakushov.html)
 
-Король - <a href="53-aleksei-ispolatov.html">Алексей ИСПОЛАТОВ</a>
+Король - [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 
-Жак-Простак - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
+Жак-Простак - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
 
 <figure>
 ![](/images/stories/random/kot v sapogah.jpg)

@@ -5,7 +5,7 @@ alias: vitalii-kravchenko
 modified: 2013-07-13 16:18:42
 ---
 
-**ВИТАЛИЙ КРАВЧЕНКО**
+## ВИТАЛИЙ КРАВЧЕНКО
 
 <figure>
 ![](/images/stories/random/kravchenko vvv.jpg)
@@ -17,25 +17,25 @@ modified: 2013-07-13 16:18:42
 
 Занят в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Урядник
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Урядник
 
-<a href="91-les.html">«ЛЕС»</a> А.Островский - роль Пётр
+[«ЛЕС»](91-les.html) А.Островский - роль Пётр
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Гвардеец
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Гвардеец
 
-<a href="42-volki-i-ovci.html">«Волки и овцы»</a> А.Островский - роль Павлин
+[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Павлин
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты» </a>А.Вампилов - роль Хамутов
+[«Провинциальные анекдоты»](71-anekdoti.html)А.Вампилов - роль Хамутов
 
-<a href="46-mumu.html">«Крепостная любовь» (МуМу)</a> И.Тургенев - роль сторож Степан
+[«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль сторож Степан
 
-<a href="45-exala-derevna-mimo-mushika.html">«Ехала деревня мимо мужика»</a> А.Исполатов - роль Скоморох
+[«Ехала деревня мимо мужика»](45-exala-derevna-mimo-mushika.html) А.Исполатов - роль Скоморох
 
-<a href="69-genitba.html">«Женитьба»</a> Н.В.Гоголь - роль Купец
+[«Женитьба»](69-genitba.html) Н.В.Гоголь - роль Купец
 
-<a href="74-kot-v-sapogah.html">«Кот в сапогах»</a> Г.Сапгир - роль Жак-простак
+[«Кот в сапогах»](74-kot-v-sapogah.html) Г.Сапгир - роль Жак-простак
 
-<a href="75-volshebnie-sosulki.html">«Волшебные сосульки»</a> М.Мокиенко - роль Дед Мороз
+[«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко - роль Дед Мороз
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

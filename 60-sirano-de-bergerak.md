@@ -5,13 +5,13 @@ alias: sirano-de-bergerak
 modified: 2013-12-15 23:34:55
 ---
 
-**Эдмон Ростан**
+## Эдмон Ростан
 
 **«СИРАНО ДЕ БЕРЖЕРАК» 16+**
 
 Героическая комедия в 2-х действиях.
 
-Режиссёр: Заслуженный деятель искусств РФ <a href="153-mihail-levshin.html">Михаил ЛЕВШИН </a>
+Режиссёр: Заслуженный деятель искусств РФ [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Сценограф: А. ОРЛОВ
 
@@ -33,33 +33,33 @@ modified: 2013-12-15 23:34:55
 
 В спектакле заняты:
 
-Сирано де Бержерак - <a href="302-andrey-shimko.html">Андрей ШИМКО</a>
+Сирано де Бержерак - [Андрей ШИМКО](302-andrey-shimko.html)
 
-Роксана - <a href="78-ylia-burceva.html">Юлия БУРЦЕВА</a> / <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА</a> / <a href="79-anna-zagrebna.html">Анна ЗАГРЕБНА</a>
+Роксана - [Юлия БУРЦЕВА](78-ylia-burceva.html) / [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html)
 
-Кристиан - <a href="21-fillipp-azarov.html">Филипп АЗАРОВ</a>
+Кристиан - [Филипп АЗАРОВ](21-fillipp-azarov.html)
 
-Ле-Бре - <a href="55-anatolii-ilchenko.html">Анатолий ИЛЬЧЕНКО </a>
+Ле-Бре - [Анатолий ИЛЬЧЕНКО](55-anatolii-ilchenko.html)
 
-Монашка - <a href="48-chernovaelizaveta.html">Елизавета ЧЕРНОВА</a>
+Монашка - [Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
 
-Монашка - <a href="86-alena-kiverskaia.html">Алёна АЗАРОВА</a>
+Монашка - [Алёна АЗАРОВА](86-alena-kiverskaia.html)
 
-Монашка - <a href="301-mariaosipova.html">Мария ОСИПОВА</a>
+Монашка - [Мария ОСИПОВА](301-mariaosipova.html)
 
-Гвардеец - <a href="50-roman-pritula.html">Роман ПРИТУЛА</a>
+Гвардеец - [Роман ПРИТУЛА](50-roman-pritula.html)
 
-Гвардеец - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО </a>
+Гвардеец - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
 
-Гвардеец - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
+Гвардеец - [Илья БЕЗРУК](83-bezryk-ilya.html)
 
-Вальвер - Сергей СУРЖИН / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a><a href="67-leonid-zabkin.html"> </a>
+Вальвер - Сергей СУРЖИН / [Леонид ЗЯБКИН](67-leonid-zabkin.html)[](67-leonid-zabkin.html)
 
-Рагно - <a href="284-2013-09-08-18-38-31.html">Павел ИВАНОВСКИЙ</a>
+Рагно - [Павел ИВАНОВСКИЙ](284-2013-09-08-18-38-31.html)
 
-Де-Гиш - <a href="77-ilgiz-bulgakov.html">Ильгиз БУЛГАКОВ</a>
+Де-Гиш - [Ильгиз БУЛГАКОВ](77-ilgiz-bulgakov.html)
 
-Дуэнья - <a href="62-irina-mityshkina.html">Ирина МИТЮШКИНА </a>
+Дуэнья - [Ирина МИТЮШКИНА](62-irina-mityshkina.html)
 
 <figure>
 ![](/images/stories/random/sirano foto.jpg)

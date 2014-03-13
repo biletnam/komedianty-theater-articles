@@ -5,13 +5,13 @@ alias: vor
 modified: 2013-12-03 09:58:02
 ---
 
-**Дарио Фо**
+## Дарио Фо
 
 **«НЕ ВСЯКИЙ ВОР – ГРАБИТЕЛЬ» 16+**
 
 Фарс
 
-Режиссёр: Заслуженный деятель искусств России <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Режиссёр: Заслуженный деятель искусств России [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Сценография и костюмы: Ф.ВОЛОСЕНКОВА
 
@@ -23,17 +23,17 @@ modified: 2013-12-03 09:58:02
 
 В спектакле заняты :
 
-Анна - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a>
+Анна - [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html)
 
-Любовница Францози - <a href="65-larisa-klimova.html">Лариса КЛИМОВА</a>
+Любовница Францози - [Лариса КЛИМОВА](65-larisa-klimova.html)
 
-Мария Торнати - <a href="64-asia-pigel-sergeevna.html">Анастасия ПИЖЕЛЬ</a>
+Мария Торнати - [Анастасия ПИЖЕЛЬ](64-asia-pigel-sergeevna.html)
 
-Францози - <a href="57-maxsim-sergeev.html">Максим СЕРГЕЕВ</a>
+Францози - [Максим СЕРГЕЕВ](57-maxsim-sergeev.html)
 
-Вор - <a href="52-sergei-nikolaev.html">Сергей НИКОЛАЕВ </a>
+Вор - [Сергей НИКОЛАЕВ](52-sergei-nikolaev.html)
 
-Антонио - <a href="24-blednyh-sergej.html">Сергей БЛЕДНЫХ</a> / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН </a>
+Антонио - [Сергей БЛЕДНЫХ](24-blednyh-sergej.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 
 <figure>
 ![](/images/stories/random/vor.jpg)

@@ -5,7 +5,7 @@ alias: lyda-nikitina
 modified: 2013-10-20 23:50:50
 ---
 
-**ЛЮДМИЛА НИКИТИНА**
+## ЛЮДМИЛА НИКИТИНА
 
 <figure>
 ![](/images/stories/random/nikitina luda.jpg)
@@ -25,17 +25,17 @@ modified: 2013-10-20 23:50:50
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Голда
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Голда
 
-<a href="46-mumu.html">«Крепостная любовь» (МуМу)</a> И.Тургенев - роль Кастелянша
+[«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль Кастелянша
 
-<a href="69-genitba.html">«Женитьба» </a>Н.В.Гоголь
+[«Женитьба»](69-genitba.html)Н.В.Гоголь
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь!или истории кота Филофея»</a> В.Зимин **-** роль Анфиса
+[«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В.Зимин **-** роль Анфиса
 
-<a href="90-ychilka.html">«Училка из будущего»</a> В.Ольшанский - роль Мама
+[«Училка из будущего»](90-ychilka.html) В.Ольшанский - роль Мама
 
-<a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Тина Кару
+[«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова - роль Тина Кару
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/281305/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

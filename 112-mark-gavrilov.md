@@ -5,7 +5,7 @@ alias: mark-gavrilov
 modified: 2013-07-13 00:03:46
 ---
 
-**МАРК ГАВРИЛОВ**
+## МАРК ГАВРИЛОВ
 
 <figure>
 ![](/images/stories/random/gavrilov mark.jpg)
@@ -17,11 +17,11 @@ modified: 2013-07-13 00:03:46
 
 Занят в спектаклях:
 
-<a href="73-progulka-v-ly-blio.html">"Прогулка в Лю-Блё"</a> К. Рубина - роль Альберта
+["Прогулка в Лю-Блё"](73-progulka-v-ly-blio.html) К. Рубина - роль Альберта
 
-<a href="59-strasti-po-italianski.html">"Страсти по-итальянски"</a> Э.де Филиппо - роль Антонио
+["Страсти по-итальянски"](59-strasti-po-italianski.html) Э.де Филиппо - роль Антонио
 
-<a href="97-pominalnaia-molitva.html">"Поминальная молитва"</a> Г. Горин - роль Менахема Мендла
+["Поминальная молитва"](97-pominalnaia-molitva.html) Г. Горин - роль Менахема Мендла
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

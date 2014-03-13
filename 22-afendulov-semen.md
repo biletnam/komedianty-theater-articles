@@ -5,7 +5,7 @@ alias: afendulov-semen
 modified: 2012-04-21 17:19:46
 ---
 
-**СЕМЁН АФЕНДУЛОВ**
+## СЕМЁН АФЕНДУЛОВ
 
 <figure>
 ![](/images/stories/random/afendulov 3.jpg)
@@ -19,17 +19,17 @@ modified: 2012-04-21 17:19:46
 
 Занят в спектаклях:
 
-<a href="41-v-paris.html">«В Париж!»</a> А.П.Чехов
+[«В Париж!»](41-v-paris.html) А.П.Чехов
 
-<a href="69-genitba.html">«Женитьба»</a> Н.В.Гоголь
+[«Женитьба»](69-genitba.html) Н.В.Гоголь
 
-<a href="74-kot-v-sapogah.html">«Кот в сапогах»</a> Г.Сапгир - роль Людоед
+[«Кот в сапогах»](74-kot-v-sapogah.html) Г.Сапгир - роль Людоед
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Потапов
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Потапов
 
-<a href="42-volki-i-ovci.html">«Волки и овцы»</a> А.Островский - роль Горецкий
+[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Горецкий
 
-<a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега - роль Лисео
+[«Дурочка»](44-dyrochka.html) Лопе де Вега - роль Лисео
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6450/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

@@ -5,11 +5,11 @@ alias: foto-iz-germanii-mymy
 modified: 2012-10-14 20:35:20
 ---
 
-**Гастроли в Германию. г. Оберкохен**
+## Гастроли в Германию. г. Оберкохен
 
 **Октябрь 2012 г .**
 
-**Спектакль <a href="46-mumu.html">"МуМу"</a> (<a href="46-mumu.html">"Крепостная любовь"</a>)**
+**Спектакль ["МуМу"](46-mumu.html) (["Крепостная любовь"](46-mumu.html))**
 
 <figure>
 ![](/images/stories/random/mumu v germanii.jpg)

@@ -5,7 +5,7 @@ alias: ilgiz-bulgakov
 modified: 2011-12-09 21:22:56
 ---
 
-**ИЛЬГИЗ БУЛГАКОВ**
+## ИЛЬГИЗ БУЛГАКОВ
 
 <figure>
 ![](/images/stories/x_4a41e54f.jpg)

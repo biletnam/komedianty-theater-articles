@@ -5,13 +5,13 @@ alias: beda-ot-neghnogo-serdca
 modified: 2013-04-28 11:24:36
 ---
 
-**Владимир Соллогуб**
+## Владимир Соллогуб
 
 **«БЕДА ОТ НЕЖНОГО СЕРДЦА»**
 
 Музыкальная комедия
 
-Режиссёр: Заслуженный деятель искусств РФ<a href="153-mihail-levshin.html"> Михаил ЛЕВШИН </a>
+Режиссёр: Заслуженный деятель искусств РФ[ Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Композитор Д. УХАНЕВ
 
@@ -27,21 +27,21 @@ modified: 2013-04-28 11:24:36
 
 В спектакле заняты:
 
-Сашенька Золотников - <a href="50-roman-pritula.html">Роман ПРИТУЛА</a> / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a>
+Сашенька Золотников - [Роман ПРИТУЛА](50-roman-pritula.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 
-Катенька из Тамбова - <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА</a> / <a href="85-oksana-surnina.html">Оксана СУРНИНА</a>
+Катенька из Тамбова - [Екатерина БЕЛОВА](23-belova-ekaterina.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Машенька -<a href="49-ylia-gorshenina.html"> Юлия ГОРШЕНИНА</a> / <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a>
+Машенька -[ Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / [Наталья ТЕРЕХОВА](56-natasha-terehova.html)
 
-Настенька - <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА</a> / <a href="79-anna-zagrebna.html">Анна ЗАГРЕБНА</a> / <a href="86-alena-kiverskaia.html">Алёна АЗАРОВА</a>
+Настенька - [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html) / [Алёна АЗАРОВА](86-alena-kiverskaia.html)
 
-Бояркина - <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a> / <a href="89-olga-yakovleva.html">Ольга ЯКОВЛЕВА</a>
+Бояркина - [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html) / [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html)
 
-Кубыркина - <a href="61-galina-saburova.html">Галина САБУРОВА</a>
+Кубыркина - [Галина САБУРОВА](61-galina-saburova.html)
 
-Француз - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a> / <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
+Француз - [Семён АФЕНДУЛОВ](22-afendulov-semen.html) / [Илья БЕЗРУК](83-bezryk-ilya.html)
 
-Папенька - <a href="82-valerii-poletaev.html">Валерий ПОЛЕТАЕВ</a> / <a href="87-aleksandr-shevelov.html">Александр ШЕВЕЛЕВ</a>
+Папенька - [Валерий ПОЛЕТАЕВ](82-valerii-poletaev.html) / [Александр ШЕВЕЛЕВ](87-aleksandr-shevelov.html)
 
 <figure>
 ![](/images/stories/random/beda foto2.jpg)

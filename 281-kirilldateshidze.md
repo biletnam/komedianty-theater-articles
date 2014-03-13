@@ -5,7 +5,7 @@ alias: kirilldateshidze
 modified: 2013-07-10 19:23:50
 ---
 
-**КИРИЛЛ ДАТЕШИДЗЕ**
+## КИРИЛЛ ДАТЕШИДЗЕ
 
 <figure>
 ![](/images/stories/random/dateshidze kirill.jpg)
@@ -17,13 +17,13 @@ modified: 2013-07-10 19:23:50
 
 Занят в спектаклях:
 
-<a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега - роль Октавьо
+[«Дурочка»](44-dyrochka.html) Лопе де Вега - роль Октавьо
 
-<a href="42-volki-i-ovci.html">«Волки и овцы»</a> А.Островский - роль Лыняев
+[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Лыняев
 
-<a href="72-trigorin.html">«Записные книжки Тригорина»</a> Т.Уильямс - роль Сорин
+[«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс - роль Сорин
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Лейзер Вольф
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Лейзер Вольф
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

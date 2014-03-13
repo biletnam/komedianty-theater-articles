@@ -5,7 +5,7 @@ alias: ekaterina-kyltina
 modified: 2012-04-21 19:05:07
 ---
 
-**ЕКАТЕРИНА КУЛЬТИНА**
+## ЕКАТЕРИНА КУЛЬТИНА
 
 <figure>
 ![](/images/stories/kyltina%20kk.jpg)
@@ -17,17 +17,17 @@ modified: 2012-04-21 19:05:07
 
 Занята в спектаклях:
 
-<a href="42-volki-i-ovci.html">«Волки и овцы»</a> А.Островский - роль Глафира
+[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Глафира
 
-<a href="72-trigorin.html">«Записные книжки Тригорина»</a> Т.Уильямс - роль Нина Заречная
+[«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс - роль Нина Заречная
 
-<a href="44-dyrochka.html">«Дурочка»</a> Лопе де Вега – роль Финея
+[«Дурочка»](44-dyrochka.html) Лопе де Вега – роль Финея
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Финна (второй анекдот)
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Финна (второй анекдот)
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак»</a> Э.Ростан - роль Роксана
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Роксана
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Настенька
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Настенька
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

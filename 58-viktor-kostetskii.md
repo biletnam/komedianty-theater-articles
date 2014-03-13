@@ -5,7 +5,7 @@ alias: viktor-kostetskii
 modified: 2013-03-31 16:04:09
 ---
 
-**ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ**
+## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ
 
 <figure>
 ![](/images/stories/kostetskii%20%20vv.jpg)
@@ -17,11 +17,11 @@ modified: 2013-03-31 16:04:09
 
 Занят в спектаклях:
 
-<a href="72-trigorin.html">«Записные книжки Тригорина» </a>Т.Уильямс - роль Дорн
+[«Записные книжки Тригорина»](72-trigorin.html)Т.Уильямс - роль Дорн
 
 Пресса:
 
-<a href="271-pressa-viktor-kostetskii.html">"Умный компромисс Виктора Костецкого" (газета "Pro-сцениум" 2009г.) (автор:О.Бурлэдян)</a>
+["Умный компромисс Виктора Костецкого" (газета "Pro-сцениум" 2009г.) (автор:О.Бурлэдян)](271-pressa-viktor-kostetskii.html)
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/2176/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

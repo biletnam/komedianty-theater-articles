@@ -15,11 +15,11 @@ modified: 2013-12-15 23:16:32
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Хава
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Хава
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь,или истории кота Филофея»</a> В. Зимин – роль Киса
+[«Брысь,или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В. Зимин – роль Киса
 
-<a href="60-sirano-de-bergerak.html">«Сирано де Бержерак» </a>Э.Ростан - роль Монашка
+[«Сирано де Бержерак»](60-sirano-de-bergerak.html)Э.Ростан - роль Монашка
 
-<a href="147-karlson.html">«Карлсон»</a> А.Линдгрен - роль Мама
+[«Карлсон»](147-karlson.html) А.Линдгрен - роль Мама
 

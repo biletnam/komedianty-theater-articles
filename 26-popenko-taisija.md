@@ -5,7 +5,7 @@ alias: popenko-taisija
 modified: 2013-02-02 15:23:15
 ---
 
-**ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ**
+## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ
 
 <figure>
 ![](/images/stories/act/c863a1189b4c4e8f0dec83e69e3a9cff.jpg)
@@ -21,15 +21,15 @@ modified: 2013-02-02 15:23:15
 
 Занята в спектаклях:
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Голда
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Голда
 
-<a href="43-dachnici.html">«Дачницы» </a>В.Карасёв - роль Мама
+[«Дачницы»](43-dachnici.html)В.Карасёв - роль Мама
 
-<a href="72-trigorin.html">«Записные книжки Тригорина» </a>Т. Уильямс - роль Полина Андреевна
+[«Записные книжки Тригорина»](72-trigorin.html)Т. Уильямс - роль Полина Андреевна
 
-<a href="73-progulka-v-ly-blio.html">«Прогулке в Лю-Блё»</a> К.Рубина - роль Рута
+[«Прогулке в Лю-Блё»](73-progulka-v-ly-blio.html) К.Рубина - роль Рута
 
-<a href="40-bris-ili-istoria-kota-filifeia.html">«Брысь!или истории кота Филофея»</a> В.Зимин - роль Бабушка Шура
+[«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В.Зимин - роль Бабушка Шура
 
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/267779/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)

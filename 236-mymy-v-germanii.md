@@ -5,9 +5,7 @@ alias: mymy-v-germanii
 modified: 2012-10-10 19:44:14
 ---
 
-<h1></h1>
-
-<h1>Ergreifendes in bitterer Umgebung</h1>
+# Ergreifendes in bitterer Umgebung
 
 **Oberkochen dell Arte präsentierte „Mumu“ von Iwan Turgenjew im Oberkochener Bürgersaal**
 
@@ -57,5 +55,5 @@ Ergreifende Szenen auf der Bühne. Selbst die Darstellung des Hundes, auch wenn 
 
 Немецкое издание Schwäbische Post /07.10.2012
 
-<a href="http://www.schwaebische-post.de/635638?fb_action_ids=476122609094818&amp;fb_action_types=og.recommends&amp;fb_source=aggregation&amp;fb_aggregation_id=288381481237582">Ссылка на статью</a>
+[Ссылка на статью](http://www.schwaebische-post.de/635638?fb_action_ids=476122609094818&fb_action_types=og.recommends&fb_source=aggregation&fb_aggregation_id=288381481237582)
 

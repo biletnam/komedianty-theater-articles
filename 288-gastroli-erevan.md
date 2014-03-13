@@ -5,11 +5,11 @@ alias: gastroli-erevan
 modified: 2013-10-11 17:55:35
 ---
 
-**Гастроли в Армению. г. Ереван**
+## Гастроли в Армению. г. Ереван
 
 **Октябрь 2013 г .**
 
-**Спектакль <a href="46-mumu.html">"Крепостная любовь"</a> (<a href="46-mumu.html">"МуМу")</a>**
+**Спектакль ["Крепостная любовь"](46-mumu.html) (["МуМу")](46-mumu.html)**
 
 <figure>
 ![](/images/stories/random/erevan gastroli 2013 4.jpg)

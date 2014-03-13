@@ -5,13 +5,13 @@ alias: pominalnaia-molitva
 modified: 2014-03-06 12:30:05
 ---
 
-**Г. Горин**
+## Г. Горин
 
 **«ПОМИНАЛЬНАЯ МОЛИТВА»**
 
 Режиссёр-постановщик: Глеб ВОЛОДИН
 
-Художественный руководитель постановки: з.д.и. РФ <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Художественный руководитель постановки: з.д.и. РФ [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Композитор: Наталья ВЫСОКИХ
 
@@ -31,59 +31,59 @@ modified: 2014-03-06 12:30:05
 
 В спектакле заняты:
 
-Тевье-молочник - <a href="82-valerii-poletaev.html">Валерий ПОЛЕТАЕВ</a>
+Тевье-молочник - [Валерий ПОЛЕТАЕВ](82-valerii-poletaev.html)
 
-Голда - Заслуженная артистка РФ <a href="26-popenko-taisija.html">Таисия ПОПЕНКО</a> / <a href="63-lyda-nikitina.html">Людмила НИКИТИНА</a>
+Голда - Заслуженная артистка РФ [Таисия ПОПЕНКО](26-popenko-taisija.html) / [Людмила НИКИТИНА](63-lyda-nikitina.html)
 
-Цейтл - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a> / Наталья БОЯРЁНОК
+Цейтл - [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / Наталья БОЯРЁНОК
 
-Бейлке - <a href="48-chernovaelizaveta.html">Елизавета ЧЕРНОВА </a>
+Бейлке - [Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
 
-Годл - <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a> / <a href="86-alena-azarova.html">Алена АЗАРОВА</a>
+Годл - [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Алена АЗАРОВА](86-alena-azarova.html)
 
-Хава - <a href="301-mariaosipova.html">Мария ОСИПОВА</a>
+Хава - [Мария ОСИПОВА](301-mariaosipova.html)
 
-Мотл - <a href="88-roman-yakushov.html">Роман ЯКУШОВ</a>
+Мотл - [Роман ЯКУШОВ](88-roman-yakushov.html)
 
-Перчик- <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a>
+Перчик- [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 
-Менахем - <a href="112-mark-gavrilov.html">Марк ГАВРИЛОВ</a>
+Менахем - [Марк ГАВРИЛОВ](112-mark-gavrilov.html)
 
-Лейзер Вольф - <a href="281-kirilldateshidze.html">Кирилл ДАТЕШИДЗЕ</a>
+Лейзер Вольф - [Кирилл ДАТЕШИДЗЕ](281-kirilldateshidze.html)
 
-Федя - <a href="51-stas-voronetski.html">Станислав ВОРОНЕЦКИЙ </a>/ Сергей СУРЖИН
+Федя - [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html)/ Сергей СУРЖИН
 
-Ребе - <a href="77-ilgiz-bulgakov.html">Ильгиз БУЛГАКОВ</a>
+Ребе - [Ильгиз БУЛГАКОВ](77-ilgiz-bulgakov.html)
 
-Священник - <a href="54-nikolai-ispolatov.html">Николай ИСПОЛАТОВ</a>
+Священник - [Николай ИСПОЛАТОВ](54-nikolai-ispolatov.html)
 
-Урядник - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
+Урядник - [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
 
-Мама Менахема - <a href="61-galina-saburova.html">Галина САБУРОВА</a>
+Мама Менахема - [Галина САБУРОВА](61-galina-saburova.html)
 
-Трактирщик - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
+Трактирщик - [Илья БЕЗРУК](83-bezryk-ilya.html)
 
-Степан - <a href="87-aleksandr-shevelov.html">Александр ШЕВЕЛЁВ</a>
+Степан - [Александр ШЕВЕЛЁВ](87-aleksandr-shevelov.html)
 
 Пресса о спектакле "Поминальная молитва":
 
-<a href="265-pressa-premera-pomanalnaya-555.html">"Вот так–без помпы,без ласки критиков – в скромном театре происходят действительно масштабные истории" о спектакле "Поминальная молитва" (газета "Невское время")(Автор:Е.Добрякова)</a>
+["Вот так–без помпы,без ласки критиков – в скромном театре происходят действительно масштабные истории" о спектакле "Поминальная молитва" (газета "Невское время")(Автор:Е.Добрякова)](265-pressa-premera-pomanalnaya-555.html)
 
-<a href="263------q-q.html">Интервью режиссёра спектакля "Поминальная молитва" Глеба Володина - "Жизнь идёт дальше, и, чтобы ни случилось, продолжать её лучше с улыбкой на лице… " (Студенческая газета "Gaudeamus")(Автор:Л.Шафранская)</a>
+[Интервью режиссёра спектакля "Поминальная молитва" Глеба Володина - "Жизнь идёт дальше, и, чтобы ни случилось, продолжать её лучше с улыбкой на лице… " (Студенческая газета "Gaudeamus")(Автор:Л.Шафранская)](263------q-q.html)
 
-<a href="262-pressa-ptj-pomanalnaya-molitva.html">"О жизни которая добрее и мудрее нас.." о спектакле "Поминальная молитва" (Петербургский Театральный Журнал)(Автор: Е.Омецинская)</a>
+["О жизни которая добрее и мудрее нас.." о спектакле "Поминальная молитва" (Петербургский Театральный Журнал)(Автор: Е.Омецинская)](262-pressa-ptj-pomanalnaya-molitva.html)
 
-<a href="258-pressa-premera-pomanalnaya-molitva.html">"Вместе мы не пропадём или "Поминальная молитва" Г.Горина" (Арт-журнал "Okolo.me")(автор:Е.Приклонская)</a>
+["Вместе мы не пропадём или "Поминальная молитва" Г.Горина" (Арт-журнал "Okolo.me")(автор:Е.Приклонская)](258-pressa-premera-pomanalnaya-molitva.html)
 
-<a href="257-recenzia-na-pominalnaya-molitva.html"> Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин</a>
+[ Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин](257-recenzia-na-pominalnaya-molitva.html)
 
 Видео:
 
-<figure>{youtube:http://www.youtube.com/watch?v=GL2_ORjlGp4&amp;feature=related 480 360}</figure>
+<figure>{youtube:http://www.youtube.com/watch?v=GL2_ORjlGp4&feature=related 480 360}</figure>
 
-<figure>{youtube:http://www.youtube.com/watch?v=JBeJ9vvvSH4&amp;feature=related 480 360}</figure>
+<figure>{youtube:http://www.youtube.com/watch?v=JBeJ9vvvSH4&feature=related 480 360}</figure>
 
-<figure>{youtube:http://www.youtube.com/watch?v=cTTTQYokETI&amp;feature=related 480 360}</figure>
+<figure>{youtube:http://www.youtube.com/watch?v=cTTTQYokETI&feature=related 480 360}</figure>
 
 <figure>
 ![](/images/stories/random/pominalnaia molitva foto.jpg)

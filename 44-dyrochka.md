@@ -5,13 +5,13 @@ alias: dyrochka
 modified: 2013-12-12 23:24:24
 ---
 
-**Лопе де Вега**
+## Лопе де Вега
 
 «Дурочка»
 
 Комедия в 2-х действиях
 
-Режиссер– Заслуженный деятель искусств России <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Режиссер– Заслуженный деятель искусств России [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Балетмейстер – Заслуженный деятель искусств России Сергей ГРИЦАЙ Композитор – Валерий ПИГУЗОВ
 
@@ -27,27 +27,27 @@ modified: 2013-12-12 23:24:24
 
 В спектакле заняты:
 
-Финея - <a href="81-ekaterina-kyltina.html">Екатерина КУЛЬТИНА</a> / <a href="79-anna-zagrebna.html">Анна ЗАГРЕБНА </a>/ <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА</a>
+Финея - [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html)/ [Екатерина БЕЛОВА](23-belova-ekaterina.html)
 
-Октавьо - <a href="281-kirilldateshidze.html">Кирилл ДАТЕШИДЗЕ </a><a href="281-kirilldateshidze.html"></a>/ <a href="87-aleksandr-shevelov.html">Александр ШЕВЕЛЁВ</a>
+Октавьо - [Кирилл ДАТЕШИДЗЕ](281-kirilldateshidze.html)[</a>/ <a href="87-aleksandr-shevelov.html">Александр ШЕВЕЛЁВ](281-kirilldateshidze.html)
 
-Лауренсьо - <a href="284-2013-09-08-18-38-31.html">Павел ИВАНОВСКИЙ </a><a href="284-2013-09-08-18-38-31.html"></a>
+Лауренсьо - [Павел ИВАНОВСКИЙ](284-2013-09-08-18-38-31.html)<a href="284-2013-09-08-18-38-31.html"></a>
 
-Ниса - <a href="78-ylia-burceva.html">Юлия БУРЦЕВА</a>
+Ниса - [Юлия БУРЦЕВА](78-ylia-burceva.html)
 
-Турин - <a href="50-roman-pritula.html">Роман ПРИТУЛА</a>
+Турин - [Роман ПРИТУЛА](50-roman-pritula.html)
 
-Селья - <a href="48-chernovaelizaveta.html">Елизавета ЧЕРНОВА</a>
+Селья - [Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
 
-Клара - <a href="85-oksana-surnina.html">Оксана СУРНИНА</a>
+Клара - [Оксана СУРНИНА](85-oksana-surnina.html)
 
-Лисео - <a href="22-afendulov-semen.html">Семен АФЕНДУЛОВ</a>
+Лисео - [Семен АФЕНДУЛОВ](22-afendulov-semen.html)
 
-Педро - <a href="51-stas-voronetski.html">Станислав ВОРОНЕЦКИЙ</a>
+Педро - [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html)
 
-Дуардо - <a href="84-talashmanovevgenii.html">Евгений ТАЛАШМАНОВ</a> / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a>
+Дуардо - [Евгений ТАЛАШМАНОВ](84-talashmanovevgenii.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 
-Фенисо - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a><a href="83-dmitrii-rudakov.html"> </a>
+Фенисо - [Илья БЕЗРУК](83-bezryk-ilya.html)[](83-dmitrii-rudakov.html)
 
 <figure>
 ![](/images/stories/random/dyrochka ff.jpg)

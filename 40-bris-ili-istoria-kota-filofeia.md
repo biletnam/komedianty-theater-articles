@@ -5,13 +5,13 @@ alias: bris-ili-istoria-kota-filofeia
 modified: 2014-01-28 18:47:34
 ---
 
-**Валерий Зимин**
+## Валерий Зимин
 
 **«БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ»**
 
 Сказка для детей и взрослых в одном действии.
 
-Режиссёр: Заслуженный деятель искусств РФ <a href="153-mihail-levshin.html">Михаил ЛЕВШИН</a>
+Режиссёр: Заслуженный деятель искусств РФ [Михаил ЛЕВШИН](153-mihail-levshin.html)
 
 Сценография и костюмы: С. МАТВЕЕВА
 
@@ -31,21 +31,21 @@ modified: 2014-01-28 18:47:34
 
 В спектакле заняты:
 
-ОФелия - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a> / <a href="56-natasha-terehova.html">Наталья ТЕРЕХОВА</a> / <a href="48-chernovaelizaveta.html">Елизавета ЧЕРНОВА </a>
+ОФелия - [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
 
-Плутон - <a href="50-roman-pritula.html">Роман ПРИТУЛА</a>
+Плутон - [Роман ПРИТУЛА](50-roman-pritula.html)
 
-Киса - <a href="301-mariaosipova.html">Мария ОСИПОВА</a> /<a href="48-chernovaelizaveta.html"> Елизавета ЧЕРНОВА</a>
+Киса - [Мария ОСИПОВА](301-mariaosipova.html) /[ Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
 
-фунтик - <a href="23-belova-ekaterina.html">Екатерина БЕЛОВА</a>
+фунтик - [Екатерина БЕЛОВА](23-belova-ekaterina.html)
 
-филоФей - <a href="88-roman-yakushov.html">Роман ЯКУШОВ</a> / Станислав ОСКОЛКОВ
+филоФей - [Роман ЯКУШОВ](88-roman-yakushov.html) / Станислав ОСКОЛКОВ
 
-Мурзик - <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a> / Сергей СУРЖИН
+Мурзик - [Леонид ЗЯБКИН](67-leonid-zabkin.html) / Сергей СУРЖИН
 
-Анфиса - <a href="63-lyda-nikitina.html">Людмила НИКИТИНА </a>/<a href="79-anna-zagrebna.html"> Анна ЗАГРЕБНА</a>
+Анфиса - [Людмила НИКИТИНА](63-lyda-nikitina.html)/[ Анна ЗАГРЕБНА](79-anna-zagrebna.html)
 
-Бабушка Шура - Заслуженная артистка России <a href="26-popenko-taisija.html">Таисия ПОПЕНКО</a>
+Бабушка Шура - Заслуженная артистка России [Таисия ПОПЕНКО](26-popenko-taisija.html)
 
 <figure>
 ![](/images/stories/random/bris1 2013 1.jpg)

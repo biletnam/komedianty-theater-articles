@@ -5,9 +5,9 @@ alias: mumuv-oberkohene-pressa
 modified: 2012-10-10 20:04:17
 ---
 
-<h1 class="first">„Komedianty“ hinterlässt ein zwiespältiges Gefühl</h1>
+# „Komedianty“ hinterlässt ein zwiespältiges Gefühl
 
-**OBERKOCHEN / jo Vielleicht lag es an der traurigen Geschichte, die trotz einiger komödiantischen Einlagen so gar nicht lustig war, vielleicht auch an der speziellen Art des außergewöhnlichen und beeindruckenden Theaters aus Russland. Für einen Auftritt im Bürgersaal war die rund 20-köpfige Erfolgsgruppe „Komedianty“ am Samstag eigens aus Sankt Petersburg angereist und führte die Geschichte <a href="46-mumu.html">„Mumu“</a> von Iwan Turgenjew auf.**
+**OBERKOCHEN / jo Vielleicht lag es an der traurigen Geschichte, die trotz einiger komödiantischen Einlagen so gar nicht lustig war, vielleicht auch an der speziellen Art des außergewöhnlichen und beeindruckenden Theaters aus Russland. Für einen Auftritt im Bürgersaal war die rund 20-köpfige Erfolgsgruppe „Komedianty“ am Samstag eigens aus Sankt Petersburg angereist und führte die Geschichte [„Mumu“](46-mumu.html) von Iwan Turgenjew auf.**
 
 <figure>
 ![](/images/stories/random/653083_1_articleorg_b821050937z.1_20121008074306_000_g1rusc1v.1_0.jpg)
@@ -43,5 +43,5 @@ Für die Bürgerstiftung Oberkochen dell’ Arte war die Aufführung eine besond
 
 8 октября 2012 года.
 
-<a href="http://www.schwaebische.de/region/ostalb/abtsgmuend/rund-um-abtsgmuend_artikel,-Komedianty-hinterlaesst-ein-zwiespaeltiges-Gefuehl-_arid,5328402.html">Ссылка на статью</a>
+[Ссылка на статью](http://www.schwaebische.de/region/ostalb/abtsgmuend/rund-um-abtsgmuend_artikel,-Komedianty-hinterlaesst-ein-zwiespaeltiges-Gefuehl-_arid,5328402.html)
 

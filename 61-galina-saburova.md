@@ -5,7 +5,7 @@ alias: galina-saburova
 modified: 2014-01-28 18:49:43
 ---
 
-**ГАЛИНА САБУРОВА**
+## ГАЛИНА САБУРОВА
 
 <figure>
 ![](/images/stories/random/sabyrova.jpg)
@@ -17,15 +17,15 @@ modified: 2014-01-28 18:49:43
 
 Занята в спектаклях:
 
-<a href="71-anekdoti.html">«Провинциальные анекдоты»</a> А.Вампилов - роль Васюта (2 анекдот)
+[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Васюта (2 анекдот)
 
-<a href="97-pominalnaia-molitva.html">«Поминальная молитва»</a> Г.Горин - роль Мама Менахема
+[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Мама Менахема
 
-<a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль А.Г.Кубыркина
+[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль А.Г.Кубыркина
 
-<a href="43-dachnici.html">«Дачницы»</a> В.Карасёв - роль Дуся
+[«Дачницы»](43-dachnici.html) В.Карасёв - роль Дуся
 
-<a href="69-genitba.html">«Женитьба»</a> Н.В.Гоголь - роль Фекла Ивановна
+[«Женитьба»](69-genitba.html) Н.В.Гоголь - роль Фекла Ивановна
 
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/3712/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
