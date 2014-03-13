@@ -12,19 +12,25 @@ prose:
       - name: "id"
         field:
           element: number
-          value: "00"
           label: "ID"
+      - name: "alias"
+        field:
+          element: text
+          label: "Slug"
+      - name: "modified"
+        field:
+          element: text
+          label: "Дата"
+      - name: "category"
+        field:
+          element: text
+          label: "Категория"
       - name: "tags"
         field:
           element: "multiselect"
           label: "Тэги"
           placeholder: "Тэги"
           alterable: true
-      - name: "category"
-        field:
-          element: text
-          value: "Без категории"
-          label: "Категория"
       - name: "layout"
         field:
           element: "hidden"
