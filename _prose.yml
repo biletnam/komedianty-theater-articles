@@ -1,0 +1,31 @@
+prose:
+  ignore:
+    - _config.yml
+    - _prose.yml
+    - README.md
+    - .gitattributes
+    - .gitignore
+  media: "images"
+  relativeLinks: "links.jsonp"
+  metadata:
+    "":
+      - name: "id"
+        field:
+          element: number
+          value: "00"
+          label: "ID"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Тэги"
+          placeholder: "Тэги"
+          alterable: true
+      - name: "category"
+        field:
+          element: text
+          value: "Без категории"
+          label: "Категория"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
