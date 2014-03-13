@@ -7,7 +7,9 @@ modified: 2011-12-09 21:22:56
 
 **ИЛЬГИЗ БУЛГАКОВ**
 
-<figure><img src="./images/stories/x_4a41e54f.jpg" /></figure>
+<figure>
+![](/images/stories/x_4a41e54f.jpg)
+</figure>
 
 Информация обрабатывается…
 

@@ -5,7 +5,9 @@ alias: teledom
 modified: 2013-10-30 10:14:48
 ---
 
-<figure><img src="./images/stories/random/teledomlogo.jpg" /></figure>
+<figure>
+![](/images/stories/random/teledomlogo.jpg)
+</figure>
 
 Наш новый информационный спонсор представляет:
 

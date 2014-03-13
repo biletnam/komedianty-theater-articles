@@ -7,7 +7,9 @@ modified: 2013-10-20 23:43:11
 
 **ЕКАТЕРИНА БЕЛОВА**
 
-<figure><img src="./images/stories/66.jpg" /></figure>
+<figure>
+![](/images/stories/66.jpg)
+</figure>
 
 Родилась13 октября 1982 года в Ленинграде. Окончила СПбГАТИ , курс В.В.Петрова. Снималась в фильмах: т/с «Улицы разбитых фонарей» , т/c «Агент особого назначения», «Катерина» , «Эра стрельца»и др.
 
@@ -35,5 +37,7 @@ modified: 2013-10-20 23:43:11
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Галина, жена Буша
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/319449/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/319449/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

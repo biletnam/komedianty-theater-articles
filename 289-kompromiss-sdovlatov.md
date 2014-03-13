@@ -37,7 +37,9 @@ modified: 2013-10-30 10:22:26
 
 Спектакль идет 3 часа с одним антрактом
 
-<figure><img src="./images/stories/random/afisha%20kompromiss1.jpg" /></figure>
+<figure>
+![](/images/stories/random/afisha%20kompromiss1.jpg)
+</figure>
 
 20.10.2013
 

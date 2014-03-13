@@ -5,7 +5,9 @@ alias: sto-k-odnomy
 modified: 2013-11-01 19:37:39
 ---
 
-<figure><a href="http://russia.tv/brand/show/brand_id/9222"><img src="./images/stories/random/100%20k%201%20logo11.jpg" /></a></figure>
+<figure><a href="http://russia.tv/brand/show/brand_id/9222">
+![](/images/stories/random/100%20k%201%20logo11.jpg)
+</a></figure>
 
 **5 мая** в воскресенье на <a href="http://russia.tv/">телекана</a><a href="http://russia.tv/"></a><a href="http://russia.tv/">ле</a><a href="http://russia.tv/"></a><a href="http://russia.tv/">"Россия"</a>состоится эфир телеигры **«СТО к ОДНОМУ»**, где учавствовала команда театра "КОМЕДИАНТЫ".
 
@@ -15,7 +17,9 @@ modified: 2013-11-01 19:37:39
 
 И так - **5 мая - воскресенье - 9:30 - канал** <a href="http://russia.tv/">**«Россия»**</a>! Ждём всех у голубых экранов страны!)))
 
-<figure><img src="./images/stories/random/sto%20k%20odnomy%201111.jpg" /></figure>
+<figure>
+![](/images/stories/random/sto%20k%20odnomy%201111.jpg)
+</figure>
 
 Эфир:
 

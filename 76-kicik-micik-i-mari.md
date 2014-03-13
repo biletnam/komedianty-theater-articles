@@ -31,15 +31,25 @@ modified: 2013-12-12 23:20:12
 
 Тётушка Мари - <a href="49-ylia-gorshenina.html">Юлия ГОРШЕНИНА</a> / Симона СТРОГАНОВА<a href="84-simona-stroganova.html"></a><a href="84-simona-stroganova.html"></a>
 
-<figure><img src="./images/stories/mari.jpg" /></figure>
+<figure>
+![](/images/stories/mari.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kicik foto prityla.jpg" /></figure>
+<figure>
+![](/images/stories/random/kicik foto prityla.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kicik micik foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/kicik micik foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/x_10d0469a.jpg" /></figure>
+<figure>
+![](/images/stories/random/x_10d0469a.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/x_e2a966df.jpg" /></figure>
+<figure>
+![](/images/stories/random/x_e2a966df.jpg)
+</figure>
 
 Спектакль идёт **1** час **05** мин без антракта.
 

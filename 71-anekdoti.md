@@ -53,19 +53,33 @@ modified: 2013-12-12 13:45:47
 
 Ступак - <a href="22-afendulov-semen.html">Семён АФЕНДУЛОВ</a> <a href="112-mark-gavrilov.html"></a>/ <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
 
-<figure><img src="./images/stories/random/anekdoti55.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti55.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti44.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti44.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti33.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti33.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti2.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti22.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti22.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti3.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/anekdoti4.jpg" /></figure>
+<figure>
+![](/images/stories/random/anekdoti4.jpg)
+</figure>
 
 Спектакль идёт **3** часа сантрактом.
 

@@ -10,7 +10,9 @@ alias: pressa-podmostki-peterburga-sergeev-i-nikolaev
 
 **Журналист:** Спасибо за доставленное удовольствие. Я знаю, что этот спектакль идёт двадцать пять лет. Сколько лет вы его играете?
 
-<figure><a href="57-maxsim-sergeev.html"><img src="./images/stories/random/maks sergeev.jpg" /></a></figure>
+<figure><a href="57-maxsim-sergeev.html">
+![](/images/stories/random/maks sergeev.jpg)
+</a></figure>
 
 **Максим Сергеев:** Трудно сказать, я не считал года. Было несколько разных составов. Было даже время, когда спектакль хотели снять, но оказалось что он актуален и сегодня. Спектакль живой, он построен на том, как артисты могут существовать в этом спектакле, свободно общаясь с залом, реагируя на какие-то реплики.
 
@@ -38,7 +40,9 @@ alias: pressa-podmostki-peterburga-sergeev-i-nikolaev
 
 **Сергей Николаев:** Причём, если зрители с самого начала начинают хохотать и им всё безумно нравится, то, в большинстве случаев, на конец их уже не
 
-<figure><a href="52-sergei-nikolaev.html"><img src="./images/stories/nikolaev ser.jpg" /></a></figure>
+<figure><a href="52-sergei-nikolaev.html">
+![](/images/stories/nikolaev ser.jpg)
+</a></figure>
 
 хватает, под конец они уже устают.
 

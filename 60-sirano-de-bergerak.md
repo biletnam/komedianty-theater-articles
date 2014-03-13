@@ -61,19 +61,33 @@ modified: 2013-12-15 23:34:55
 
 Дуэнья - <a href="62-irina-mityshkina.html">Ирина МИТЮШКИНА </a>
 
-<figure><img src="./images/stories/random/sirano foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/sirano foto6.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto6.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/sirano foto5.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto5.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/sirano foto3.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/sirano foto2jpg.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto2jpg.jpg)
+</figure>
 
-<figure><img src="./images/stories/sirano.jpg" /></figure>
+<figure>
+![](/images/stories/sirano.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/sirano foto 4.jpg" /></figure>
+<figure>
+![](/images/stories/random/sirano foto 4.jpg)
+</figure>
 
 Cпектакль идёт **3** часа **30** мин. с антрактом.
 

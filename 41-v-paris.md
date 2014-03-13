@@ -65,23 +65,41 @@ modified: 2014-03-06 12:31:49
 
 Миша Бобов, поэт - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a>
 
-<figure><img src="./images/stories/parij.jpg" /></figure>
+<figure>
+![](/images/stories/parij.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris2.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris3.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris4.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris4.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris.5.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris.5.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris.6.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris.6.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris7.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris7.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/v paris.8.jpg" /></figure>
+<figure>
+![](/images/stories/random/v paris.8.jpg)
+</figure>
 
 Спектакль идёт **3** ч.**00** мин. с одним антрактом.
 

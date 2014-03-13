@@ -9,7 +9,9 @@ modified: 2013-10-30 10:20:48
 
 <figure><a href="46-mumu.html">**
 
-<figure><img src="./images/stories/random/mumu%20krepostnaia%20love.jpg" /></figure>
+<figure>
+![](/images/stories/random/mumu%20krepostnaia%20love.jpg)
+</figure>
 
 **</a></figure>
 

@@ -5,13 +5,17 @@ alias: mymy-v-tyrcii
 modified: 2013-10-26 21:04:47
 ---
 
-<figure><a href="46-mumu.html"><img src="./images/stories/mymy afisha2.jpg" /></a></figure>
+<figure><a href="46-mumu.html">
+![](/images/stories/mymy afisha2.jpg)
+</a></figure>
 
 Спектакль "Крепостная любовь" (МуМу) ПОЛУЧИЛ МЕЖДУНАРОДНОЕ ПРИЗНАНИЕ!!!
 
 **14 мая** спектакль по повести И. С. Тургенева <a href="46-mumu.html">"Крепостная любовь" (МуМу)</a> участвовал в **"13 Международном Черноморском театральном фестивале"** в **г. Трабзон - Турция** ("13.Uluslararasi Karadeniz Tiyatro Festivali")!!! Театр "Комедианты" с постановкой<a href="46-mumu.html"> "Крепостная любовь" (МуМу)</a> признан оргкомитетом фестиваля во главе с его председателем самым лучшим из всех представленных на фестивале театров из разных стран (Италия, Турция, Румыния, Австрия и др.) Спекталь получил **ПРИЗ ФЕСТИВАЛЯ "ХРУСТАЛЬНЫЙ ТРАБЗОН"**!!!УРА!!!УРА!!!УРА!!!
 
-<figure><a href="208-foto-iz-trabzona-mymy.html"><img src="./images/stories/random/hrystalnii trabzon.jpg" /></a></figure>
+<figure><a href="208-foto-iz-trabzona-mymy.html">
+![](/images/stories/random/hrystalnii trabzon.jpg)
+</a></figure>
 
 <a href="208-foto-iz-trabzona-mymy.html">ФОТО С ГАСТРОЛЕЙ В ТУРЦИЮ</a>
 
@@ -25,7 +29,9 @@ modified: 2013-01-14 15:40:39
 
 ****
 
-<figure><img src="./images/stories/random/atruppa 2012.jpg" /></figure>
+<figure>
+![](/images/stories/random/atruppa 2012.jpg)
+</figure>
 
 Зрители смогут насладиться спектаклем в обновленных интерьерах, посетить новое кафе в уютном бельэтаже. Новые удобные кресла, новая сцена, инсталляция, посвященная двадцатидвухлетней истории театра – все это ожидает Вас в театре «Комедианты» в новом сезоне. И, конечно, новые спектакли!
 

@@ -7,7 +7,9 @@ modified: 2013-02-02 14:51:48
 
 **ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ**
 
-<figure><img src="./images/stories/random/111nina.jpg" /></figure>
+<figure>
+![](/images/stories/random/111nina.jpg)
+</figure>
 
 **Биография.**
 
@@ -105,5 +107,7 @@ _Ленинградский Театр юного зрителя_
 
 1974 Глупая жена в «Хороводе» (композиция по сказкам народов СССР)
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/34775/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/34775/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

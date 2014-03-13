@@ -5,7 +5,9 @@ alias: pozdnie-vstrechi-o-mymy
 modified: 2012-06-24 19:55:00
 ---
 
-<figure><a href="http://vk.com/video-15602252_159376811"><img src="http://cs12558.vkontakte.ru/u712407/video/s_81e29627.jpg" /></a></figure>
+<figure><a href="http://vk.com/video-15602252_159376811">
+![](http://cs12558.vkontakte.ru/u712407/video/s_81e29627.jpg)
+</a></figure>
 
 <a href="http://vk.com/video-15602252_159170346"></a>
 

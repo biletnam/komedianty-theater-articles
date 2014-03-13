@@ -7,7 +7,9 @@ modified: 2013-10-20 23:52:33
 
 **НАТАЛЬЯ ТЕРЕХОВА**
 
-<figure><img src="./images/stories/terehova%20natasha.jpg" /></figure>
+<figure>
+![](/images/stories/terehova%20natasha.jpg)
+</figure>
 
 Родилась 6 сентября 1982 года в Ленинграде . В 2004 году окончила СПбГАТИ, курс А.Куницына и Г.Барышевой . С 2001 года активно снимается в кино . Снималась в фильмах: «Ключи от счастья», «Как же быть сердцу», «Колдовская любовь», «Алька», «Тронутые», «Золушка в сапогах», «Петя Великолепный» , «Снайпер» , «Ключи от счастья - 2» , «История зечки» и др.
 
@@ -33,7 +35,11 @@ modified: 2013-10-20 23:52:33
 
 <a href="114-tereh.html">Интервью актрисы театра "Комедианты" Натальи Тереховой телеканалу "Россия 1"(автор: Дарья Майорова)</a>
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/4275/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/4275/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 
-<figure><a href="http://ruskino.ru/art/5120"><img src="./images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/5120">
+![](/images/stories/random/rus-.png)
+</a></figure>
 

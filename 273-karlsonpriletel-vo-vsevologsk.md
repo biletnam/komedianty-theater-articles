@@ -17,5 +17,7 @@ modified: 2013-12-12 23:54:27
 
 Районнная муниципальная газета "Всеволожские вести" №27 (1846) / 17.04.2013 / Автор - Вера Демянская.
 
-<figure><img src="./images/stories/random/pressa karlson5.jpg" /></figure>
+<figure>
+![](/images/stories/random/pressa karlson5.jpg)
+</figure>
 

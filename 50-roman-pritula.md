@@ -7,7 +7,9 @@ modified: 2014-01-28 18:45:13
 
 **РОМАН ПРИТУЛА**
 
-<figure><img src="./images/stories/random/roman pritula 13 -2.jpg" /></figure>
+<figure>
+![](/images/stories/random/roman pritula 13 -2.jpg)
+</figure>
 
 Родился 25 мая 1987 года в Ленинграде . С 1999 по 2005 год играл в рок–группе “Мёртвые рифы” на барабанах . В 2008 году окончил театральный факультет БИЭПП, мастерская народного артиста России Петра Сергеевича Вельяминова . Снимался в фильмах: т/ф «Настоятель», т/ф «Зимний круиз», т/с «Время Синдбада», т/ф «Одержимый», т/с "Груз", т/ф "Смерч.Судьбы.Последняя охота", х/ф "Бесславные придурки", т/с "Чужой район 3" и др.
 
@@ -43,13 +45,21 @@ modified: 2014-01-28 18:45:13
 
 <a href="259-art-chitka-kompromiss-dovlatov.html">"В обновлённое прошлое" арт-читка С.Довлатова "Компромисс" на киностудии "Ленфильм" (Арт-журнал "Оkolo.me")(автор:Л.Шафранская)</a>
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/ros/136631/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/ros/136631/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 
-<figure><a href="http://ruskino.ru/art/7930"><img src="./images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/7930">
+![](/images/stories/random/rus-.png)
+</a></figure>
 
-<figure><a href="http://romanpritula.ru"><img src="./images/stories/random/sait logl roma.png" /></a></figure>
+<figure><a href="http://romanpritula.ru">
+![](/images/stories/random/sait logl roma.png)
+</a></figure>
 
 **<a href="http://romanpritula.ru">http://romanpritula.ru</a>** **(официальный сайт актёра)**
 
-<figure><img src="./images/stories/random/sait%2044logo%20logo.jpg" /></figure>
+<figure>
+![](/images/stories/random/sait%2044logo%20logo.jpg)
+</figure>
 

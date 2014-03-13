@@ -43,19 +43,33 @@ modified: 2013-04-28 11:24:36
 
 Папенька - <a href="82-valerii-poletaev.html">Валерий ПОЛЕТАЕВ</a> / <a href="87-aleksandr-shevelov.html">Александр ШЕВЕЛЕВ</a>
 
-<figure><img src="./images/stories/random/beda foto2.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto3.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto4.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto4.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto5.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto5.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto7.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto7.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/beda foto6.jpg" /></figure>
+<figure>
+![](/images/stories/random/beda foto6.jpg)
+</figure>
 
 Спектакль идет **1** час **30** мин без антракта.
 

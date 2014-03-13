@@ -7,7 +7,9 @@ modified: 2012-04-21 19:05:07
 
 **ЕКАТЕРИНА КУЛЬТИНА**
 
-<figure><img src="./images/stories/kyltina%20kk.jpg" /></figure>
+<figure>
+![](/images/stories/kyltina%20kk.jpg)
+</figure>
 
 Родилась 2 ноября 1983 года в Ленинграде. В 2004 году окончила СПбГАТИ (мастерская В.В.Петрова). После окончиния учёбы с 2004 года актриса Санкт-Петербургского Драматического театра «КОМЕДИАНТЫ».
 
@@ -27,5 +29,7 @@ modified: 2012-04-21 19:05:07
 
 <a href="39-beda-ot-neghnogo-serdca.html">«Беда от нежного сердца»</a> В.Соллогуб - роль Настенька
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

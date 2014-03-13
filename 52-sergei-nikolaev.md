@@ -7,7 +7,9 @@ modified: 2013-10-20 23:45:33
 
 **СЕРГЕЙ НИКОЛАЕВ**
 
-<figure><img src="./images/stories/nikolaev ser.jpg" /></figure>
+<figure>
+![](/images/stories/nikolaev ser.jpg)
+</figure>
 
 Родился 20 мая 1976 года . В 1998 году окончил Санкт-Петербургскую Академию Культуры, режиссёрский факультет . В 1998-2001 гг. работал автором и ведущим музыкальных программ на радиостанции «Северная столица» (105 FM ) .Снимался в фильмах: «Лабиринты разума» , «Мечта» , «Час пик», «Свой - чужой», т/с «Морские дьяволы - 4», «Дорогой мой человек» и др.
 
@@ -29,7 +31,11 @@ modified: 2013-10-20 23:45:33
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Турунок Генрих Францевич
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/29820/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/29820/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 
-<figure><a href="http://ruskino.ru/art/9036"><img src="./images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/9036">
+![](/images/stories/random/rus-.png)
+</a></figure>
 

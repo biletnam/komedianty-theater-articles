@@ -27,17 +27,29 @@ _В спектакле заняты:_
 
 Заслуженная артистка России Нина МЕЩАНИНОВА, Заслуженный артист России Геннадий СПИРИДЕНКОВ, Людмила НИКИТИНА, Галина САБУРОВА, Семён АФЕНДУЛОВ, Анатолий ИЛЬЧЕНКО, Николай ИСПОЛАТОВ, Виталий КРАВЧЕНКО, Сергей НИКОЛАЕВ, Валерий ПОЛЕТАЕВ.
 
-<figure><img src="./images/stories/nov/x_4a4afd54.jpg" /></figure>
+<figure>
+![](/images/stories/nov/x_4a4afd54.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/jenitba.jpg" /></figure>
+<figure>
+![](/images/stories/random/jenitba.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/jenitba2.jpg" /></figure>
+<figure>
+![](/images/stories/random/jenitba2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/jenitba3.jpg" /></figure>
+<figure>
+![](/images/stories/random/jenitba3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/jenitba4.jpg" /></figure>
+<figure>
+![](/images/stories/random/jenitba4.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/jenitba5.jpg" /></figure>
+<figure>
+![](/images/stories/random/jenitba5.jpg)
+</figure>
 
 Премьера состоялась **12** марта **2000** года.
 

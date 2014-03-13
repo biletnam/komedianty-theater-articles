@@ -4,7 +4,9 @@ title: Сирано де Бержерак в театре КОМЕДИАНТЫ" 
 alias: sirano-de-berzherak-pressa-2007
 ---
 
-<figure><img src="./images/stories/sirano.jpg" /></figure>
+<figure>
+![](/images/stories/sirano.jpg)
+</figure>
 
 **Э. Ростан. «Сирано де Бержерак». Театр «Комедианты». Режиссер Михаил Левшин, художник Александр Орлов**
 

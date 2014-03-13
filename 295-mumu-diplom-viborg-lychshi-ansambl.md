@@ -7,7 +7,9 @@ modified: 2013-12-02 11:57:25
 
 Спектакль<a href="46-mumu.html"> "Крепостная любовь" (Муму)</a> награждён дипломом **"За лучший актёрский ансамбль"** на "1-ом фестивале театральных и музыкальных проектов камерных экспериментальных форм" (Театральный марафон) в г. Выборге. (2013 г.)
 
-<figure><img src="./images/stories/random/diplom-iz-viborga-mumu.jpg" /></figure>
+<figure>
+![](/images/stories/random/diplom-iz-viborga-mumu.jpg)
+</figure>
 
 1.12.2013 г.
 

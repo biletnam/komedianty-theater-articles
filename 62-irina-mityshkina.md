@@ -7,7 +7,9 @@ modified: 2012-04-21 19:07:10
 
 **ИРИНА МИТЮШКИНА**
 
-<figure><img src="./images/stories/mityshkina%20iii.jpg" /></figure>
+<figure>
+![](/images/stories/mityshkina%20iii.jpg)
+</figure>
 
 Родилась 15 июня 1964 года в г. Магнитогорске. В 1988 году окончила ГАКИ, факультет театральной режиссуры, педагог - Л.А. Ящинина. Работала в Уральском муниципальном театре драмы. Снималась в фильмах: «Гоголь. Ближайший", "Пушкин. Последняя Дуэль", "Стерва", «Улицы разбитых фонарей», "Лиговка" и др.
 
@@ -19,5 +21,7 @@ modified: 2012-04-21 19:07:10
 
 <a href="41-v-paris.html">«В Париж»</a> А. П. Чехов - роль Сваха
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/242217/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/242217/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

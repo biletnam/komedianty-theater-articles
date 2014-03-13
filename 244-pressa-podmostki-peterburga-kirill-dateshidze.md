@@ -8,7 +8,9 @@ alias: pressa-podmostki-peterburga-kirill-dateshidze
 
 **О том, что спектакль <a href="72-trigorin.html">"Записные книжки Тригорина"</a>, это всё-таки не чеховская Чайка нам напомнил Кирилл Датешидзе, с которым мы встретились сразу после финальных аплодисментов.**
 
-<figure><img src="./images/stories/random/trigorio pressa.jpg" /></figure>
+<figure>
+![](/images/stories/random/trigorio pressa.jpg)
+</figure>
 
 **Журналист:** Поздравляем с открытием сезона. Спасибо Вам за сегодняшний спектакль. О нём можно несколько слов, каким он для Вас был?
 

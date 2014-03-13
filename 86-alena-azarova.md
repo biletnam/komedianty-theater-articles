@@ -7,7 +7,9 @@ modified: 2013-10-20 23:53:31
 
 **АЛЁНА АЗАРОВА**
 
-<figure><img src="./images/stories/alena kiverskaia.jpg" /></figure>
+<figure>
+![](/images/stories/alena kiverskaia.jpg)
+</figure>
 
 Родилась 4 апреля 1988 года в г.Лодейное поле. Окончила детскую театральную школу и играла в Детском Образцовом Драматическом театре "Антрэ". В 2005 году поступила в СПбГАТИ на курс И.А.Зайкина. С 2009 по 2010 г.г. играла в Лодейнопольском Драматическом театре. Снималась в фильмах: т/c «Ментовские войны», т/с «Гаишники», т/ф «Катя 2.Продолжение», «Три дня с придурком».
 
@@ -29,5 +31,7 @@ modified: 2013-10-20 23:53:31
 
 <a href="282-kompromiss-sdovlatov.html">«Компромисс»</a> С.Довлатова - роль Эви Саксон
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/290442/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/290442/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

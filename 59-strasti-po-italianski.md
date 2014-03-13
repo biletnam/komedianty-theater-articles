@@ -31,13 +31,21 @@ modified: 2013-12-06 19:32:53
 
 Атнонио - <a href="52-sergei-nikolaev.html">Сергей НИКОЛАЕВ</a> / <a href="67-leonid-zabkin.html">Леонид ЗЯБКИН</a>
 
-<figure><img src="./images/stories/strasti.jpg" /></figure>
+<figure>
+![](/images/stories/strasti.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/strasti.jpg" /></figure>
+<figure>
+![](/images/stories/random/strasti.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/strasti1.jpg" /></figure>
+<figure>
+![](/images/stories/random/strasti1.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/strasti2.jpg" /></figure>
+<figure>
+![](/images/stories/random/strasti2.jpg)
+</figure>
 
 Спектакль идёт **1** час **25** минут без антракта.
 

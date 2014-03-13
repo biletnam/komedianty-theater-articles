@@ -25,7 +25,9 @@ modified: 2014-02-07 15:53:21
 
 С. Юрский
 
-<figure><img src="./images/stories/news/zemlyki-foto22.jpg" /></figure>
+<figure>
+![](/images/stories/news/zemlyki-foto22.jpg)
+</figure>
 
 Приглашаем Вас совершить путешествие в настоящую русскую глубинку 60-х годов ХХ века. На время спектакля сцена и зрительный зал превратятся в сельский клуб, где проходит смотр художественной самодеятельности. Участники, наши «земляки», продемонстрируют свои разносторонние таланты.
 
@@ -37,7 +39,9 @@ modified: 2014-02-07 15:53:21
 
 В ролях: <a href="27--gennadij-spiridenkov-za-rf.html">Заслуженный артист России Геннадий Спириденков</a>, <a href="86-alena-azarova.html">Алена Азарова</a>, <a href="23-belova-ekaterina.html">Екатерина Белова</a>, <a href="80-tatiana-kogevnikova.html">Татьяна Кожевникова</a>, <a href="62-irina-mityshkina.html">Ирина Митюшкина</a>, <a href="64-asia-pigel-sergeevna.html">Анастасия Пижель</a>, <a href="48-chernovaelizaveta.html">Елизавета Чернова</a>, <a href="89-olga-yakovleva.html">Ольга Яковлева</a>, <a href="83-bezryk-ilya.html">Илья Безрук</a>, <a href="24-blednyh-sergej.html">Сергей Бледных</a>, Александр Гончарук, <a href="55-anatolii-ilchenko.html">Анатолий Ильченко</a>, <a href="66-vitalii-kravchenko.html">Виталий Кравченко</a>, Виталий Такс, <a href="50-roman-pritula.html">Роман Притула</a>, <a href="84-talashmanovevgenii.html">Евгений Талашманов</a> , Юрий Агейкин.
 
-<figure><img src="./images/stories/news/zemlyki-foto.jpg" /></figure>
+<figure>
+![](/images/stories/news/zemlyki-foto.jpg)
+</figure>
 
 Фото Анны Захаровой
 

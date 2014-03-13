@@ -9,7 +9,9 @@ modified: 2014-03-11 17:23:00
 
 **Идут репетиции спектакля "МАРЛЕН". Режиссёр - Михаил Левшин.**
 
-<figure><img src="./images/stories/x_8c053fc6.jpg" /></figure>
+<figure>
+![](/images/stories/x_8c053fc6.jpg)
+</figure>
 
 <a href="117-foto-raznoe.html">Фото "РАЗНОЕ"</a>
 

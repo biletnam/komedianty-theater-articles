@@ -49,23 +49,41 @@ modified: 2013-12-12 23:24:24
 
 Фенисо - <a href="83-bezryk-ilya.html">Илья БЕЗРУК</a><a href="83-dmitrii-rudakov.html"> </a>
 
-<figure><img src="./images/stories/random/dyrochka ff.jpg" /></figure>
+<figure>
+![](/images/stories/random/dyrochka ff.jpg)
+</figure>
 
-<figure><img src="./images/stories/x_4a2c21dd.jpg" /></figure>
+<figure>
+![](/images/stories/x_4a2c21dd.jpg)
+</figure>
 
-<figure><img src="./images/stories/dyrochka111.jpg" /></figure>
+<figure>
+![](/images/stories/dyrochka111.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dyro.jpg" /></figure>
+<figure>
+![](/images/stories/random/dyro.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/duuuro.jpg" /></figure>
+<figure>
+![](/images/stories/random/duuuro.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/deeeur.jpg" /></figure>
+<figure>
+![](/images/stories/random/deeeur.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dyroooooooooooo.jpg" /></figure>
+<figure>
+![](/images/stories/random/dyroooooooooooo.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dyro4ka.jpg" /></figure>
+<figure>
+![](/images/stories/random/dyro4ka.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dyrochka ff.4.jpg" /></figure>
+<figure>
+![](/images/stories/random/dyrochka ff.4.jpg)
+</figure>
 
 Спектакль идет **2** ч. **45** мин. с одним антрактом.
 

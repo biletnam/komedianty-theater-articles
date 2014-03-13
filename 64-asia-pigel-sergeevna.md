@@ -7,7 +7,9 @@ modified: 2012-12-08 22:06:15
 
 **АНАСТАСИЯ ПИЖЕЛЬ**
 
-<figure><img src="./images/stories/act/anastasia pigel.jpg" /></figure>
+<figure>
+![](/images/stories/act/anastasia pigel.jpg)
+</figure>
 
 Занята в спектаклях:
 
@@ -21,5 +23,7 @@ modified: 2012-12-08 22:06:15
 
 <a href="73-progulka-v-ly-blio.html">«Прогулка в Лю-Блё»</a> К. Рубина - роль Помощник режиссёра
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/14143/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/w/ros/14143/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

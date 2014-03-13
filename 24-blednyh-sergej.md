@@ -7,7 +7,9 @@ modified: 2013-02-02 20:53:17
 
 **СЕРГЕЙ БЛЕДНЫХ**
 
-<figure><img src="./images/stories/act/sergeyblednix.jpg" /></figure>
+<figure>
+![](/images/stories/act/sergeyblednix.jpg)
+</figure>
 
 Родился 12 ноября 1964 года в городе Львове. В 1989 году окончил Львовское театральное училище при театре им. Марии Заньковецкой, учился в Литературном институте Москвы. Работал в Львовском кукольном театре. Снимался в фильмах: т/с «Улицы разбитых фонарей», «Катерина.Возвращение любви», т/с «Литейный», «Предел. Кровь с молоком», «Любовь под грифом "Совершенно секретно" - 3» и др.
 
@@ -27,5 +29,7 @@ modified: 2013-02-02 20:53:17
 
 <a href="90-ychilka.html">«Училка из будущего»</a> В.Ольшанский - роль Папа (Джон Трайвер)
 
-<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/47510/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/47510/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 

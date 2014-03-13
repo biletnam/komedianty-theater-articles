@@ -5,7 +5,9 @@ alias: -xxi-
 modified: 2012-06-24 20:03:21
 ---
 
-<figure><a href="90-ychilka.html"><img src="./images/stories/i7trf4.jpg" /></a></figure>
+<figure><a href="90-ychilka.html">
+![](/images/stories/i7trf4.jpg)
+</a></figure>
 
 **27 марта** **2011** г. в Международный день театра "КОМЕДИАНТЫ" представляют инновационную Премьеру - спектакль <a href="90-ychilka.html">**"УЧИЛКА ИЗ БУДУЩЕГО"**</a> (В. Ольшанский) в постановке Алексея Исполатова. Это спектакль для детей среднего школьного возраста по мотивам зарубежной фантастики ХХ века повествует о недалеком будущем, в котором детям совсем не нужно будет ходить в школу! Роботы, компьютеры, технологии будущего - все это ожидает непосед и озорников города, а так же их родителей. В спектакле заняты: <a href="65-larisa-klimova.html">Лариса Климова</a>, <a href="23-belova-ekaterina.html">Екатерина Белова</a>, <a href="50-roman-pritula.html">Роман Притула</a>, <a href="51-stas-voronetski.html">Станислав Воронецкий</a>, <a href="24-blednyh-sergej.html">Сергей Бледных</a>, <a href="78-ylia-burceva.html">Юлия Бурцева</a>, <a href="63-lyda-nikitina.html">Людмила Никитина</a>, <a href="67-leonid-zabkin.html">Леонид Зябкин</a>, <a href="79-anna-zagrebna.html">Анна Загребна</a>.
 

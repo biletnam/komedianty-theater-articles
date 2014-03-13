@@ -33,19 +33,33 @@ modified: 2012-10-16 20:42:01
 
 Домработница Дуся - <a href="80-tatiana-kogevnikova.html">Татьяна КОЖЕВНИКОВА</a> / <a href="61-galina-saburova.html">Галина САБУРОВА</a>
 
-<figure><img src="./images/stories/dachnici.jpg" /></figure>
+<figure>
+![](/images/stories/dachnici.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici2.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici3.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici foto terehova2.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici foto terehova2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/dachnici foto iakovleva.jpg" /></figure>
+<figure>
+![](/images/stories/random/dachnici foto iakovleva.jpg)
+</figure>
 
 Спектакль идет **2** ч. **30** мин. с одним антрактом.
 

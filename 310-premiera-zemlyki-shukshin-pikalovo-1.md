@@ -9,7 +9,9 @@ modified: 2014-03-07 22:12:33
 
 <h1>"ЗЕМЛЯКИ" </h1>
 
-<figure><img src="./images/stories/foto_pressa/pressa-zemlyaki.jpg" /></figure>
+<figure>
+![](/images/stories/foto_pressa/pressa-zemlyaki.jpg)
+</figure>
 
 Шукшин – автор, который сохранил для нас русский характер, тот самый характер, который сейчас уходит в небытие, безусловная ценность и важность этого именно сегодня подвигает снова и снова обращаться к его рассказам.
 
@@ -23,7 +25,9 @@ modified: 2014-03-07 22:12:33
 
 В город Пикалево театр «Комедианты» регулярно ездит с гастролями уже больше десяти лет. А в ближайшем обозримом будущем премьеру «Земляков» смогут увидеть жители Подпорожья. В Санкт-Петербурге премьера пройдет на сцене театра «Комедианты» (Лиговский, 44) 27 и 29 марта.
 
-<figure><img src="./images/stories/foto_pressa/pressa-zemlyaki2-.jpg" /></figure>
+<figure>
+![](/images/stories/foto_pressa/pressa-zemlyaki2-.jpg)
+</figure>
 
 Борислава ШАРОВА
 
@@ -31,5 +35,7 @@ modified: 2014-03-07 22:12:33
 
 <a href="http://www.vesty.spb.ru/apps/novosti/2014/03/07/premera-v-leningradskoj-oblasti/">Ссылка на статью</a>
 
-<figure><img src="./images/stories/random/sait%2044logo%20logo.jpg" /></figure>
+<figure>
+![](/images/stories/random/sait%2044logo%20logo.jpg)
+</figure>
 

@@ -7,7 +7,9 @@ modified: 2013-02-07 16:56:58
 
 **АНАТОЛИЙ ИЛЬЧЕНКО**
 
-<figure><img src="./images/stories/ilchenko.jpg" /></figure>
+<figure>
+![](/images/stories/ilchenko.jpg)
+</figure>
 
 Родился 14 июня 1976 года в г.Ноябрьске . В 1998 году окончил Санкт-Петербургскую Академию театрального искусства, класс профессора А.С.Шведерского . Снимался в фильмах: «Аэропорт - 2», «План Б», «Гончие - 3», «Клеймо», «Отставник - 2», «Ментовские войны - 5» и др.
 
@@ -27,7 +29,11 @@ modified: 2013-02-07 16:56:58
 
 <a href="41-v-paris.html">«В Париж!» </a>А.П.Чехов - роль Соусов, чиновник
 
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/8040/bio/"><img src="./images/stories/random/kino-teatr-88x31.gif" /></a></figure>
+<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/8040/bio/">
+![](/images/stories/random/kino-teatr-88x31.gif)
+</a></figure>
 
-<figure><a href="http://ruskino.ru/art/8341"><img src="./images/stories/random/rus-.png" /></a></figure>
+<figure><a href="http://ruskino.ru/art/8341">
+![](/images/stories/random/rus-.png)
+</a></figure>
 

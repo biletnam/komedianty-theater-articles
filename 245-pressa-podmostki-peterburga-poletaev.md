@@ -8,7 +8,9 @@ alias: pressa-podmostki-peterburga-poletaev
 
 **Сразу по окончанию первого в сезоне спектакля <a href="72-trigorin.html">"Записные книжки Тригорина"</a>, мы встретились с актёром <a href="82-valerii-poletaev.html">Валерием Полетаевым</a>, чтобы задать ему несколько вопросов о спектакле и его роли.**
 
-<figure><img src="./images/stories/random/poletaev.jpg" /></figure>
+<figure>
+![](/images/stories/random/poletaev.jpg)
+</figure>
 
 **Журналист:** Спасибо за большое удовольствие от пьесы, от Вашей роли. Скажите, как начиналась для Вас работа над ней?
 

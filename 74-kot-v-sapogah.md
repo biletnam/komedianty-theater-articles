@@ -35,19 +35,33 @@ modified: 2014-02-05 20:28:11
 
 Жак-Простак - <a href="66-vitalii-kravchenko.html">Виталий КРАВЧЕНКО</a>
 
-<figure><img src="./images/stories/random/kot v sapogah.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot v sapogah.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot v sapogah2.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot v sapogah2.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot3.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot v sapogah3.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot v sapogah3.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot5.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot5.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/kot6.jpg" /></figure>
+<figure>
+![](/images/stories/random/kot6.jpg)
+</figure>
 
 Спектакль идёт **1** час **15** минут без антракта.
 

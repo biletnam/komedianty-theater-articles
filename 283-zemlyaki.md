@@ -5,7 +5,9 @@ alias: zemlyaki
 modified: 2014-03-07 22:13:59
 ---
 
-<figure><img src="./images/stories/random/dk_new.png" /></figure>
+<figure>
+![](/images/stories/random/dk_new.png)
+</figure>
 
 **Василий Шукшин**
 
@@ -71,15 +73,25 @@ modified: 2014-03-07 22:13:59
 
 <a href="310-premiera-zemlyki-shukshin-pikalovo-1.html">Премьера в Ленинградской области / спектакль "ЗЕМЛЯКИ" / Газета "ВЕСТИ" (автор: Б.Шарова)</a>
 
-<figure><img src="./images/stories/random/zemlyaki5-foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/zemlyaki5-foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/news/zemlyki-foto.jpg" /></figure>
+<figure>
+![](/images/stories/news/zemlyki-foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/zemlyaki 2-foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/zemlyaki 2-foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/zemlyaki3-foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/zemlyaki3-foto.jpg)
+</figure>
 
-<figure><img src="./images/stories/random/zemlyaki4-foto.jpg" /></figure>
+<figure>
+![](/images/stories/random/zemlyaki4-foto.jpg)
+</figure>
 
 Премьера состоялась **27** марта **2014** года.
 
