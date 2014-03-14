@@ -1,8 +1,8 @@
 ---
 id: 23
-title: Белова Екатерина
-alias: belova-ekaterina
-modified: 2013-10-20 23:43:11
+title: "Белова Екатерина"
+alias: "belova-ekaterina"
+modified: "2013-10-20 23:43:11"
 ---
 
 ## ЕКАТЕРИНА БЕЛОВА
@@ -40,4 +40,3 @@ modified: 2013-10-20 23:43:11
 <figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/319449/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-

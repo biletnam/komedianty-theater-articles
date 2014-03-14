@@ -1,8 +1,8 @@
 ---
 id: 24
-title: Сергей Бледных
-alias: blednyh-sergej
-modified: 2013-02-02 20:53:17
+title: "Сергей Бледных"
+alias: "blednyh-sergej"
+modified: "2013-02-02 20:53:17"
 ---
 
 ## СЕРГЕЙ БЛЕДНЫХ
@@ -32,4 +32,3 @@ modified: 2013-02-02 20:53:17
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/47510/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-

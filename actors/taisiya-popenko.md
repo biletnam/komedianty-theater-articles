@@ -1,12 +1,10 @@
 ---
-layout: default
 id: 26
 title: Таисия Попенко
 alias: "popenko-taisija"
-modified: 
-  - 2013-02-02T15:23:15.000Z
-  - "Sat Feb 02 2013 19:23:15 GMT+0400 (Московское время (зима))"
+modified: "2013-02-02"
 published: true
+layout: default
 ---
 
 ## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ

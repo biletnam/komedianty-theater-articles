@@ -26,4 +26,3 @@ modified: 2013-07-13 00:03:46
 <figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-

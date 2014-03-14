@@ -1,6 +1,6 @@
 ---
 id: 61
-title: Галина Субурова
+title: Галина Сабурова
 alias: galina-saburova
 modified: 2014-01-28 18:49:43
 ---

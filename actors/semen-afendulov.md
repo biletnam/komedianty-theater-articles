@@ -1,8 +1,8 @@
 ---
 id: 22
-title: Семен Афендулов
-alias: afendulov-semen
-modified: 2012-04-21 17:19:46
+title: "Семен Афендулов"
+alias: "afendulov-semen"
+modified: "2012-04-21 17:19:46"
 ---
 
 ## СЕМЁН АФЕНДУЛОВ
@@ -34,4 +34,3 @@ modified: 2012-04-21 17:19:46
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6450/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-

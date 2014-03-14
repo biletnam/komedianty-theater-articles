@@ -1,12 +1,10 @@
 ---
-layout: default
 id: 39
-title: БЕДА ОТ НЕЖНОГО СЕРДЦА
+title: "БЕДА ОТ НЕЖНОГО СЕРДЦА"
 alias: "beda-ot-neghnogo-serdca"
-modified: 
-  - 2013-04-28T11:24:36.000Z
-  - "Sun Apr 28 2013 15:24:36 GMT+0400 (Московское время (зима))"
+modified: "2013-04-28"
 published: true
+layout: default
 ---
 
 ## Владимир Соллогуб

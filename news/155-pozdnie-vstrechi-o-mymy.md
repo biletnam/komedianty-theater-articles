@@ -1,19 +1,17 @@
 ---
-layout: default
 id: 155
-title: Поздние встречи о «МУМУ»
+title: "Поздние встречи о «МУМУ»"
 alias: "pozdnie-vstrechi-o-mymy"
-modified: 
-  - 2012-06-24T19:55:00.000Z
-  - "Sun Jun 24 2012 23:55:00 GMT+0400 (Московское время (зима))"
+modified: "2012-06-24 19:55:00
 published: true
+layout: default
 ---
 
 <figure><a href="http://vk.com/video-15602252_159376811">
 ![](http://cs12558.vkontakte.ru/u712407/video/s_81e29627.jpg)
 </a></figure>
 
-<a href="http://vk.com/video-15602252_159170346"></a>
+<a href="http://vk.com/video-15602252_159170346">Видео [?] </a>
 
 **Канал 100**
 

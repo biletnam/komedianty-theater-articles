@@ -1,8 +1,8 @@
 ---
 id: 21
-title: Филипп Азаров
-alias: fillipp-azarov
-modified: 2012-12-08 21:57:00
+title: "Филипп Азаров"
+alias: "fillipp-azarov"
+modified: "2012-12-08 21:57:00"
 ---
 
 ## ФИЛИПП АЗАРОВ
@@ -30,4 +30,3 @@ modified: 2012-12-08 21:57:00
 <figure><a href="http://ruskino.ru/art/5424">
 ![](/images/stories/random/rus-.png)
 </a></figure>
-

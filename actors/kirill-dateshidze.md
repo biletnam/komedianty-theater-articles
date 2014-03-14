@@ -1,8 +1,8 @@
 ---
 id: 281
-title: Кирилл Датешидзе
-alias: kirilldateshidze
-modified: 2013-07-10 19:23:50
+title: "Кирилл Датешидзе"
+alias: "kirilldateshidze"
+modified: "2013-07-10"
 ---
 
 ## КИРИЛЛ ДАТЕШИДЗЕ
@@ -28,4 +28,3 @@ modified: 2013-07-10 19:23:50
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-

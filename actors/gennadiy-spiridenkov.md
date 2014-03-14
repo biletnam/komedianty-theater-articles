@@ -1,8 +1,8 @@
 ---
 id: 27
-title: Геннадий Спириденков
-alias: -gennadij-spiridenkov-za-rf
-modified: 2013-02-02 14:56:10
+title: "Геннадий Спириденков"
+alias: "-gennadij-spiridenkov-za-rf"
+modified: "2013-02-02"
 ---
 
 ## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ
@@ -30,4 +30,3 @@ modified: 2013-02-02 14:56:10
 <figure><a href="http://www.kino-teatr.ru/kino/acter/m/ros/6427/bio/">
 ![](/images/stories/random/kino-teatr-88x31.gif)
 </a></figure>
-
