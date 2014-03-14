@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 100
-title: "Дворцы Санкт-Петербурга - детям"
+title: "Дворцы Санкт-Петербурга — детям"
 alias: "dvorci-spb"
-modified: 
-  - 2012-01-23T21:41:31.000Z
-  - "Tue Jan 24 2012 01:41:31 GMT+0400 (Московское время (зима))"
+modified: "2012-01-23"
 published: true
 ---
 

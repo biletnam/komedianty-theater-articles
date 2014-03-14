@@ -1,9 +1,7 @@
 ---
-layout: default
 id: 11
-title: Репертуар
-alias: repertoire
-modified: ""
+title: "Репертуар"
+alias: "repertoire"
 published: true
 ---
 

@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 105
 title: "Премьера! «Училка из будущего». (интернет-издание) 19.05.2011"
 alias: "ychilka-pressa"
-modified: 
-  - 2011-07-04T08:15:42.000Z
-  - "Mon Jul 04 2011 12:15:42 GMT+0400 (Московское время (зима))"
+modified:  "2011-07-04"
 published: true
 ---
 

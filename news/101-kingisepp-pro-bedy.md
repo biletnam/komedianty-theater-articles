@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 101
-title: "Кингисепп про "
+title: "Кингисепп про «Беду»"
 alias: "kingisepp-pro-bedy"
-modified: 
-  - 2012-06-24T20:00:42.000Z
-  - "Mon Jun 25 2012 00:00:42 GMT+0400 (Московское время (зима))"
+modified: "2012-06-24"
 published: true
 ---
 

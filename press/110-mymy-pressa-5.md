@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 110
-title: МУМУ
+title: "«МУМУ»"
 alias: "mymy-pressa-5"
-modified: 
-  - 2011-07-04T08:20:24.000Z
-  - "Mon Jul 04 2011 12:20:24 GMT+0400 (Московское время (зима))"
+modified: Э2011-07-04"
 published: true
 ---
 

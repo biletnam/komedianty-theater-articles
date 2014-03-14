@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 106
 title: "«До чего дошёл прогресс?!» — о спектакле «Училка из Будущего»"
 alias: "ychilka-pressa1"
-modified: 
-  - 2011-07-04T08:13:42.000Z
-  - "Mon Jul 04 2011 12:13:42 GMT+0400 (Московское время (зима))"
+modified: "2011-07-04"
 published: true
 ---
 

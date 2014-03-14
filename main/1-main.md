@@ -1,9 +1,8 @@
 ---
-layout: default
 id: 1
-title: Слово художественного руководителя
-alias: main
-modified: "2013−01−07 08:53:27"
+title: "Слово художественного руководителя"
+alias: "main"
+modified: "2013−01−07"
 published: true
 ---
 

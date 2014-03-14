@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 102
 title: "Планы на сезон 2012-2013"
-alias: plani
-modified: 
-  - 2012-12-15T22:38:36.000Z
-  - "Sun Dec 16 2012 02:38:36 GMT+0400 (Московское время (зима))"
+alias: "plani"
+modified: "2012-12-15"
 published: true
 ---
 

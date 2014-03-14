@@ -1,11 +1,8 @@
 ---
-layout: default
 id: 108
-title: "Премьера! МуМу"
+title: "Премьера! «МуМу»"
 alias: "mymy-pressa-2"
-modified: 
-  - 2013-12-22T19:26:21.000Z
-  - "Sun Dec 22 2013 23:26:21 GMT+0400 (Московское время (зима))"
+modified: "2013-12-22"
 published: true
 ---
 
