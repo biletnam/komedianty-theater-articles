@@ -9,11 +9,11 @@ prose:
   relativeLinks: "http://prose.io/#abnmt/komedianty-theater-articles/links.jsonp"
   metadata:
     "":
-      - name: "id"
+      - name: "jos_id"
         field:
           element: number
           label: "ID"
-      - name: "alias"
+      - name: "jos_alias"
         field:
           element: text
           label: "Слаг"
