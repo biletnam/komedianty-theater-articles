@@ -1,49 +1,42 @@
 ---
+layout: default
 jos_id: 87
-title: "Александр Шевелёв"
 jos_alias: "aleksandr-shevelov"
 modified: "2013-06-25"
-layout: default
+title: Александр Шевелёв
+employment:
+- «Поминальная молитва»: Степан
+- «Волки и овцы»: Лыняев
+- «Сирано де Бержерак»: Рагно
+- «Дурочка»: Октавьо
+- «Беда от нежного сердца»: Папенька
+theater:
+- Диоген («Диоген» — Константинов В., Рацер Б.)
+- Малахов («Остановите Малахова» — Аграновский В.)
+- Подсекальников («Самоубийца» — Эрдман Н. Р.)
+- Счастливцев («Лес» — Островский А. Н.)
+- Шмага («Без вины виноватые» — Островский А. Н.)
+- Щукарь («Поднятая целина» — Шолохов М. А., Демин П.)
+cinema:
+- [Школа волшебства](http://www.kino-teatr.ru/teatr/movie/98960/annot/) (фильм-спектакль)
+- [Розабелла и тролль](http://www.kino-teatr.ru/teatr/movie/10324/annot/) (фильм-спектакль)
+- [Романс о Санта Крусе](http://www.kino-teatr.ru/teatr/movie/88594/annot/) (фильм-спектакль)
+- [Время печали еще не пришло](http://www.kino-teatr.ru/kino/movie/ros/1197/annot/)
+- [Огниво](http://www.kino-teatr.ru/teatr/movie/17408/annot/) (фильм-спектакль)
+- [Заповедник гоблинов](http://www.kino-teatr.ru/teatr/movie/17360/annot/) (фильм-спектакль)
+- [Улыбка](http://www.kino-teatr.ru/kino/movie/sov/7449/annot)/
+- [Агент национальной безопасности - 2](http://www.kino-teatr.ru/kino/movie/ros/120/annot/)
+- [Улицы разбитых фонарей-2](http://www.kino-teatr.ru/kino/movie/ros/82635/annot/)
+- [Тайны следствия - 9](http://www.kino-teatr.ru/kino/movie/ros/88408/annot/)
+- [Литейный (4-й сезон)](http://www.kino-teatr.ru/kino/movie/ros/82630/annot/)
+- [Танцор](http://www.kino-teatr.ru/kino/movie/ros/7058/annot/)
+- [Убойная сила-1](http://www.kino-teatr.ru/kino/movie/ros/7397/annot/)
+kinoteatr: http://www.kino-teatr.ru/kino/acter/m/ros/8974/bio/
+photo: /images/actors/Shevelev-Aleksandr.jpg
 ---
-
-## АЛЕКСАНДР ШЕВЕЛЁВ
-
-<figure>
-![](/images/actors/Shevelev-Aleksandr.jpg)
-</figure>
 
 Родился 5 сентября 1948 года.
 
-Окончил Саратовское театральное училище имени И.А.Слонова (педагог - В.И. Давыдов).
+Окончил Саратовское театральное училище имени И.А.Слонова (педагог — В. И. Давыдов).
 
 Играл в Ленинградском ТЮЗе.
-
-ТЕАТРАЛЬНЫЕ РАБОТЫ
-
-Диоген ("Диоген" - Константинов В., Рацер Б.)
-
-Малахов ("Остановите Малахова" - Аграновский В.)
-
-Подсекальников ("Самоубийца" - Эрдман Н.Р.)
-
-Счастливцев ("Лес" - Островский А.Н.)
-
-Шмага ("Без вины виноватые" - Островский А.Н.)
-
-Щукарь ("Поднятая целина" - Шолохов М.А., Демин П.)
-
-Актер Санкт-Петербургского театра "Комедианты".
-
-Роли в театре:
-
-«Поминальная молитва» Г. Горин – роль Степана
-
-«Волки и овцы» А. Островский – роль Лыняева
-
-«Сирано де Бержерак» Э. Ростан – роль Рагно
-
-«Дурочка» Лопе де Вега – роль Октавьо
-
-«Беда от нежного сердца» - роль Папеньки
-
-Снимался в кино и телесериалах: [Агент национальной безопасности - 2](http://www.kino-teatr.ru/kino/movie/ros/120/annot/ title="Агент национальной безопасности - 2"), [Улицы разбитых фонарей-2](http://www.kino-teatr.ru/kino/movie/ros/82635/annot/ title="Улицы разбитых фонарей-2"), [Тайны следствия - 9](http://www.kino-teatr.ru/kino/movie/ros/88408/annot/ title="Тайны следствия - 9"), [Литейный (4-й сезон)](http://www.kino-teatr.ru/kino/movie/ros/82630/annot/ title="Литейный (4-й сезон)"), [Танцор](http://www.kino-teatr.ru/kino/movie/ros/7058/annot/ title="Танцор"), [Убойная сила-1](http://www.kino-teatr.ru/kino/movie/ros/7397/annot/ title="Убойная сила-1"), [Школа волшебства](http://www.kino-teatr.ru/teatr/movie/98960/annot/ title="Школа волшебства") (фильм-спектакль), [Розабелла и тролль](http://www.kino-teatr.ru/teatr/movie/10324/annot/ title="Розабелла и тролль") (фильм-спектакль), [Романс о Санта Крусе](http://www.kino-teatr.ru/teatr/movie/88594/annot/ title="Романс о Санта Крусе") (фильм-спектакль), [Время печали еще не пришло](http://www.kino-teatr.ru/kino/movie/ros/1197/annot/ title="Время печали еще не пришло"), [Огниво](http://www.kino-teatr.ru/teatr/movie/17408/annot/ title="Огниво") (фильм-спектакль), [Заповедник гоблинов](http://www.kino-teatr.ru/teatr/movie/17360/annot/ title="Заповедник гоблинов") (фильм-спектакль), [Улыбка](http://www.kino-teatr.ru/kino/movie/sov/7449/annot/ title="Улыбка") и др.
