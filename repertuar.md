@@ -1,8 +1,12 @@
 ---
+layout: default
 id: 11
 title: Репертуар
 alias: repertoire
-modified: 2014-03-11 17:19:16
+modified: 
+  - 2014-03-11T17:19:16.000Z
+  - "Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима))"
+published: true
 ---
 
 ![ЗЕМЛЯКИ](/images/afisha-right-zemlyaki/zemlyaki.jpg)
