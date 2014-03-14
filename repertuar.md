@@ -3,19 +3,21 @@ layout: default
 id: 11
 title: Репертуар
 alias: repertoire
-modified:
+modified: 
   - 2014-03-11T17:19:16.000Z
   - "Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима))"
+  - "Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима)),Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима))"
 published: true
 ---
 
 <style type="text/css">
 	img {
-		max-height: 250px;
+		max-width: 120px;
 	}
 	figure {
 		float: left;
 		clear: both;
+        margin-right: 1em;
 	}
 </style>
 
