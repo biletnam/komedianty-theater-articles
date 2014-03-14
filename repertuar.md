@@ -3,7 +3,7 @@ layout: default
 id: 11
 title: Репертуар
 alias: repertoire
-modified: ""
+modified: now
 published: true
 ---
 
