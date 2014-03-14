@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 63
 jos_alias: "lyda-nikitina"
 modified: "2013-10-20"

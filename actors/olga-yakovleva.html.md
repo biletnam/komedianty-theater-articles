@@ -3,7 +3,7 @@ jos_id: 89
 title: "Ольга Яковлева"
 jos_alias: "olga-yakovleva"
 modified: "2013-01-27"
-layout: default
+layout: actor
 ---
 
 ## ОЛЬГА ЯКОВЛЕВА

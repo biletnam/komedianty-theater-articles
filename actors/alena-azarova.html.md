@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 86
 jos_alias: "alena-azarova"
 modified: "2013-10-20"

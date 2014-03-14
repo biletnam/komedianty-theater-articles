@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 87
 jos_alias: "aleksandr-shevelov"
 modified: "2013-06-25"

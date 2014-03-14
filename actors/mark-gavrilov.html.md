@@ -3,7 +3,7 @@ jos_id: 112
 title: "Марк Гаврилов"
 jos_alias: "mark-gavrilov"
 modified: "2013-07-13"
-layout: default
+layout: actor
 ---
 
 ## МАРК ГАВРИЛОВ

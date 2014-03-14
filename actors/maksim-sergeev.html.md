@@ -3,7 +3,7 @@ jos_id: 57
 title: "Максим Сергеев"
 jos_alias: "maxsim-sergeev"
 modified: "2013-10-20"
-layout: default
+layout: actor
 ---
 
 ## МАКСИМ СЕРГЕЕВ

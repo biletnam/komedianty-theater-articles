@@ -3,7 +3,7 @@ jos_id: 51
 title: "Станислав Воронецкий"
 jos_alias: "stas-voronetski"
 modified: "2013-10-20"
-layout: default
+layout: actor
 ---
 
 ## СТАНИСЛАВ ВОРОНЕЦКИЙ

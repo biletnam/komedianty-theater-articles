@@ -3,7 +3,7 @@ jos_id: 48
 title: "Елизавета Чернова"
 jos_alias: "chernovaelizaveta"
 modified: "2013-12-15"
-layout: default
+layout: actor
 ---
 
 ## ЕЛИЗАВЕТА ЧЕРНОВА

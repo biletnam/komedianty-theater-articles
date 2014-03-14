@@ -1,6 +1,6 @@
 ---
 title: "Сергей Суржин"
-layout: default
+layout: actor
 ---
 
 ## Сергей Суржин

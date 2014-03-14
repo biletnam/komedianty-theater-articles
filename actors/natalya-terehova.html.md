@@ -3,7 +3,7 @@ jos_id: 56
 title: "Наталья Терехова"
 jos_alias: "natasha-terehova"
 modified: "2013-10-20"
-layout: default
+layout: actor
 ---
 
 ## НАТАЛЬЯ ТЕРЕХОВА

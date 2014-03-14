@@ -3,7 +3,7 @@ jos_id: 61
 title: "Галина Сабурова"
 jos_alias: "galina-saburova"
 modified: "2014-01-28"
-layout: default
+layout: actor
 ---
 
 ## ГАЛИНА САБУРОВА

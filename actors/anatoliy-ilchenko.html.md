@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 55
 jos_alias: "anatolii-ilchenko"
 modified: "2013-02-07"

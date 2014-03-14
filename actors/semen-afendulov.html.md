@@ -3,7 +3,7 @@ jos_id: 22
 title: "Семен Афендулов"
 jos_alias: "afendulov-semen"
 modified: "2012-04-21"
-layout: default
+layout: actor
 ---
 
 ## СЕМЁН АФЕНДУЛОВ

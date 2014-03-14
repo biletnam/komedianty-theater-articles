@@ -3,7 +3,7 @@ jos_id: 24
 title: "Сергей Бледных"
 jos_alias: "blednyh-sergej"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## СЕРГЕЙ БЛЕДНЫХ

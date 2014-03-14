@@ -3,7 +3,7 @@ jos_id: 66
 title: "Виталий Кравченко"
 jos_alias: "vitalii-kravchenko"
 modified: "2013-07-13"
-layout: default
+layout: actor
 ---
 
 ## ВИТАЛИЙ КРАВЧЕНКО

@@ -3,7 +3,7 @@ jos_id: 27
 title: "Геннадий Спириденков"
 jos_alias: "-gennadij-spiridenkov-za-rf"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 79
 jos_alias: "anna-zagrebna"
 modified: "2013-09-11"

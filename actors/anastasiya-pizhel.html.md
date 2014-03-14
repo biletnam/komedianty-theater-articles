@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 64
 jos_alias: "asia-pigel-sergeevna"
 modified: "2012-12-08"

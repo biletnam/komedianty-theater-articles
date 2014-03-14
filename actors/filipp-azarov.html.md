@@ -3,7 +3,7 @@ jos_id: 21
 title: "Филипп Азаров"
 jos_alias: "fillipp-azarov"
 modified: "2012-12-08"
-layout: default
+layout: actor
 ---
 
 ## ФИЛИПП АЗАРОВ

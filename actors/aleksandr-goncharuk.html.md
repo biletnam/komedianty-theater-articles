@@ -1,6 +1,6 @@
 ---
 title: Александр Гончарук
-layout: default
+layout: actor
 ---
 
 …

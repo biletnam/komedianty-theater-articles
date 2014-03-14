@@ -3,7 +3,7 @@ jos_id: 284
 title: "Павел Ивановский"
 jos_alias: "2013-09-08-18-38-31"
 modified: "2013-12-12"
-layout: default
+layout: actor
 ---
 
 <figure>

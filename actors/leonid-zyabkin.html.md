@@ -3,7 +3,7 @@ jos_id: 67
 title: "Леонид Зябкин"
 jos_alias: "leonid-zabkin"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## ЛЕОНИД ЗЯБКИН

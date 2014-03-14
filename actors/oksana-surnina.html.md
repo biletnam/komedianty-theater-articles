@@ -3,7 +3,7 @@ jos_id: 85
 title: "Оксана Сурнина"
 jos_alias: "oksana-surnina"
 modified: "2012-04-21"
-layout: default
+layout: actor
 ---
 
 ## ОКСАНА СУРНИНА

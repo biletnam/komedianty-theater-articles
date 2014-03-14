@@ -3,7 +3,7 @@ jos_id: 58
 title: "Виктор Костецкий"
 jos_alias: "viktor-kostetskii"
 modified: "2013-03-31"
-layout: default
+layout: actor
 ---
 
 ## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ

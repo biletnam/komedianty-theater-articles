@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 53
 jos_alias: "aleksei-ispolatov"
 modified: "2013-10-20"

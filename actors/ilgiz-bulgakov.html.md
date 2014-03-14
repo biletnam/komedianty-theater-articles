@@ -3,7 +3,7 @@ jos_id: 77
 title: "Ильгиз Булгаков"
 jos_alias: "ilgiz-bulgakov"
 modified: "2011-12-09"
-layout: default
+layout: actor
 ---
 
 ## ИЛЬГИЗ БУЛГАКОВ

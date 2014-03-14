@@ -1,6 +1,6 @@
 ---
 title: "Лина Сорокина"
-layout: default
+layout: actor
 ---
 
 ## Лина Сорокина

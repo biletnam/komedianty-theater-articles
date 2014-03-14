@@ -3,7 +3,7 @@ jos_id: 301
 title: "Мария Осипова"
 jos_alias: "mariaosipova"
 modified: "2013-12-15"
-layout: default
+layout: actor
 ---
 
 <figure>

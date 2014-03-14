@@ -3,7 +3,7 @@ jos_id: 25
 title: "Нина Мещанинова"
 jos_alias: "mewaninova-nina"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ

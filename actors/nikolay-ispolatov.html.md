@@ -3,7 +3,7 @@ jos_id: 54
 title: "Николай Исполатов"
 jos_alias: "nikolai-ispolatov"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## НИКОЛАЙ ИСПОЛАТОВ

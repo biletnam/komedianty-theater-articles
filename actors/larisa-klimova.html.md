@@ -3,7 +3,7 @@ jos_id: 65
 title: "Лариса Климова"
 jos_alias: "larisa-klimova"
 modified: "2013-01-27"
-layout: default
+layout: actor
 ---
 
 ## ЛАРИСА КЛИМОВА

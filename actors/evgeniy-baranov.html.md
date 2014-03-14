@@ -1,6 +1,6 @@
 ---
 title: "Евгений Баранов"
-layout: default
+layout: actor
 ---
 
 ## Евгений Баранов

@@ -3,7 +3,7 @@ jos_id: 49
 title: "Юлия Горшенина"
 jos_alias: "ylia-gorshenina"
 modified: "2013-10-20"
-layout: default
+layout: actor
 ---
 
 ## ЮЛИЯ ГОРШЕНИНА

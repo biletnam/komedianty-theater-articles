@@ -1,6 +1,6 @@
 ---
 title: "Андрей Вергелис"
-layout: default
+layout: actor
 ---
 
 …

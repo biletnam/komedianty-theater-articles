@@ -1,6 +1,6 @@
 ---
 title: "Наталья Бояренок"
-layout: default
+layout: actor
 ---
 
 ## Наталья Бояренок

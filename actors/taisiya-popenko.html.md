@@ -4,7 +4,7 @@ title: "Таисия Попенко"
 jos_alias: "popenko-taisija"
 modified: "2013-02-02"
 published: true
-layout: default
+layout: actor
 ---
 
 ## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ

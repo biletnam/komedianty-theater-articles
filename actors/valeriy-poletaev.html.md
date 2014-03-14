@@ -3,7 +3,7 @@ jos_id: 82
 title: "Валерий Полетаев"
 jos_alias: "valerii-poletaev"
 modified: "2013-07-12"
-layout: default
+layout: actor
 ---
 
 ## ВАЛЕРИЙ ПОЛЕТАЕВ

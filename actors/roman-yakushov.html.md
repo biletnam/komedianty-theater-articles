@@ -3,7 +3,7 @@ jos_id: 88
 title: "Роман Якушов"
 jos_alias: "roman-yakushov"
 modified: "2013-07-13"
-layout: default
+layout: actor
 ---
 
 ## РОМАН ЯКУШОВ

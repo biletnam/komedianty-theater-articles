@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 23
 jos_alias: "belova-ekaterina"
 modified: "2013-10-20"

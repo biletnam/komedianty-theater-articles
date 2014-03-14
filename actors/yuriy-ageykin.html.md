@@ -1,6 +1,6 @@
 ---
 title: "Юрий Агейкин"
-layout: default
+layout: actor
 ---
 
 ## Юрий Агейкин

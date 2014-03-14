@@ -3,7 +3,7 @@ jos_id: 81
 title: "Екатерина Культина"
 jos_alias: "ekaterina-kyltina"
 modified: "2012-04-21"
-layout: default
+layout: actor
 ---
 
 ## ЕКАТЕРИНА КУЛЬТИНА

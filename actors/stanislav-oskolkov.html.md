@@ -1,6 +1,6 @@
 ---
 title: "Станислав Осколков"
-layout: default
+layout: actor
 ---
 
 ## Станислав Осколков

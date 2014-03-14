@@ -1,6 +1,6 @@
 ---
 title: "Виталий Такс"
-layout: default
+layout: actor
 ---
 
 ## Виталий Такс

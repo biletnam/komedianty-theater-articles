@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: actor
 jos_id: 302
 jos_alias: "andrey-shimko"
 title: "Андрей Шимко"

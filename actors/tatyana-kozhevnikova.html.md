@@ -3,7 +3,7 @@ jos_id: 80
 title: "Татьяна Кожевникова"
 jos_alias: "tatiana-kogevnikova"
 modified: "2013-02-02"
-layout: default
+layout: actor
 ---
 
 ## ТАТЬЯНА КОЖЕВНИКОВА

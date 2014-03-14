@@ -3,7 +3,7 @@ jos_id: 50
 title: "Роман Притула"
 jos_alias: "roman-pritula"
 modified: "2014-01-28"
-layout: default
+layout: actor
 ---
 
 ## РОМАН ПРИТУЛА

@@ -3,7 +3,7 @@ jos_id: 52
 title: "Сергей Николаев"
 jos_alias: "sergei-nikolaev"
 modified: "2013-10-20"
-layout: default
+layout: actor
 ---
 
 ## СЕРГЕЙ НИКОЛАЕВ

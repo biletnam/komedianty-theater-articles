@@ -3,7 +3,7 @@ jos_id: 78
 title: "Юлия Бурцева"
 jos_alias: "ylia-burceva"
 modified: "2013-12-12"
-layout: default
+layout: actor
 ---
 
 ## ЮЛИЯ БУРЦЕВА

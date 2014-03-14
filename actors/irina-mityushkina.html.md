@@ -3,7 +3,7 @@ jos_id: 62
 title: "Ирина Митюшкина"
 jos_alias: "irina-mityshkina"
 modified: "2012-04-21"
-layout: default
+layout: actor
 ---
 
 ## ИРИНА МИТЮШКИНА

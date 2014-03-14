@@ -4,7 +4,7 @@ title: "Михаил Левшин"
 jos_alias: "mihail-levshin"
 modified: "2014-02-11"
 published: true
-layout: default
+layout: actor
 ---
 
 ![](http://komedianty.com/images/stories/random/foto%20ybilei%2020%20let.jpg)

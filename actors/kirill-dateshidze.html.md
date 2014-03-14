@@ -3,7 +3,7 @@ jos_id: 281
 title: "Кирилл Датешидзе"
 jos_alias: "kirilldateshidze"
 modified: "2013-07-10"
-layout: default
+layout: actor
 ---
 
 ## КИРИЛЛ ДАТЕШИДЗЕ
