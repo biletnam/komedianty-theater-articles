@@ -3,22 +3,28 @@ layout: default
 id: 11
 title: Репертуар
 alias: repertoire
-modified: 
-  - 2014-03-11T17:19:16.000Z
-  - "Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима))"
-  - "Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима)),Tue Mar 11 2014 21:19:16 GMT+0400 (Московское время (зима))"
+modified: ""
 published: true
 ---
 
 <style type="text/css">
 	img {
 		max-width: 120px;
+        max-height: 250px;
+        width: auto;
+        width: 150px;
+        height: auto;
 	}
 	figure {
 		float: left;
-		clear: both;
         margin-right: 1em;
 	}
+    hr {
+    	clear: both;
+        margin: 0.5em 0;
+        border: none;
+        border-bottom: 1px #eee solid;
+    }
 </style>
 
 <figure>![ЗЕМЛЯКИ](/images/afisha-right-zemlyaki/zemlyaki.jpg)</figure>
