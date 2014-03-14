@@ -1,8 +1,9 @@
 ---
 id: 274
-title: «Комедианты» в телеигре «СТО к ОДНОМУ»
-alias: sto-k-odnomy
-modified: 2013-11-01 19:37:39
+title: "«Комедианты» в телеигре «СТО к ОДНОМУ»"
+alias: "sto-k-odnomy"
+modified: "2013-11-01"
+layout: default
 ---
 
 <figure><a href="http://russia.tv/brand/show/brand_id/9222">

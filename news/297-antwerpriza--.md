@@ -1,7 +1,8 @@
 ---
 id: 297
-title: Antwerpriza в Комедиантах
-alias: antwerpriza--
+title: "Antwerpriza в Комедиантах"
+alias: "antwerpriza--"
+layout: default
 ---
 
 <figure>

@@ -1,8 +1,9 @@
 ---
 id: 81
-title: Екатерина Культина
-alias: ekaterina-kyltina
-modified: 2012-04-21 19:05:07
+title: "Екатерина Культина"
+alias: "ekaterina-kyltina"
+modified: "2012-04-21"
+layout: default
 ---
 
 ## ЕКАТЕРИНА КУЛЬТИНА

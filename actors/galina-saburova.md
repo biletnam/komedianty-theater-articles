@@ -1,8 +1,9 @@
 ---
 id: 61
-title: Галина Сабурова
-alias: galina-saburova
-modified: 2014-01-28 18:49:43
+title: "Галина Сабурова"
+alias: "galina-saburova"
+modified: "2014-01-28"
+layout: default
 ---
 
 ## ГАЛИНА САБУРОВА

@@ -1,8 +1,9 @@
 ---
 id: 7
-title: О театре
-alias: about
-modified: 2012-12-21 19:39:27
+title: "О театре"
+alias: "about"
+modified: "2012-12-21"
+layout: default
 ---
 
 [ИСТОРИЯ ТЕАТРА](17-history.html title="История театра комедианты")

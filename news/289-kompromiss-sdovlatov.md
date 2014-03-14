@@ -1,8 +1,9 @@
 ---
 id: 289
-title: Компромисс ПРЕМЬЕРА!
-alias: kompromiss-sdovlatov
-modified: 2013-10-30 10:22:26
+title: "Компромисс ПРЕМЬЕРА!"
+alias: "kompromiss-sdovlatov"
+modified: "2013-10-30"
+layout: default
 ---
 
 ## 19 и 20 октября 2013 года

@@ -1,7 +1,8 @@
 ---
 id: 244
-title: Интервью Кирилла Датешидзе (Записные книжки Тригорина)
-alias: pressa-podmostki-peterburga-kirill-dateshidze
+title: "Интервью Кирилла Датешидзе (Записные книжки Тригорина)"
+alias: "pressa-podmostki-peterburga-kirill-dateshidze"
+layout: default
 ---
 
 ## "ПУСТЬ РАСЦВЕТАЮТ ВСЕ ЦВЕТЫ… "

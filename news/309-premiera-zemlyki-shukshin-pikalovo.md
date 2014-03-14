@@ -1,8 +1,9 @@
 ---
 id: 309
-title: Премьера - «ЗЕМЛЯКИ» в Пикалёво
-alias: premiera-zemlyki-shukshin-pikalovo
-modified: 2014-03-04 21:01:41
+title: "Премьера - «ЗЕМЛЯКИ» в Пикалёво"
+alias: "premiera-zemlyki-shukshin-pikalovo"
+modified: "2014-03-04"
+layout: default
 ---
 
 Драматический театр «Комедианты»

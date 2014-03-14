@@ -1,8 +1,9 @@
 ---
 id: 248
-title: Премьера!!!
-alias: premera-molitva
-modified: 2013-02-20 17:52:13
+title: "Премьера!!!"
+alias: "premera-molitva"
+modified: "2013-02-20"
+layout: default
 ---
 
 ## 23 и 24 февраля в 18.00

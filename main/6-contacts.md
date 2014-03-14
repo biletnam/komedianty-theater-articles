@@ -1,8 +1,9 @@
 ---
 id: 6
-title: Контакты
-alias: contacts
-modified: 2014-03-11 11:31:34
+title: "Контакты"
+alias: "contacts"
+modified: "2014-03-11"
+layout: default
 ---
 
 ## Адрес: 191040, г. Санкт-Петербург, Лиговский проспект, д. 44

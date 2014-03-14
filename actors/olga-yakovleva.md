@@ -1,8 +1,9 @@
 ---
 id: 89
-title: Ольга Яковлева
-alias: olga-yakovleva
-modified: 2013-01-27 11:46:27
+title: "Ольга Яковлева"
+alias: "olga-yakovleva"
+modified: "2013-01-27"
+layout: default
 ---
 
 ## ОЛЬГА ЯКОВЛЕВА

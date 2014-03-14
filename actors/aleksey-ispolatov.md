@@ -1,8 +1,9 @@
 ---
 id: 53
-title: Алексей Исполатов
-alias: aleksei-ispolatov
-modified: 2013-10-20 23:46:59
+title: "Алексей Исполатов"
+alias: "aleksei-ispolatov"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## АЛЕКСЕЙ ИСПОЛАТОВ

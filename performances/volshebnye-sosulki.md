@@ -1,8 +1,9 @@
 ---
 id: 75
-title: ВОЛШЕБНЫЕ СОСУЛЬКИ М.Мокиенко
-alias: volshebnie-sosulki
-modified: 2013-03-15 08:11:16
+title: "ВОЛШЕБНЫЕ СОСУЛЬКИ М.Мокиенко"
+alias: "volshebnie-sosulki"
+modified: "2013-03-15"
+layout: default
 ---
 
 ## Михаил Мокиенко

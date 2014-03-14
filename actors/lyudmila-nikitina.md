@@ -1,8 +1,9 @@
 ---
 id: 63
-title: Людмила Никитина
-alias: lyda-nikitina
-modified: 2013-10-20 23:50:50
+title: "Людмила Никитина"
+alias: "lyda-nikitina"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## ЛЮДМИЛА НИКИТИНА

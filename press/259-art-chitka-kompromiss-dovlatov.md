@@ -1,7 +1,8 @@
 ---
 id: 259
-title: В обновлённое прошлое
-alias: art-chitka-kompromiss-dovlatov
+title: "В обновлённое прошлое"
+alias: "art-chitka-kompromiss-dovlatov"
+layout: default
 ---
 
 ## "В ОБНОВЛЁННОЕ ПРОШЛОЕ… "

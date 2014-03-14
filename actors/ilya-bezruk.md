@@ -1,8 +1,9 @@
 ---
 id: 83
-title: Безрук Илья
-alias: bezryk-ilya
-modified: 2013-10-20 23:49:31
+title: "Безрук Илья"
+alias: "bezryk-ilya"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## ИЛЬЯ БЕЗРУК

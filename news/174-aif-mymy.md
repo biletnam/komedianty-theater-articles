@@ -1,8 +1,9 @@
 ---
 id: 174
-title: муму в гостях у Аргументов и фактов
-alias: aif-mymy
-modified: 2012-12-13 20:23:54
+title: "муму в гостях у Аргументов и фактов"
+alias: "aif-mymy"
+modified: "2012-12-13"
+layout: default
 ---
 
 <figure><a href="http://www.spb.aif.ru/onlineconf/300263">

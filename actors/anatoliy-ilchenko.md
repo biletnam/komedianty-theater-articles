@@ -1,8 +1,9 @@
 ---
 id: 55
-title: Анатолий Ильченко
-alias: anatolii-ilchenko
-modified: 2013-02-07 16:56:58
+title: "Анатолий Ильченко"
+alias: "anatolii-ilchenko"
+modified: "2013-02-07"
+layout: default
 ---
 
 ## АНАТОЛИЙ ИЛЬЧЕНКО

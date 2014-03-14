@@ -1,8 +1,9 @@
 ---
 id: 69
-title: ЖЕНИТЬБА Н.Гоголь
-alias: genitba
-modified: 2013-06-14 09:13:54
+title: "ЖЕНИТЬБА Н.Гоголь"
+alias: "genitba"
+modified: "2013-06-14"
+layout: default
 ---
 
 ## Н. Гоголь

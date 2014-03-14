@@ -1,8 +1,9 @@
 ---
 id: 149
-title: Премьера! КАРЛСОН" Премьера!"
-alias: karlson
-modified: 2013-12-13 00:02:13
+title: "Премьера! КАРЛСОН" Премьера!"
+alias: "karlson"
+modified: "2013-12-13"
+layout: default
 ---
 
 ## "КАРЛСОН"

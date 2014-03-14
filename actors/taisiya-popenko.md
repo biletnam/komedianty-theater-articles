@@ -4,6 +4,7 @@ title: "Таисия Попенко"
 alias: "popenko-taisija"
 modified: "2013-02-02"
 published: true
+layout: default
 ---
 
 ## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ

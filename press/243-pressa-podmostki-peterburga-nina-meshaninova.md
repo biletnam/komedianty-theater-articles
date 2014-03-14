@@ -1,7 +1,8 @@
 ---
 id: 243
-title: Разные Аркадины (интервью Нины Мещаниновой)
-alias: pressa-podmostki-peterburga-nina-meshaninova
+title: "Разные Аркадины (интервью Нины Мещаниновой)"
+alias: "pressa-podmostki-peterburga-nina-meshaninova"
+layout: default
 ---
 
 ## "РАЗНЫЕ АРКАДИНЫ"

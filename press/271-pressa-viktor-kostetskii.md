@@ -1,8 +1,9 @@
 ---
 id: 271
-title: Умный компромисс Виктора Костецкого
-alias: pressa-viktor-kostetskii
-modified: 2013-03-31 16:10:14
+title: "Умный компромисс Виктора Костецкого"
+alias: "pressa-viktor-kostetskii"
+modified: "2013-03-31"
+layout: default
 ---
 
 # "УМНЫЙ КОМПРОМИСС ВИКТОРА КОСТЕЦКОГО"

@@ -1,8 +1,9 @@
 ---
 id: 80
-title: Татьяна Кожевникова
-alias: tatiana-kogevnikova
-modified: 2013-02-02 15:02:00
+title: "Татьяна Кожевникова"
+alias: "tatiana-kogevnikova"
+modified: "2013-02-02"
+layout: default
 ---
 
 ## ТАТЬЯНА КОЖЕВНИКОВА

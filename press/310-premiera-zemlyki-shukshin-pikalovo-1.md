@@ -1,13 +1,14 @@
 ---
 id: 310
-title: Премьера в Ленинградской области (ЗЕМЛЯКИ)
-alias: premiera-zemlyki-shukshin-pikalovo-1
-modified: 2014-03-07 22:12:33
+title: "Премьера в Ленинградской области (ЗЕМЛЯКИ)"
+alias: "premiera-zemlyki-shukshin-pikalovo-1"
+modified: "2014-03-07"
+layout: default
 ---
 
 # ПРЕМЬЕРА В ЛЕНИНГРАДСКОЙ ОБЛАСТИ!
 
-## "ЗЕМЛЯКИ"
+## «ЗЕМЛЯКИ»
 
 <figure>
 ![](/images/stories/foto_pressa/pressa-zemlyaki.jpg)

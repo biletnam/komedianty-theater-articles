@@ -2,7 +2,8 @@
 id: 24
 title: "Сергей Бледных"
 alias: "blednyh-sergej"
-modified: "2013-02-02 20:53:17"
+modified: "2013-02-02"
+layout: default
 ---
 
 ## СЕРГЕЙ БЛЕДНЫХ

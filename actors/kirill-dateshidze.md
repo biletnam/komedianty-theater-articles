@@ -3,6 +3,7 @@ id: 281
 title: "Кирилл Датешидзе"
 alias: "kirilldateshidze"
 modified: "2013-07-10"
+layout: default
 ---
 
 ## КИРИЛЛ ДАТЕШИДЗЕ

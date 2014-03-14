@@ -1,7 +1,8 @@
 ---
 id: 242
-title: Интервью М.Сергеева и С.Ниоклаева
-alias: pressa-podmostki-peterburga-sergeev-i-nikolaev
+title: "Интервью М.Сергеева и С.Ниоклаева"
+alias: "pressa-podmostki-peterburga-sergeev-i-nikolaev"
+layout: default
 ---
 
 ## "Для спектакля достаточно трёх человек и коврика… "

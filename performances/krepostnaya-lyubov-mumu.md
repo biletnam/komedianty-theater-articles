@@ -1,8 +1,9 @@
 ---
 id: 46
-title: КРЕПОСТНАЯ ЛЮБОВЬ (Муму)
-alias: mumu
-modified: 2014-02-05 19:08:43
+title: "КРЕПОСТНАЯ ЛЮБОВЬ (Муму)"
+alias: "mumu"
+modified: "2014-02-05"
+layout: default
 ---
 
 ## Иван Тургенев

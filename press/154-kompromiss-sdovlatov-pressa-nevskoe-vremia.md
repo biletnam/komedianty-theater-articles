@@ -1,8 +1,9 @@
 ---
 id: 154
-title: Компромисс несвободы и таланта
-alias: kompromiss-sdovlatov-pressa-nevskoe-vremia
-modified: 2013-11-30 09:48:22
+title: "Компромисс несвободы и таланта"
+alias: "kompromiss-sdovlatov-pressa-nevskoe-vremia"
+modified: "2013-11-30"
+layout: default
 ---
 
 # КОМПРОМИСС НЕСВОБОДЫ И ТАЛАНТА

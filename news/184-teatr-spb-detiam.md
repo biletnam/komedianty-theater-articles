@@ -1,8 +1,9 @@
 ---
 id: 184
-title: «ТЕАТРЫ САНКТ-ПЕТЕРБУРГА - ДЕТЯМ»
-alias: teatr-spb-detiam
-modified: 2013-12-05 20:38:43
+title: "«ТЕАТРЫ САНКТ-ПЕТЕРБУРГА - ДЕТЯМ»"
+alias: "teatr-spb-detiam"
+modified: "2013-12-05"
+layout: default
 ---
 
 <figure>

@@ -1,8 +1,9 @@
 ---
 id: 12
-title: Новости
-alias: komnews
-modified: 2010-06-25 20:04:19
+title: "Новости"
+alias: "komnews"
+modified: "2010-06-25"
+layout: default
 ---
 
 Театр «Комедианты» отпраздновал свой двадцатилетний юбилей!

@@ -1,8 +1,9 @@
 ---
 id: 87
-title: Александр Шевелёв
-alias: aleksandr-shevelov
-modified: 2013-06-25 11:24:13
+title: "Александр Шевелёв"
+alias: "aleksandr-shevelov"
+modified: "2013-06-25"
+layout: default
 ---
 
 ## АЛЕКСАНДР ШЕВЕЛЁВ

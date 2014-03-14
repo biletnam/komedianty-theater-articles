@@ -1,8 +1,9 @@
 ---
 id: 286
-title: ТелеДом
-alias: teledom
-modified: 2013-10-30 10:14:48
+title: "ТелеДом"
+alias: "teledom"
+modified: "2013-10-30"
+layout: default
 ---
 
 <figure>

@@ -1,8 +1,9 @@
 ---
 id: 208
-title: Фото с гастролей в Турцию (г.Трабзон)
-alias: foto-iz-trabzona-mymy
-modified: 2012-10-14 19:55:54
+title: "Фото с гастролей в Турцию (г.Трабзон)"
+alias: "foto-iz-trabzona-mymy"
+modified: "2012-10-14"
+layout: default
 ---
 
 ## Фотоотчёт с гастролей в Турцию (г.Трабзон)

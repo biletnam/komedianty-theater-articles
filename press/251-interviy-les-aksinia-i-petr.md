@@ -1,8 +1,9 @@
 ---
 id: 251
-title: интервью Ю.Бурцевой и В.Кравченко о спектакле ЛЕС""
-alias: interviy-les-aksinia-i-petr
-modified: 2013-01-22 16:32:40
+title: "интервью Ю.Бурцевой и В.Кравченко о спектакле ЛЕС""
+alias: "interviy-les-aksinia-i-petr"
+modified: "2013-01-22"
+layout: default
 ---
 
 ## ПЁТР и АКСИНЬЯ

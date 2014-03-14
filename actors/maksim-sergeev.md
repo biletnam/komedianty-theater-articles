@@ -1,8 +1,9 @@
 ---
 id: 57
-title: Максим Сергеев
-alias: maxsim-sergeev
-modified: 2013-10-20 23:55:12
+title: "Максим Сергеев"
+alias: "maxsim-sergeev"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## МАКСИМ СЕРГЕЕВ

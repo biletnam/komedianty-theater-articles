@@ -1,8 +1,9 @@
 ---
 id: 210
-title: Видео
-alias: video
-modified: 2013-11-01 21:05:55
+title: "Видео"
+alias: "video"
+modified: "2013-11-01"
+layout: default
 ---
 
 <figure>{youtube:http://www.youtube.com/watch?v=GL2_ORjlGp4&feature=related 480 360}</figure>

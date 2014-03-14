@@ -1,8 +1,9 @@
 ---
 id: 33
-title: Рецензия спектакля Ехала деревня мимо мужика" интернет-журнал"KidsReview.ru" (автор:В.Несторович) "
-alias: recenzia-na-ehala-derevna-mimo-mujika
-modified: 2013-01-01 21:09:37
+title: "Рецензия спектакля Ехала деревня мимо мужика" интернет-журнал"KidsReview.ru" (автор:В.Несторович) "
+alias: "recenzia-na-ehala-derevna-mimo-mujika"
+modified: "2013-01-01"
+layout: default
 ---
 
 ## Рецензия на спектакль "Ехала деревня мимо мужика"

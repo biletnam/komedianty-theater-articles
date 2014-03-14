@@ -1,8 +1,9 @@
 ---
 id: 252
-title: пресса о премьере
-alias: pressa-premera-pomanalnaya1
-modified: 2013-03-23 12:48:53
+title: "пресса о премьере"
+alias: "pressa-premera-pomanalnaya1"
+modified: "2013-03-23"
+layout: default
 ---
 
 ## ПРЕССА

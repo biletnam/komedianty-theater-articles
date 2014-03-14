@@ -1,8 +1,9 @@
 ---
 id: 296
-title: «Antverpriza» в Комедиантах
-alias: antverpriza
-modified: 2013-12-05 20:29:08
+title: "«Antverpriza» в Комедиантах"
+alias: "antverpriza"
+modified: "2013-12-05"
+layout: default
 ---
 
 В начале декабря театр «Комедианты» принимает у себя гостей — театральную труппу из Антверпена — «Antverpriza».

@@ -1,8 +1,9 @@
 ---
 id: 50
-title: Роман Притула
-alias: roman-pritula
-modified: 2014-01-28 18:45:13
+title: "Роман Притула"
+alias: "roman-pritula"
+modified: "2014-01-28"
+layout: default
 ---
 
 ## РОМАН ПРИТУЛА

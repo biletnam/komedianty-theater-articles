@@ -1,8 +1,9 @@
 ---
 id: 267
-title: О больших людях небольшого театра (OK-inform)
-alias: pressa-27marta-teatr
-modified: 2013-03-27 19:24:40
+title: "О больших людях небольшого театра (OK-inform)"
+alias: "pressa-27marta-teatr"
+modified: "2013-03-27"
+layout: default
 ---
 
 ## О БОЛЬШИХ ЛЮДЯХ НЕБОЛЬШОГО ТЕАТРА…

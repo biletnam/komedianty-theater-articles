@@ -1,8 +1,9 @@
 ---
 id: 237
-title: МуМу в Оберкохене (Германия)
-alias: mumuv-oberkohene-pressa
-modified: 2012-10-10 20:04:17
+title: "МуМу в Оберкохене (Германия)"
+alias: "mumuv-oberkohene-pressa"
+modified: "2012-10-10"
+layout: default
 ---
 
 # „Komedianty“ hinterlässt ein zwiespältiges Gefühl

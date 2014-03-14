@@ -1,8 +1,9 @@
 ---
 id: 62
-title: Ирина Митюшкина
-alias: irina-mityshkina
-modified: 2012-04-21 19:07:10
+title: "Ирина Митюшкина"
+alias: "irina-mityshkina"
+modified: "2012-04-21"
+layout: default
 ---
 
 ## ИРИНА МИТЮШКИНА

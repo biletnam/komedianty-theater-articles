@@ -1,8 +1,9 @@
 ---
 id: 236
-title: Крепостная любовь(МуМу) в Оберкохене.Германия
-alias: mymy-v-germanii
-modified: 2012-10-10 19:44:14
+title: "Крепостная любовь(МуМу) в Оберкохене.Германия"
+alias: "mymy-v-germanii"
+modified: "2012-10-10"
+layout: default
 ---
 
 # Ergreifendes in bitterer Umgebung

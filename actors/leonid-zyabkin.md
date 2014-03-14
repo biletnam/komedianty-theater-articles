@@ -1,8 +1,9 @@
 ---
 id: 67
-title: Леонид Зябкин
-alias: leonid-zabkin
-modified: 2013-02-02 15:27:18
+title: "Леонид Зябкин"
+alias: "leonid-zabkin"
+modified: "2013-02-02"
+layout: default
 ---
 
 ## ЛЕОНИД ЗЯБКИН

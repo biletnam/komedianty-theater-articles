@@ -1,7 +1,8 @@
 ---
 id: 29
-title: ДОКТОР ЧЕХОВ УЕХАЛ НА ПМЖ	 «Новая газета» № 7, 2000 Вера КОБЕЦ
-alias: doktor-chehov-uehal-na-pmzh-lnovaja-gazetar--7-2000-vera-kobec
+title: "ДОКТОР ЧЕХОВ УЕХАЛ НА ПМЖ	 «Новая газета» № 7, 2000 Вера КОБЕЦ"
+alias: "doktor-chehov-uehal-na-pmzh-lnovaja-gazetar--7-2000-vera-kobec"
+layout: default
 ---
 
 <a href="http://www.novayagazeta.ru/data/2000/13/39.html">

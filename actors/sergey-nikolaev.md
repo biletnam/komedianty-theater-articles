@@ -1,8 +1,9 @@
 ---
 id: 52
-title: Сергей Николаев
-alias: sergei-nikolaev
-modified: 2013-10-20 23:45:33
+title: "Сергей Николаев"
+alias: "sergei-nikolaev"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## СЕРГЕЙ НИКОЛАЕВ

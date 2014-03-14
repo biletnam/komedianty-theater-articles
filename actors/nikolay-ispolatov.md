@@ -1,8 +1,9 @@
 ---
 id: 54
-title: Николай Исполатов
-alias: nikolai-ispolatov
-modified: 2013-02-02 15:29:18
+title: "Николай Исполатов"
+alias: "nikolai-ispolatov"
+modified: "2013-02-02"
+layout: default
 ---
 
 ## НИКОЛАЙ ИСПОЛАТОВ

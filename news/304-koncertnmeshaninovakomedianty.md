@@ -1,8 +1,9 @@
 ---
 id: 304
-title: 26 января концерт Н.Мещаниновой
-alias: koncertnmeshaninovakomedianty
-modified: 2014-01-20 21:24:39
+title: "26 января концерт Н.Мещаниновой"
+alias: "koncertnmeshaninovakomedianty"
+modified: "2014-01-20"
+layout: default
 ---
 
 <figure>

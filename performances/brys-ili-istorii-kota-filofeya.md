@@ -1,8 +1,9 @@
 ---
 id: 40
-title: БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ
-alias: bris-ili-istoria-kota-filofeia
-modified: 2014-01-28 18:47:34
+title: "БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ"
+alias: "bris-ili-istoria-kota-filofeia"
+modified: "2014-01-28"
+layout: default
 ---
 
 ## Валерий Зимин

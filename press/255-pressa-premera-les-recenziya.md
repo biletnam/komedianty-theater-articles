@@ -1,8 +1,9 @@
 ---
 id: 255
-title: Рецензия Людмилы Филатовой на спектакль ЛЕС""
-alias: pressa-premera-les-recenziya
-modified: 2013-02-20 17:48:48
+title: "Рецензия Людмилы Филатовой на спектакль ЛЕС""
+alias: "pressa-premera-les-recenziya"
+modified: "2013-02-20"
+layout: default
 ---
 
 ## "В ПЕРВОМ РЯДУ."

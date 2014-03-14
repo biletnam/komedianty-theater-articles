@@ -1,8 +1,9 @@
 ---
 id: 65
-title: Лариса Климова
-alias: larisa-klimova
-modified: 2013-01-27 11:49:20
+title: "Лариса Климова"
+alias: "larisa-klimova"
+modified: "2013-01-27"
+layout: default
 ---
 
 ## ЛАРИСА КЛИМОВА

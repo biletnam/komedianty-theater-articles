@@ -1,8 +1,9 @@
 ---
 id: 306
-title: Крепостная любовь (МУМУ) статья / СубКультура""
-alias: krepostnaialovemumusubkultura
-modified: 2014-02-05 19:15:50
+title: "Крепостная любовь (МУМУ) статья / СубКультура""
+alias: "krepostnaialovemumusubkultura"
+modified: "2014-02-05"
+layout: default
 ---
 
 ## О спектакле ["Крепостная любовь"](46-mumu.html) (Муму) театра "Комедианты"

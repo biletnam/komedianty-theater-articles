@@ -1,8 +1,9 @@
 ---
 id: 173
-title: on-line - билет
-alias: on-line-
-modified: 2012-06-24 19:50:19
+title: "on-line - билет"
+alias: "on-line-"
+modified: "2012-06-24"
+layout: default
 ---
 
 Дорогие зрители!

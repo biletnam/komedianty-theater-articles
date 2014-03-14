@@ -1,8 +1,9 @@
 ---
 id: 42
-title: ВОЛКИ И ОВЦЫ
-alias: volki-i-ovci
-modified: 2013-11-05 10:55:41
+title: "ВОЛКИ И ОВЦЫ"
+alias: "volki-i-ovci"
+modified: "2013-11-05"
+layout: default
 ---
 
 ## А.Н. Островский

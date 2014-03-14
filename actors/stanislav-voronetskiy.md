@@ -1,8 +1,9 @@
 ---
 id: 51
-title: Станислав Воронецкий
-alias: stas-voronetski
-modified: 2013-10-20 23:48:20
+title: "Станислав Воронецкий"
+alias: "stas-voronetski"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## СТАНИСЛАВ ВОРОНЕЦКИЙ

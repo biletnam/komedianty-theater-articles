@@ -1,8 +1,9 @@
 ---
 id: 240
-title: Фотоотчёт с гастролей в Германию (г. Оберкохен)
-alias: foto-iz-germanii-mymy
-modified: 2012-10-14 20:35:20
+title: "Фотоотчёт с гастролей в Германию (г. Оберкохен)"
+alias: "foto-iz-germanii-mymy"
+modified: "2012-10-14"
+layout: default
 ---
 
 ## Гастроли в Германию. г. Оберкохен

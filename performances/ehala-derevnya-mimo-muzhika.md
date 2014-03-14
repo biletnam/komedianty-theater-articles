@@ -1,8 +1,9 @@
 ---
 id: 45
-title: ЕХАЛА ДЕРЕВНЯ МИМО МУЖИКА
-alias: exala-derevna-mimo-mushika
-modified: 2013-12-12 23:26:42
+title: "ЕХАЛА ДЕРЕВНЯ МИМО МУЖИКА"
+alias: "exala-derevna-mimo-mushika"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## Алексей Исполатов

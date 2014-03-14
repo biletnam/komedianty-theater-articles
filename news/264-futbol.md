@@ -1,8 +1,9 @@
 ---
 id: 264
-title: Комедианты сыграют в футбол
-alias: futbol
-modified: 2013-04-28 15:30:16
+title: "Комедианты сыграют в футбол"
+alias: "futbol"
+modified: "2013-04-28"
+layout: default
 ---
 
 <figure>

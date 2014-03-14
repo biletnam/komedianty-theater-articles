@@ -1,8 +1,9 @@
 ---
 id: 288
-title: Фото с гастролей в Ереван (Армения)
-alias: gastroli-erevan
-modified: 2013-10-11 17:55:35
+title: "Фото с гастролей в Ереван (Армения)"
+alias: "gastroli-erevan"
+modified: "2013-10-11"
+layout: default
 ---
 
 ## Гастроли в Армению. г. Ереван

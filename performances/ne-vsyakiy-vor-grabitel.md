@@ -1,8 +1,9 @@
 ---
 id: 70
-title: НЕ ВСЯКИЙ ВОР-ГРАБИТЕЛЬ
-alias: vor
-modified: 2013-12-03 09:58:02
+title: "НЕ ВСЯКИЙ ВОР-ГРАБИТЕЛЬ"
+alias: "vor"
+modified: "2013-12-03"
+layout: default
 ---
 
 ## Дарио Фо

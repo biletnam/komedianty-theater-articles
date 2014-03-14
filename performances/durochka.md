@@ -1,8 +1,9 @@
 ---
 id: 44
-title: ДУРОЧКА
-alias: dyrochka
-modified: 2013-12-12 23:24:24
+title: "ДУРОЧКА"
+alias: "dyrochka"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## Лопе де Вега

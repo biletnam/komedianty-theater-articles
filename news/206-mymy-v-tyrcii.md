@@ -1,8 +1,9 @@
 ---
 id: 206
-title: МУМУ на фестивале в ТУРЦИИ!
-alias: mymy-v-tyrcii
-modified: 2013-10-26 21:04:47
+title: "МУМУ на фестивале в ТУРЦИИ!"
+alias: "mymy-v-tyrcii"
+modified: "2013-10-26"
+layout: default
 ---
 
 <figure><a href="46-mumu.html">
@@ -23,8 +24,9 @@ modified: 2013-10-26 21:04:47
 
 ---
 id: 207
-title: Планы на сезон 2012-2013
-modified: 2013-01-14 15:40:39
+title: "Планы на сезон 2012-2013"
+modified: "2013-01-14"
+layout: default
 ---
 
 ****

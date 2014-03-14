@@ -4,6 +4,7 @@ title: "Беда от нежного сердца"
 alias: "beda-ot-neghnogo-serdca"
 modified: "2013-04-28"
 published: true
+layout: default
 ---
 
 ## Владимир Соллогуб

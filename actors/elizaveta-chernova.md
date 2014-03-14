@@ -1,8 +1,9 @@
 ---
 id: 48
-title: Елизавета Чернова
-alias: chernovaelizaveta
-modified: 2013-12-15 23:07:54
+title: "Елизавета Чернова"
+alias: "chernovaelizaveta"
+modified: "2013-12-15"
+layout: default
 ---
 
 ## ЕЛИЗАВЕТА ЧЕРНОВА

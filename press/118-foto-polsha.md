@@ -1,8 +1,9 @@
 ---
 id: 118
-title: фотоотчёт с гастролей в Польшу 2009
-alias: foto-polsha
-modified: 2012-05-21 17:54:02
+title: "фотоотчёт с гастролей в Польшу 2009"
+alias: "foto-polsha"
+modified: "2012-05-21"
+layout: default
 ---
 
 ## Гастроли в Польшу

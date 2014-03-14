@@ -1,8 +1,9 @@
 ---
 id: 277
-title: Комедианты на сцене театра Комедии им.Акимова""
-alias: komedianty
-modified: 2013-05-18 11:44:29
+title: "Комедианты на сцене театра Комедии им.Акимова""
+alias: "komedianty"
+modified: "2013-05-18"
+layout: default
 ---
 
 <figure>

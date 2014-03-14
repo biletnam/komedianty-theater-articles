@@ -1,8 +1,9 @@
 ---
 id: 254
-title: ВОДЕВИЛЬ XXI ВЕКА
-alias: pressa-premera-les
-modified: 2013-02-14 18:12:48
+title: "ВОДЕВИЛЬ XXI ВЕКА"
+alias: "pressa-premera-les"
+modified: "2013-02-14"
+layout: default
 ---
 
 ## "ВОДЕВИЛЬ XXI ВЕКА"

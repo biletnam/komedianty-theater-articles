@@ -1,8 +1,9 @@
 ---
 id: 269
-title: Живая классика на маленькой сцене
-alias: pressa-vjlki-i-ovci
-modified: 2013-03-30 23:03:18
+title: "Живая классика на маленькой сцене"
+alias: "pressa-vjlki-i-ovci"
+modified: "2013-03-30"
+layout: default
 ---
 
 ## "Живая классика на маленькой сцене… "

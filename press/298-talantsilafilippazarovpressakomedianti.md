@@ -1,8 +1,9 @@
 ---
 id: 298
-title: Талант+сила=Филипп Азаров
-alias: talantsilafilippazarovpressakomedianti
-modified: 2013-12-06 08:54:32
+title: "Талант+сила=Филипп Азаров"
+alias: "talantsilafilippazarovpressakomedianti"
+modified: "2013-12-06"
+layout: default
 ---
 
 <h4>Интервью с Ф. Азаровым, исполнителем роли Герасима в спектакле «Крепостная любовь»</h4>

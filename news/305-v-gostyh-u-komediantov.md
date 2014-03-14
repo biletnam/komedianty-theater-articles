@@ -1,8 +1,9 @@
 ---
 id: 305
-title: в гостях у Комедиантов театр кураж" и театр "эксперимент"."
-alias: v-gostyh-u-komediantov
-modified: 2014-01-29 10:15:34
+title: "в гостях у Комедиантов театр кураж" и театр "эксперимент"."
+alias: "v-gostyh-u-komediantov"
+modified: "2014-01-29"
+layout: default
 ---
 
 <figure>

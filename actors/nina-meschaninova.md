@@ -2,7 +2,8 @@
 id: 25
 title: "Нина Мещанинова"
 alias: "mewaninova-nina"
-modified: "2013-02-02 14:51:48"
+modified: "2013-02-02"
+layout: default
 ---
 
 ## ЗАСЛУЖЕННАЯ АРТИСТКА РОССИИ

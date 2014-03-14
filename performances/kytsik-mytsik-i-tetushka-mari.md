@@ -1,8 +1,9 @@
 ---
 id: 76
-title: КЫЦИК, МЫЦИК и ТЁТУШКА МАРИ Чеповецкий
-alias: kicik-micik-i-mari
-modified: 2013-12-12 23:20:12
+title: "КЫЦИК, МЫЦИК и ТЁТУШКА МАРИ Чеповецкий"
+alias: "kicik-micik-i-mari"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## Ефим Чеповецкий

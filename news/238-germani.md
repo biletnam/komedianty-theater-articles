@@ -1,8 +1,9 @@
 ---
 id: 238
-title: Крепостная любовь(МуМу) в Германии
-alias: germani
-modified: 2013-10-26 21:04:10
+title: "Крепостная любовь(МуМу) в Германии"
+alias: "germani"
+modified: "2013-10-26"
+layout: default
 ---
 
 <figure><a href="46-mumu.html">

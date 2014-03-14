@@ -1,8 +1,9 @@
 ---
 id: 56
-title: Наталья Терехова
-alias: natasha-terehova
-modified: 2013-10-20 23:52:33
+title: "Наталья Терехова"
+alias: "natasha-terehova"
+modified: "2013-10-20"
+layout: default
 ---
 
 ## НАТАЛЬЯ ТЕРЕХОВА

@@ -1,8 +1,9 @@
 ---
 id: 13
-title: Крик души
-alias: komkrikdushi
-modified: 2014-01-20 22:09:04
+title: "Крик души"
+alias: "komkrikdushi"
+modified: "2014-01-20"
+layout: default
 ---
 
 Всех меценатов, спонсоров и просто ЧЕЛОВЕКОВ, любящих театр, приглашаем к сотрудничеству!

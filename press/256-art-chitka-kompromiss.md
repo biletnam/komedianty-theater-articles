@@ -1,8 +1,9 @@
 ---
 id: 256
-title: Арт-читка Компромисс" на Ленфильме"
-alias: art-chitka-kompromiss
-modified: 2013-02-26 18:31:34
+title: "Арт-читка Компромисс" на Ленфильме"
+alias: "art-chitka-kompromiss"
+modified: "2013-02-26"
+layout: default
 ---
 
 ## "АРТ-ЧИТКА" с СЕРГЕЕМ ДОВЛАТОВЫМ

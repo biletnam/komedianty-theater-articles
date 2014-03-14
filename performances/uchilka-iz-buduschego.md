@@ -1,8 +1,9 @@
 ---
 id: 90
-title: УЧИЛКА из БУДУЩЕГО В.Ольшанский
-alias: ychilka
-modified: 2013-09-11 15:07:32
+title: "УЧИЛКА из БУДУЩЕГО В.Ольшанский"
+alias: "ychilka"
+modified: "2013-09-11"
+layout: default
 ---
 
 ## Виктор Ольшанский

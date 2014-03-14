@@ -2,7 +2,8 @@
 id: 22
 title: "Семен Афендулов"
 alias: "afendulov-semen"
-modified: "2012-04-21 17:19:46"
+modified: "2012-04-21"
+layout: default
 ---
 
 ## СЕМЁН АФЕНДУЛОВ

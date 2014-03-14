@@ -1,8 +1,9 @@
 ---
 id: 60
-title: СИРАНО де БЕРЖЕРАК Э.Ростан
-alias: sirano-de-bergerak
-modified: 2013-12-15 23:34:55
+title: "СИРАНО де БЕРЖЕРАК Э.Ростан"
+alias: "sirano-de-bergerak"
+modified: "2013-12-15"
+layout: default
 ---
 
 ## Эдмон Ростан

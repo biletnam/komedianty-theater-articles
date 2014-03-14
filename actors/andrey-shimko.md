@@ -1,7 +1,8 @@
 ---
 id: 302
-title: Андрей Шимко
-alias: andrey-shimko
+title: "Андрей Шимко"
+alias: "andrey-shimko"
+layout: default
 ---
 
 <figure>

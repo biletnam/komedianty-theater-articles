@@ -1,8 +1,9 @@
 ---
 id: 183
-title: «PROстранности Любви»
-alias: prostrannosti-love
-modified: 2012-06-24 19:47:44
+title: "«PROстранности Любви»"
+alias: "prostrannosti-love"
+modified: "2012-06-24"
+layout: default
 ---
 
 <figure>

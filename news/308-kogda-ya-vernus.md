@@ -1,8 +1,9 @@
 ---
 id: 308
-title: «Когда я вернусь…»
-alias: kogda-ya-vernus
-modified: 2014-02-21 17:07:51
+title: "«Когда я вернусь…»"
+alias: "kogda-ya-vernus"
+modified: "2014-02-21"
+layout: default
 ---
 
 ## 10 марта в 18.00

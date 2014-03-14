@@ -1,8 +1,9 @@
 ---
 id: 117
-title: Фото РАЗНОЕ""
-alias: foto-raznoe
-modified: 2013-11-28 20:25:38
+title: "Фото РАЗНОЕ""
+alias: "foto-raznoe"
+modified: "2013-11-28"
+layout: default
 ---
 
 ## РАЗНЫЕ ФОТО

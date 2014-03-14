@@ -1,8 +1,9 @@
 ---
 id: 283
-title: ЗЕМЛЯКИ
-alias: zemlyaki
-modified: 2014-03-07 22:13:59
+title: "ЗЕМЛЯКИ"
+alias: "zemlyaki"
+modified: "2014-03-07"
+layout: default
 ---
 
 <figure>

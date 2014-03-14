@@ -1,8 +1,9 @@
 ---
 id: 8
-title: Закулисье
-alias: za-kulisami
-modified: 2014-03-11 17:23:00
+title: "Закулисье"
+alias: "za-kulisami"
+modified: "2014-03-11"
+layout: default
 ---
 
 [**Идут репетиции спектакля "ФАРСЫ". Режиссёр - Алексей Исполатов.**](138-lohanq.html)

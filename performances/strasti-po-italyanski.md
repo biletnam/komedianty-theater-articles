@@ -1,8 +1,9 @@
 ---
 id: 59
-title: СТРАСТИ ПО-ИТАЛЬЯНСКИ
-alias: strasti-po-italianski
-modified: 2013-12-06 19:32:53
+title: "СТРАСТИ ПО-ИТАЛЬЯНСКИ"
+alias: "strasti-po-italianski"
+modified: "2013-12-06"
+layout: default
 ---
 
 ## Эдуардо де Филиппо

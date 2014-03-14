@@ -1,8 +1,9 @@
 ---
 id: 209
-title: М. Левшин: Сопротивление художника режиму ослабло""
-alias: pressa-soprotivlenie-hydojnika-oslablo
-modified: 2012-05-16 11:51:57
+title: "М. Левшин: Сопротивление художника режиму ослабло""
+alias: "pressa-soprotivlenie-hydojnika-oslablo"
+modified: "2012-05-16"
+layout: default
 ---
 
 # О готовящемся к постановке спектакле "Лес" и не только рассказывает з.д.и. РФ Михаил Левшин

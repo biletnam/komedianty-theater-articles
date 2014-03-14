@@ -1,8 +1,9 @@
 ---
 id: 112
-title: Марк Гаврилов
-alias: mark-gavrilov
-modified: 2013-07-13 00:03:46
+title: "Марк Гаврилов"
+alias: "mark-gavrilov"
+modified: "2013-07-13"
+layout: default
 ---
 
 ## МАРК ГАВРИЛОВ

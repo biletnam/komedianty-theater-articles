@@ -1,8 +1,9 @@
 ---
 id: 97
-title: ПОМИНАЛЬНАЯ МОЛИТВА
-alias: pominalnaia-molitva
-modified: 2014-03-06 12:30:05
+title: "ПОМИНАЛЬНАЯ МОЛИТВА"
+alias: "pominalnaia-molitva"
+modified: "2014-03-06"
+layout: default
 ---
 
 ## Г. Горин

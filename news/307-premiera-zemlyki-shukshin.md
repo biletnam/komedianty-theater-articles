@@ -1,8 +1,9 @@
 ---
 id: 307
-title: Премьера - «ЗЕМЛЯКИ»
-alias: premiera-zemlyki-shukshin
-modified: 2014-02-07 15:53:21
+title: "Премьера - «ЗЕМЛЯКИ»"
+alias: "premiera-zemlyki-shukshin"
+modified: "2014-02-07"
+layout: default
 ---
 
 ## 27 и 29 марта - ПРЕМЬЕРА!!!

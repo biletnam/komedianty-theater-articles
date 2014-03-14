@@ -1,8 +1,9 @@
 ---
 id: 91
-title: ЛЕС
-alias: les
-modified: 2014-03-06 12:27:56
+title: "ЛЕС"
+alias: "les"
+modified: "2014-03-06"
+layout: default
 ---
 
 ## А. Островский

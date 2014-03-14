@@ -1,8 +1,9 @@
 ---
 id: 30
-title: Михаил Левшин «Театральный Петербург» 15.12.2001 Кира Николаева
-alias: mihail-levshin-lteatralnyj-peterburgr-15122001-kira-nikolaeva
-modified: 2013-04-02 14:25:26
+title: "Михаил Левшин «Театральный Петербург» 15.12.2001 Кира Николаева"
+alias: "mihail-levshin-lteatralnyj-peterburgr-15122001-kira-nikolaeva"
+modified: "2013-04-02"
+layout: default
 ---
 
 ## Театр "КОМЕДИАНТЫ"

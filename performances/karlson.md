@@ -1,8 +1,9 @@
 ---
 id: 147
-title: КАРЛСОН
-alias: karlson
-modified: 2013-12-15 23:23:01
+title: "КАРЛСОН"
+alias: "karlson"
+modified: "2013-12-15"
+layout: default
 ---
 
 ## Астрид Линдгрен

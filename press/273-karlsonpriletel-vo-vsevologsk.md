@@ -1,8 +1,9 @@
 ---
 id: 273
-title: Карлсон, который прилетел во Всеволожск
-alias: karlsonpriletel-vo-vsevologsk
-modified: 2013-12-12 23:54:27
+title: "Карлсон, который прилетел во Всеволожск"
+alias: "karlsonpriletel-vo-vsevologsk"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## "КАРЛСОН, КОТОРЫЙ ПРИЛЕТЕЛ ВО ВСЕВОЛОЖСК"

@@ -1,8 +1,9 @@
 ---
 id: 291
-title: Комедианты едут в Париж!
-alias: ehaladerevniaparis
-modified: 2013-11-07 12:49:00
+title: "Комедианты едут в Париж!"
+alias: "ehaladerevniaparis"
+modified: "2013-11-07"
+layout: default
 ---
 
 <figure>

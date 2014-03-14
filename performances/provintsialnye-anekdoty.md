@@ -1,8 +1,9 @@
 ---
 id: 71
-title: ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ А.Вампилов
-alias: anekdoti
-modified: 2013-12-12 13:45:47
+title: "ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ А.Вампилов"
+alias: "anekdoti"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## Александр Вампилов

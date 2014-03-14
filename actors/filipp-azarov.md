@@ -2,7 +2,8 @@
 id: 21
 title: "Филипп Азаров"
 alias: "fillipp-azarov"
-modified: "2012-12-08 21:57:00"
+modified: "2012-12-08"
+layout: default
 ---
 
 ## ФИЛИПП АЗАРОВ

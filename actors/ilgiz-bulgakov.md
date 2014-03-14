@@ -1,8 +1,9 @@
 ---
 id: 77
-title: Ильгиз Булгаков
-alias: ilgiz-bulgakov
-modified: 2011-12-09 21:22:56
+title: "Ильгиз Булгаков"
+alias: "ilgiz-bulgakov"
+modified: "2011-12-09"
+layout: default
 ---
 
 ## ИЛЬГИЗ БУЛГАКОВ

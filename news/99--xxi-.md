@@ -1,8 +1,9 @@
 ---
 id: 99
-title: ПРЕМЬЕРА XXI века!!!
-alias: -xxi-
-modified: 2012-06-24 20:03:21
+title: "ПРЕМЬЕРА XXI века!!!"
+alias: "-xxi-"
+modified: "2012-06-24"
+layout: default
 ---
 
 <figure><a href="90-ychilka.html">

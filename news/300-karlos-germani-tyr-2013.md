@@ -1,8 +1,9 @@
 ---
 id: 300
-title: В феврале Карлсон" улетает в тур по Германии"
-alias: karlos-germani-tyr-2013
-modified: 2013-12-13 22:14:47
+title: "В феврале Карлсон" улетает в тур по Германии"
+alias: "karlos-germani-tyr-2013"
+modified: "2013-12-13"
+layout: default
 ---
 
 <figure>{youtube:www.youtube.com/watch?v=bgXxfiqpJM8&feature=related 480 353}</figure>

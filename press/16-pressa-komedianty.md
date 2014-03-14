@@ -1,8 +1,9 @@
 ---
 id: 16
-title: О нас пишут (Пресса,Интернет издания,Рецензии)
-alias: pressa-komedianty
-modified: 2014-03-07 22:10:38
+title: "О нас пишут (Пресса,Интернет издания,Рецензии)"
+alias: "pressa-komedianty"
+modified: "2014-03-07"
+layout: default
 ---
 
 ## 2014 год

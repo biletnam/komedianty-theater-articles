@@ -1,8 +1,9 @@
 ---
 id: 262
-title: Жизнь которая добрее и мудрее нас Поминальная молитва (ПТЖ)
-alias: pressa-ptj-pomanalnaya-molitva
-modified: 2013-03-12 18:22:40
+title: "Жизнь которая добрее и мудрее нас Поминальная молитва (ПТЖ)"
+alias: "pressa-ptj-pomanalnaya-molitva"
+modified: "2013-03-12"
+layout: default
 ---
 
 ## О спектакле "Поминальная молитва" Г.Горин

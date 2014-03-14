@@ -1,8 +1,9 @@
 ---
 id: 301
-title: Мария Осипова
-alias: mariaosipova
-modified: 2013-12-15 23:16:32
+title: "Мария Осипова"
+alias: "mariaosipova"
+modified: "2013-12-15"
+layout: default
 ---
 
 <figure>

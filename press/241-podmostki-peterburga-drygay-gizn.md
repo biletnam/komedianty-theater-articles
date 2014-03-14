@@ -1,7 +1,8 @@
 ---
 id: 241
-title: другая жизнь Интервью М.Левшина
-alias: podmostki-peterburga-drygay-gizn
+title: "другая жизнь Интервью М.Левшина"
+alias: "podmostki-peterburga-drygay-gizn"
+layout: default
 ---
 
 ## "ДРУГАЯ ЖИЗНЬ…"

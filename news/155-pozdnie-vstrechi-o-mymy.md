@@ -4,6 +4,7 @@ title: "Поздние встречи о «МУМУ»"
 alias: "pozdnie-vstrechi-o-mymy"
 modified: "2012-06-24"
 published: true
+layout: default
 ---
 
 <figure><a href="http://vk.com/video-15602252_159376811">

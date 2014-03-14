@@ -1,8 +1,9 @@
 ---
 id: 161
-title: Телеканал ЛОТ о МУМУ""
-alias: lot-o-mymy
-modified: 2012-12-13 20:22:13
+title: "Телеканал ЛОТ о МУМУ""
+alias: "lot-o-mymy"
+modified: "2012-12-13"
+layout: default
 ---
 
 Репортажи телеканала ЛОТ о спектакле "МуМу"

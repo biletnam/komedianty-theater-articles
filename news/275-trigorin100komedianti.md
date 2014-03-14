@@ -1,8 +1,9 @@
 ---
 id: 275
-title: 10 мая - Записные книжки Тригорина 100-ый спектакль
-alias: trigorin100komedianti
-modified: 2013-12-13 00:04:04
+title: "10 мая - Записные книжки Тригорина 100-ый спектакль"
+alias: "trigorin100komedianti"
+modified: "2013-12-13"
+layout: default
 ---
 
 <figure><a href="72-trigorin.html">

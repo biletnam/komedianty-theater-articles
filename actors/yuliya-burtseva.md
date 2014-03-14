@@ -1,8 +1,9 @@
 ---
 id: 78
-title: Юлия Бурцева
-alias: ylia-burceva
-modified: 2013-12-12 13:43:41
+title: "Юлия Бурцева"
+alias: "ylia-burceva"
+modified: "2013-12-12"
+layout: default
 ---
 
 ## ЮЛИЯ БУРЦЕВА

@@ -1,8 +1,9 @@
 ---
 id: 58
-title: Виктор Костецкий
-alias: viktor-kostetskii
-modified: 2013-03-31 16:04:09
+title: "Виктор Костецкий"
+alias: "viktor-kostetskii"
+modified: "2013-03-31"
+layout: default
 ---
 
 ## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ

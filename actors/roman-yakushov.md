@@ -1,8 +1,9 @@
 ---
 id: 88
-title: Роман Якушов
-alias: roman-yakushov
-modified: 2013-07-13 21:03:20
+title: "Роман Якушов"
+alias: "roman-yakushov"
+modified: "2013-07-13"
+layout: default
 ---
 
 ## РОМАН ЯКУШОВ

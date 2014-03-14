@@ -1,8 +1,9 @@
 ---
 id: 287
-title: Гастроли в Ереван (Армения) МУМУ
-alias: gastroli-erevan
-modified: 2013-10-30 10:20:48
+title: "Гастроли в Ереван (Армения) МУМУ"
+alias: "gastroli-erevan"
+modified: "2013-10-30"
+layout: default
 ---
 
 ## 3 октября театр «Комедианты» показал

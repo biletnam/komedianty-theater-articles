@@ -1,8 +1,9 @@
 ---
 id: 79
-title: Анна Загребна
-alias: anna-zagrebna
-modified: 2013-09-11 15:04:50
+title: "Анна Загребна"
+alias: "anna-zagrebna"
+modified: "2013-09-11"
+layout: default
 ---
 
 ## АННА ЗАГРЕБНА

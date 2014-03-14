@@ -1,7 +1,8 @@
 ---
 id: 245
-title: Интервью валерия Полетаева
-alias: pressa-podmostki-peterburga-poletaev
+title: "Интервью валерия Полетаева"
+alias: "pressa-podmostki-peterburga-poletaev"
+layout: default
 ---
 
 ## "ТВОРЧЕСКАЯ ЛИЧНОСТЬ… "

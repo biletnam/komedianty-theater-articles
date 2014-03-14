@@ -1,8 +1,9 @@
 ---
 id: 41
-title: В ПАРИЖ!
-alias: v-paris
-modified: 2014-03-06 12:31:49
+title: "В ПАРИЖ!"
+alias: "v-paris"
+modified: "2014-03-06"
+layout: default
 ---
 
 ## А.П.Чехов

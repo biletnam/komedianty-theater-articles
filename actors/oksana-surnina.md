@@ -1,8 +1,9 @@
 ---
 id: 85
-title: Оксана Сурнина
-alias: oksana-surnina
-modified: 2012-04-21 19:31:40
+title: "Оксана Сурнина"
+alias: "oksana-surnina"
+modified: "2012-04-21"
+layout: default
 ---
 
 ## ОКСАНА СУРНИНА

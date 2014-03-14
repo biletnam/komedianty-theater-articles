@@ -1,8 +1,9 @@
 ---
 id: 138
-title: ФАРСЫ
-alias: lohanq
-modified: 2013-12-06 19:32:03
+title: "ФАРСЫ"
+alias: "lohanq"
+modified: "2013-12-06"
+layout: default
 ---
 
 Идут репетиции

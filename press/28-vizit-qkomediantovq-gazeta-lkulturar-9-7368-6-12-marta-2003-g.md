@@ -1,8 +1,9 @@
 ---
 id: 28
-title: Визит «Комедиантов» Газета «Культура» №9 (7368) 6 - 12 марта 2003 г.
-alias: vizit-qkomediantovq-gazeta-lkulturar-9-7368-6-12-marta-2003-g
-modified: 2012-12-24 17:06:40
+title: "Визит «Комедиантов» Газета «Культура» №9 (7368) 6 - 12 марта 2003 г."
+alias: "vizit-qkomediantovq-gazeta-lkulturar-9-7368-6-12-marta-2003-g"
+modified: "2012-12-24"
+layout: default
 ---
 
 ## Гастроли в Москве - "Женитьба" и "Венецианский купец"

@@ -3,6 +3,7 @@ id: 27
 title: "Геннадий Спириденков"
 alias: "-gennadij-spiridenkov-za-rf"
 modified: "2013-02-02"
+layout: default
 ---
 
 ## ЗАСЛУЖЕННЫЙ АРТИСТ РОССИИ

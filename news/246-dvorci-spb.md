@@ -1,8 +1,9 @@
 ---
 id: 246
-title: Театр «Комедианты» в телеигре «СТО к ОДНОМУ»
-alias: dvorci-spb
-modified: 2013-11-01 19:38:08
+title: "Театр «Комедианты» в телеигре «СТО к ОДНОМУ»"
+alias: "dvorci-spb"
+modified: "2013-11-01"
+layout: default
 ---
 
 <figure><a href="http://russia.tv/brand/show/brand_id/9222">

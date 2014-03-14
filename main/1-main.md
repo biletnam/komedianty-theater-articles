@@ -4,6 +4,7 @@ title: "Слово художественного руководителя"
 alias: "main"
 modified: "2013−01−07"
 published: true
+layout: default
 ---
 
 ## Дорогие друзья!

@@ -2,8 +2,9 @@
 id: 110
 title: "«МУМУ»"
 alias: "mymy-pressa-5"
-modified: Э2011-07-04"
+modified: "Э2011-07-04"
 published: true
+layout: default
 ---
 
 ## «МУМУ» В ЛОДЕЙНОМ ПОЛЕ

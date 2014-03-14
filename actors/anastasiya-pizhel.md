@@ -1,8 +1,9 @@
 ---
 id: 64
-title: Анастасия Пижель
-alias: asia-pigel-sergeevna
-modified: 2012-12-08 22:06:15
+title: "Анастасия Пижель"
+alias: "asia-pigel-sergeevna"
+modified: "2012-12-08"
+layout: default
 ---
 
 ## АНАСТАСИЯ ПИЖЕЛЬ

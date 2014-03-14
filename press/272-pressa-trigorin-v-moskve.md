@@ -1,8 +1,9 @@
 ---
 id: 272
-title: Средний актёр стал гораздо выше
-alias: pressa-trigorin-v-moskve
-modified: 2013-03-31 20:13:30
+title: "Средний актёр стал гораздо выше"
+alias: "pressa-trigorin-v-moskve"
+modified: "2013-03-31"
+layout: default
 ---
 
 ## "Средний актёр стал гораздо выше"

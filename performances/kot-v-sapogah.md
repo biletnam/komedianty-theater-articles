@@ -1,8 +1,9 @@
 ---
 id: 74
-title: КОТ В САПОГАХ
-alias: kot-v-sapogah
-modified: 2014-02-05 20:28:11
+title: "КОТ В САПОГАХ"
+alias: "kot-v-sapogah"
+modified: "2014-02-05"
+layout: default
 ---
 
 ## Г. Сапгир, С. Прокофьева

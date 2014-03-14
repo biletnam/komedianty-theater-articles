@@ -1,8 +1,9 @@
 ---
 id: 148
-title: МУМУ в Норвегии!
-alias: oslo
-modified: 2013-01-22 16:09:27
+title: "МУМУ в Норвегии!"
+alias: "oslo"
+modified: "2013-01-22"
+layout: default
 ---
 
 <figure>

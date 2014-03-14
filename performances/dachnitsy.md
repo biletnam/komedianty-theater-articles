@@ -1,8 +1,9 @@
 ---
 id: 43
-title: ДАЧНИЦЫ
-alias: dachnici
-modified: 2012-10-16 20:42:01
+title: "ДАЧНИЦЫ"
+alias: "dachnici"
+modified: "2012-10-16"
+layout: default
 ---
 
 ## В. Карасёв

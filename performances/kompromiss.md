@@ -1,8 +1,9 @@
 ---
 id: 282
-title: КОМПРОМИСС
-alias: kompromiss-sdovlatov
-modified: 2013-12-12 23:21:25
+title: "КОМПРОМИСС"
+alias: "kompromiss-sdovlatov"
+modified: "2013-12-12"
+layout: default
 ---
 
 <figure>

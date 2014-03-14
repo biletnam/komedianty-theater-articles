@@ -1,8 +1,9 @@
 ---
 id: 73
-title: ПРОГУЛКА В ЛЮ-БЛЁ Рубина
-alias: progulka-v-ly-blio
-modified: 2013-09-08 18:45:51
+title: "ПРОГУЛКА В ЛЮ-БЛЁ Рубина"
+alias: "progulka-v-ly-blio"
+modified: "2013-09-08"
+layout: default
 ---
 
 ## Катя Рубина

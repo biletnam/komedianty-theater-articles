@@ -4,6 +4,7 @@ title: "Премьера! «МуМу»"
 alias: "mymy-pressa-2"
 modified: "2013-12-22"
 published: true
+layout: default
 ---
 
 <figure>

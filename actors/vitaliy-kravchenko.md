@@ -1,8 +1,9 @@
 ---
 id: 66
-title: Виталий Кравченко
-alias: vitalii-kravchenko
-modified: 2013-07-13 16:18:42
+title: "Виталий Кравченко"
+alias: "vitalii-kravchenko"
+modified: "2013-07-13"
+layout: default
 ---
 
 ## ВИТАЛИЙ КРАВЧЕНКО

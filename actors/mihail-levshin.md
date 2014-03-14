@@ -1,9 +1,10 @@
 ---
 id: 153
-title: Михаил Левшин
+title: "Михаил Левшин"
 alias: "mihail-levshin"
-modified: "2014-02-11 17:17:13"
+modified: "2014-02-11"
 published: true
+layout: default
 ---
 
 ![](http://komedianty.com/images/stories/random/foto%20ybilei%2020%20let.jpg)

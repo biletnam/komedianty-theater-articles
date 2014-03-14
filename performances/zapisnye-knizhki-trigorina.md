@@ -1,8 +1,9 @@
 ---
 id: 72
-title: ЗАПИСНЫЕ КНИЖКИ ТРИГОРИНА
-alias: trigorin
-modified: 2013-11-05 10:54:48
+title: "ЗАПИСНЫЕ КНИЖКИ ТРИГОРИНА"
+alias: "trigorin"
+modified: "2013-11-05"
+layout: default
 ---
 
 ## Теннесси Уильямс

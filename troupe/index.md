@@ -2,7 +2,8 @@
 id: 5
 title: "Труппа"
 alias: "troupe"
-modified: "2014-03-10 17:54:14"
+modified: "2014-03-10"
+layout: default
 ---
 
 <table style="width: 100%; font-family: Georgia, serif;">

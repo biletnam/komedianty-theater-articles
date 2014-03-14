@@ -1,8 +1,9 @@
 ---
 id: 278
-title: Беседа с Михаилом Левшиным Оk-inform
-alias: m-levshin-ok-inform
-modified: 2013-06-14 18:30:04
+title: "Беседа с Михаилом Левшиным Оk-inform"
+alias: "m-levshin-ok-inform"
+modified: "2013-06-14"
+layout: default
 ---
 
 ## Михаил Левшин: «Актер – это кровоточащая рана»
