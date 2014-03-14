@@ -1,12 +1,12 @@
 ---
 id: 11
-title: "Репертуар"
-alias: "repertoire"
-modified: "2014-03-11 17:19:16"
+title: Репертуар
+alias: repertoire
+modified: 2014-03-11 17:19:16
 ---
 
 [
-![ЗЕМЛЯКИ](images/afisha-right-zemlyaki/zemlyaki.jpg)
+![ЗЕМЛЯКИ](/images/afisha-right-zemlyaki/zemlyaki.jpg)
 ](283-zemlyaki "ЗЕМЛЯКИ")
 
 **_Автор:_ В. Шукшин**
@@ -17,7 +17,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![КОМПРОМИСС](images/stories/random/afisha%20kompromiss1.jpg)
+![КОМПРОМИСС](/images/stories/random/afisha%20kompromiss1.jpg)
 ](282-kompromiss-sdovlatov "КОМПРОМИСС")
 
 **_Автор:_ С. Довлатов**
@@ -28,7 +28,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![СТРАСТИ ПО-ИТАЛЬЯНСКИ](images/stories/random/afisha strasti.jpg)
+![СТРАСТИ ПО-ИТАЛЬЯНСКИ](/images/stories/random/afisha strasti.jpg)
 ](59-strasti-po-italianski "СТРАСТИ ПО-ИТАЛЬЯНСКИ")
 
 **_Автор:_ Э. де Филиппо**
@@ -39,7 +39,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![КРЕПОСТНАЯ ЛЮБОВЬ](images/stories/random/mumu krepostnaia love.jpg)
+![КРЕПОСТНАЯ ЛЮБОВЬ](/images/stories/random/mumu krepostnaia love.jpg)
 ](46-mumu "КРЕПОСТНАЯ ЛЮБОВЬ")
 
 **_Автор:_ И. С. Тургенев**
@@ -50,7 +50,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ЛЕС](images/stories/random/les afisha2.jpg)
+![ЛЕС](/images/stories/random/les afisha2.jpg)
 ](91-les "ЛЕС")
 
 **_Автор:_ А. Н. Островский**
@@ -61,7 +61,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ВОЛКИ И ОВЦЫ](http://www.komedianty.com/images/stories/af/ovcivolki.jpg)
+![ВОЛКИ И ОВЦЫ](/images/stories/af/ovcivolki.jpg)
 ](42-volki-i-ovci "ВОЛКИ И ОВЦЫ")
 
 **_Автор:_ А. Н. Островский**
@@ -72,7 +72,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![СИРАНО-ДЕ БЕРЖЕРАК](images/stories/random/afisha sirano.jpg)
+![СИРАНО-ДЕ БЕРЖЕРАК](/images/stories/random/afisha sirano.jpg)
 ](60-sirano-de-bergerak "СИРАНО-ДЕ БЕРЖЕРАК")
 
 **_Автор:_ Э. Ростан**
@@ -83,7 +83,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ЖЕНИТЬБА](http://www.komedianty.com/images/stories/af/genitba.jpg)
+![ЖЕНИТЬБА](/images/stories/af/genitba.jpg)
 ](69-genitba "ЖЕНИТЬБА")
 
 **_Автор:_ Н. Гоголь**
@@ -94,7 +94,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ДУРОЧКА](http://www.komedianty.com/images/stories/afisha%20.jpg)
+![ДУРОЧКА](/images/stories/afisha%20.jpg)
 ](44-dyrochka "ДУРОЧКА")
 
 **_Автор:_ Лопе де Вега**
@@ -105,7 +105,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ПРОГУЛКА В ЛЮ-БЛЁ](http://www.komedianty.com/images/stories/afisha%20%203.jpg)
+![ПРОГУЛКА В ЛЮ-БЛЁ](/images/stories/afisha%20%203.jpg)
 ](73-progulka-v-ly-blio "ПРОГУЛКА В ЛЮ-БЛЁ")
 
 **_Автор:_ Е. Рубина**
@@ -116,7 +116,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ДАЧНИЦЫ](http://www.komedianty.com/images/stories/afisha%20%204.jpg)
+![ДАЧНИЦЫ](/images/stories/afisha%20%204.jpg)
 ](43-dachnici "ДАЧНИЦЫ")
 
 **_Автор:_ В. Карасёв**
@@ -127,7 +127,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![НЕ ВСЯКИЙ ВОР — ГРАБИТЕЛЬ](http://www.komedianty.com/images/stories/afisha%20%205.jpg)
+![НЕ ВСЯКИЙ ВОР — ГРАБИТЕЛЬ](/images/stories/afisha%20%205.jpg)
 ](70-vor "НЕ ВСЯКИЙ ВОР — ГРАБИТЕЛЬ")
 
 **_Автор:_ Д. Фо**
@@ -138,7 +138,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![В ПАРИЖ!](http://www.komedianty.com/images/stories/vparis.jpg)
+![В ПАРИЖ!](/images/stories/vparis.jpg)
 ](41-v-paris "В ПАРИЖ!")
 
 **_Автор:_ А. П. Чехов**
@@ -150,7 +150,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ](http://www.komedianty.com/images/stories/af/anekdoti.jpg)
+![ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ](/images/stories/af/anekdoti.jpg)
 ](71-anekdoti "ПРОВИНЦИАЛЬНЫЕ АНЕКДОТЫ")
 
 **_Автор:_ А. Вампилов**
@@ -161,7 +161,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ЗАПИСНЫЕ КНИЖКИ ТРИГОРИНА](images/stories/random/trigorin 1.jpg)
+![ЗАПИСНЫЕ КНИЖКИ ТРИГОРИНА](/images/stories/random/trigorin 1.jpg)
 ](72-trigorin "ЗАПИСНЫЕ КНИЖКИ ТРИГОРИНА")
 
 **_Автор:_ Т. Уильямс**
@@ -173,7 +173,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ПОМИНАЛЬНАЯ МОЛИТВА](images/stories/random/smol afisha molitva.jpg)
+![ПОМИНАЛЬНАЯ МОЛИТВА](/images/stories/random/smol afisha molitva.jpg)
 ](97-pominalnaia-molitva "ПОМИНАЛЬНАЯ МОЛИТВА")
 
 **_Автор:_ Г. Горин**
@@ -200,7 +200,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![КОТ В САПОГАХ](images/stories/random/afisha kot v sapogah.jpg)
+![КОТ В САПОГАХ](/images/stories/random/afisha kot v sapogah.jpg)
 ](74-kot-v-sapogah "КОТ В САПОГАХ")
 
 **_Автор:_ Г. Сапгир, С. Прокофьева**
@@ -211,7 +211,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ВОЛШЕБНЫЕ СОСУЛЬКИ](http://www.komedianty.com/images/stories/af/volshebnsosyli.jpg)
+![ВОЛШЕБНЫЕ СОСУЛЬКИ](/images/stories/af/volshebnsosyli.jpg)
 ](75-volshebnie-sosulki "ВОЛШЕБНЫЕ СОСУЛЬКИ")
 
 **_Автор:_ М. Мокиенко**
@@ -222,7 +222,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ](images/stories/random/afisha brisss.jpg)
+![БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ](/images/stories/random/afisha brisss.jpg)
 ](40-bris-ili-istoria-kota-filifeia "БРЫСЬ! или ИСТОРИИ КОТА ФИЛОФЕЯ")
 
 **_Автор:_ В. Зимин**
@@ -233,7 +233,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![УЧИЛКА ИЗ БУДУЩЕГО](images/stories/af/afisha%20ychilka.jpg)
+![УЧИЛКА ИЗ БУДУЩЕГО](/images/stories/af/afisha%20ychilka.jpg)
 ](90-ychilka "УЧИЛКА ИЗ БУДУЩЕГО")
 
 **_Автор:_ В. Ольшанский**
@@ -244,7 +244,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![КЫЦИК, МЫЦИК И ТЕТУШКА МАРИ](images/stories/random/afisha kicik.jpg)
+![КЫЦИК, МЫЦИК И ТЕТУШКА МАРИ](/images/stories/random/afisha kicik.jpg)
 ](76-kicik-micik-i-mari "КЫЦИК, МЫЦИК И ТЕТУШКА МАРИ")
 
 **_Автор:_ Е. Чеповецкий**
@@ -255,7 +255,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![КАРЛСОН](images/stories/a_cedbf42f.jpg)
+![КАРЛСОН](/images/stories/a_cedbf42f.jpg)
 ](147-karlson "КАРЛСОН")
 
 **_Автор:_ А. Линдгрен**
@@ -266,7 +266,7 @@ modified: "2014-03-11 17:19:16"
 
 ---
 [
-![ЕХАЛА ДЕРЕВНЯ МИМО МУЖИКА](http://www.komedianty.com/images/stories/af/derevna%2011.jpg)
+![ЕХАЛА ДЕРЕВНЯ МИМО МУЖИКА](/images/stories/af/derevna%2011.jpg)
 ](45-exala-derevna-mimo-mushika "ЕХАЛА ДЕРЕВНЯ МИМО МУЖИКА")
 
 **_Автор:_ А. Исполатов**
