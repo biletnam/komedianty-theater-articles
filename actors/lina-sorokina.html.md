@@ -1,6 +1,7 @@
 ---
-title: "Лина Сорокина"
 layout: actor
+title: Лина Сорокина
+photo: "/images/actors/sorokina-lina.jpg"
 ---
 
-## Лина Сорокина
+…

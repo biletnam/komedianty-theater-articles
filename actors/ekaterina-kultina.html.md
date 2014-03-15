@@ -1,16 +1,12 @@
 ---
+layout: actor
 jos_id: 81
-title: "Екатерина Культина"
 jos_alias: "ekaterina-kyltina"
 modified: "2012-04-21"
-layout: actor
+title: Екатерина Культина
+photo: "/images/stories/kyltina%20kk.jpg"
+kinoteatr: "http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/"
 ---
-
-## ЕКАТЕРИНА КУЛЬТИНА
-
-<figure>
-![](/images/stories/kyltina%20kk.jpg)
-</figure>
 
 Родилась 2 ноября 1983 года в Ленинграде. В 2004 году окончила СПбГАТИ (мастерская В.В.Петрова). После окончиния учёбы с 2004 года актриса Санкт-Петербургского Драматического театра «КОМЕДИАНТЫ».
 
@@ -18,19 +14,9 @@ layout: actor
 
 Занята в спектаклях:
 
-[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Глафира
-
-[«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс - роль Нина Заречная
-
-[«Дурочка»](44-dyrochka.html) Лопе де Вега – роль Финея
-
-[«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Финна (второй анекдот)
-
-[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Роксана
-
-[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Настенька
-
-<figure><a href="http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/">
-![](/images/stories/random/kino-teatr-88x31.gif)
-</a></figure>
-
+- [«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Глафира
+- [«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс - роль Нина Заречная
+- [«Дурочка»](44-dyrochka.html) Лопе де Вега – роль Финея
+- [«Провинциальные анекдоты»](71-anekdoti.html) А.Вампилов - роль Финна (второй анекдот)
+- [«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Роксана
+- [«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб - роль Настенька

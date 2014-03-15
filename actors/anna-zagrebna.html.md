@@ -5,14 +5,14 @@ jos_alias: "anna-zagrebna"
 modified: "2013-09-11"
 title: Анна Загребна
 employment:
-- [«Сирано де Бержерак»](60-sirano-de-bergerak.html): Роксана
-- [«Дурочка»](44-dyrochka.html): Финея
-- [«Волшебные сосульки»](75-volshebnie-sosulki.html): Настенька
-- [«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html): Настенька
-- [«Дачницы»](43-dachnici.html): Внучка
-- [«Брысь!или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html): Анфиса
-- [«Кыцик, Мыцик и Тетушка Мари»](76-kicik-micik-i-mari.html): Мыцик
-- [«Училка из будущего»](90-ychilka.html): Уэнди Кларк
+- "[«Сирано де Бержерак»](60-sirano-de-bergerak.html): Роксана"
+- "[«Дурочка»](44-dyrochka.html): Финея"
+- "[«Волшебные сосульки»](75-volshebnie-sosulki.html): Настенька"
+- "[«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html): Настенька"
+- "[«Дачницы»](43-dachnici.html): Внучка"
+- "[«Брысь! или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html): Анфиса"
+- "[«Кыцик, Мыцик и Тетушка Мари»](76-kicik-micik-i-mari.html): Мыцик"
+- "[«Училка из будущего»](90-ychilka.html): Уэнди Кларк"
 cinema:
 - «Свои»
 - «Улицы разбитых фонарей»

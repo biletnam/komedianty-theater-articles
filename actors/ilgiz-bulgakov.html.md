@@ -1,16 +1,10 @@
 ---
+layout: actor
 jos_id: 77
-title: "Ильгиз Булгаков"
 jos_alias: "ilgiz-bulgakov"
 modified: "2011-12-09"
-layout: actor
+title: Ильгиз Булгаков
+photo: "/images/stories/x_4a41e54f.jpg"
 ---
 
-## ИЛЬГИЗ БУЛГАКОВ
-
-<figure>
-![](/images/stories/x_4a41e54f.jpg)
-</figure>
-
-Информация обрабатывается…
-
+…

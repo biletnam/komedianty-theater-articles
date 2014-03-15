@@ -1,6 +1,6 @@
 ---
 jos_id: 22
-title: "Семен Афендулов"
+title: Семен Афендулов
 jos_alias: "afendulov-semen"
 modified: "2012-04-21"
 layout: actor
@@ -8,10 +8,7 @@ layout: actor
 
 ## СЕМЁН АФЕНДУЛОВ
 
-<figure>
-![](/images/stories/random/afendulov 3.jpg)
-</figure>
-
+photo: "/images/stories/random/afendulov 3.jpg"
 Родился 14 мая 1977 года.
 
 В 2004 году окончил Санкт-Петербургскую Театральную Академию, курс В.В.Петрова. Снимался в фильмах: т/с «Улицы разбитых фонарей», «Зеркало Фараона», т/с «Литейный», «Мама» (короткометражный) и др.

@@ -1,16 +1,12 @@
 ---
+layout: actor
 jos_id: 66
-title: "Виталий Кравченко"
 jos_alias: "vitalii-kravchenko"
 modified: "2013-07-13"
-layout: actor
+title: Виталий Кравченко
+photo: "/images/stories/random/kravchenko vvv.jpg"
+kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/"
 ---
-
-## ВИТАЛИЙ КРАВЧЕНКО
-
-<figure>
-![](/images/stories/random/kravchenko vvv.jpg)
-</figure>
 
 Родился 3 октября 1979 года в Ленинграде. В 2007 году окончил СПбГАТИ , курс А.С.Шведерского. Снимался в фильмах: т/с «Улицы разбитых фонарей» , «Свой - чужой» и др.
 
@@ -18,27 +14,13 @@ layout: actor
 
 Занят в спектаклях:
 
-[«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Урядник
-
-[«ЛЕС»](91-les.html) А.Островский - роль Пётр
-
-[«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Гвардеец
-
-[«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Павлин
-
-[«Провинциальные анекдоты»](71-anekdoti.html)А.Вампилов - роль Хамутов
-
-[«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль сторож Степан
-
-[«Ехала деревня мимо мужика»](45-exala-derevna-mimo-mushika.html) А.Исполатов - роль Скоморох
-
-[«Женитьба»](69-genitba.html) Н.В.Гоголь - роль Купец
-
-[«Кот в сапогах»](74-kot-v-sapogah.html) Г.Сапгир - роль Жак-простак
-
-[«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко - роль Дед Мороз
-
-<figure><a href="http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/">
-![](/images/stories/random/kino-teatr-88x31.gif)
-</a></figure>
-
+- [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин - роль Урядник
+- [«ЛЕС»](91-les.html) А.Островский - роль Пётр
+- [«Сирано де Бержерак»](60-sirano-de-bergerak.html) Э.Ростан - роль Гвардеец
+- [«Волки и овцы»](42-volki-i-ovci.html) А.Островский - роль Павлин
+- [«Провинциальные анекдоты»](71-anekdoti.html)А.Вампилов - роль Хамутов
+- [«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев - роль сторож Степан
+- [«Ехала деревня мимо мужика»](45-exala-derevna-mimo-mushika.html) А.Исполатов - роль Скоморох
+- [«Женитьба»](69-genitba.html) Н.В.Гоголь - роль Купец
+- [«Кот в сапогах»](74-kot-v-sapogah.html) Г.Сапгир - роль Жак-простак
+- [«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко - роль Дед Мороз
