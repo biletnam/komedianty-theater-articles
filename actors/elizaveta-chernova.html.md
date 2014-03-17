@@ -2,7 +2,9 @@
 layout: actor
 jos_id: 48
 jos_alias: "chernovaelizaveta"
+
 title: Елизавета Чернова
+
 modified: "2013-12-15"
 photo: "/images/stories/random/liza chernova.jpg"
 ---

@@ -3,7 +3,9 @@ layout: actor
 jos_id: 89
 jos_alias: "olga-yakovleva"
 modified: "2013-01-27"
+
 title: Ольга Яковлева
+
 photo: "/images/stories/yakovleva.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/283054/bio/"
 ruskino: "http://ruskino.ru/art/10329"
@@ -13,7 +15,7 @@ ruskino: "http://ruskino.ru/art/10329"
 
 С 2001 года актриса Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев — роль Барыня
 - [«Страсти по-итальянски»](59-strasti-po-italianski.html) Э.де Филиппо — роли Рита-Доротея-Женщина

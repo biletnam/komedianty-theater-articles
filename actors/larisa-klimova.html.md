@@ -3,7 +3,9 @@ layout: actor
 jos_id: 65
 jos_alias: "larisa-klimova"
 modified: "2013-01-27"
+
 title: Лариса Климова
+
 photo: "/images/stories/klimova%20ll.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/16931/bio/"
 ---
@@ -14,7 +16,7 @@ kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/16931/bio/"
 
 С 1997 года актриса Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Дачницы»](43-dachnici.html) В. Карасёв — роль Хозяйка дачи
 - [«Не всякий вор-грабитель»](70-vor.html) Дарио Фо — роль Джулия

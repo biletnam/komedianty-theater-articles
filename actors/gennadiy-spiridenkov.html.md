@@ -3,8 +3,10 @@ layout: actor
 jos_id: 27
 jos_alias: "-gennadij-spiridenkov-za-rf"
 modified: "2013-02-02"
+
 title: Геннадий Спириденков
-photo: /images/stories/random/spiridenkov.jpg
+
+photo: "/images/stories/random/spiridenkov.jpg"
 grade: Заслуженный артист России
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/6427/bio/"
 ---

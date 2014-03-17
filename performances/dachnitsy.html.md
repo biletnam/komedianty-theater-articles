@@ -34,9 +34,9 @@ photo:
 
 ## В спектакле заняты
 
-- Мужик — Заслуженный артист России [Геннадий СПИРИДЕНКОВ](27--gennadij-spiridenkov-za-rf.html) / [Сергей БЛЕДНЫХ](24-blednyh-sergej.html)
-- Бабушка — [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html)
-- Мама — Заслуженная артистка России [Таисия ПОПЕНКО](26-popenko-taisija.html)
-- Хозяйка дачи — [Лариса КЛИМОВА](65-larisa-klimova.html)
-- Внучка — [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
-- Домработница Дуся — [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html) / [Галина САБУРОВА](61-galina-saburova.html)
+- Мужик — Заслуженный артист России Геннадий Спириденков ('27--gennadij-spiridenkov-za-rf.html') / Сергей Бледных ('24-blednyh-sergej.html')
+- Бабушка — Ольга Яковлева ('89-olga-yakovleva.html')
+- Мама — Заслуженная артистка России Таисия Попенко ('26-popenko-taisija.html')
+- Хозяйка дачи — Лариса Климова ('65-larisa-klimova.html')
+- Внучка — Наталья Терехова ('56-natasha-terehova.html') / Анна Загребна ('79-anna-zagrebna.html') / Оксана Сурнина ('85-oksana-surnina.html')
+- Домработница Дуся — Татьяна Кожевникова ('80-tatiana-kogevnikova.html') / Галина Сабурова ('61-galina-saburova.html')

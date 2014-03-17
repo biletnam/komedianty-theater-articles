@@ -3,7 +3,9 @@ layout: actor
 jos_id: 62
 jos_alias: "irina-mityshkina"
 modified: "2012-04-21"
+
 title: Ирина Митюшкина
+
 photo: "/images/stories/mityshkina%20iii.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/242217/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/242217/bio/"
 
 С 2005 года актриса Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Сирано де Бержерак»](60-sirano-de-bergerak.html)Э.Ростан — роль Дуэнья
 - [«В Париж»](41-v-paris.html) А. П. Чехов — роль Сваха

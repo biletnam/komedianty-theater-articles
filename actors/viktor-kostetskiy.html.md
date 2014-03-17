@@ -3,7 +3,9 @@ layout: actor
 jos_id: 58
 jos_alias: "viktor-kostetskii"
 modified: "2013-03-31"
+
 title: Виктор Костецкий
+
 grade: Заслуженный артист России
 photo: "/images/stories/kostetskii%20%20vv.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/2176/bio/"
@@ -14,11 +16,11 @@ ruskino: "http://ruskino.ru/art/1768"
 
 С 1995 актёр Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Записные книжки Тригорина»](72-trigorin.html)Т.Уильямс — роль Дорн
 
-Пресса:
+## Пресса
 
 - ["Умный компромисс Виктора Костецкого"(газета "Pro-сцениум"2009г.) (автор:О.Бурлэдян)](271-pressa-viktor-kostetskii.html)
 

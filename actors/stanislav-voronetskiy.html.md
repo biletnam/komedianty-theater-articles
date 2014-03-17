@@ -3,7 +3,9 @@ layout: actor
 jos_id: 51
 jos_alias: "stas-voronetski"
 modified: "2013-10-20"
+
 title: Станислав Воронецкий
+
 photo: "/images/stories/oronetskii%20ss.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/31838/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/31838/bio/"
 
 В 2005 году поступил в труппу Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Фёдор
 - [«Крепостная любовь» (МуМу)](46-mumu.html) И.Тургенев — роль Ерошка

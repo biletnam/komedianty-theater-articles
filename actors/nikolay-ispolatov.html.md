@@ -3,7 +3,9 @@ layout: actor
 jos_id: 54
 jos_alias: "nikolai-ispolatov"
 modified: "2013-02-02"
+
 title: Николай Исполатов
+
 photo: "/images/stories/act/nikolaispolatov.jpg"
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/1762/works/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/1762/works/"
 
 С 1990 года актёр Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Священник
 - [«Женитьба»](69-genitba.html) Н.В.Гоголь — роль Степан

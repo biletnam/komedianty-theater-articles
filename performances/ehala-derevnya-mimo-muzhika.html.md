@@ -14,7 +14,7 @@ synopsis: ```
 ```
 
 authors:
-- Режиссер-постановщик: [Алексей Исполатов](53-aleksei-ispolatov.html)
+- Режиссер-постановщик: Алексей Исполатов ('53-aleksei-ispolatov.html')
 - Художник: рина Лебедева
 
 premiere_date: "1991-03-12"
@@ -54,8 +54,8 @@ photo:
 
 ## В спектакле заняты
 
-- Скоморох — [Илья БЕЗРУК](83-bezryk-ilya.html)
-- Скоморох — [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
-- Скоморох — [Леонид ЗЯБКИН](67-leonid-zabkin.html)
-- Скоморох — [Евгений ТАЛАШМАНОВ](84-talashmanovevgenii.html)
+- Скоморох — Илья БЕЗРУК ('83-bezryk-ilya.html')
+- Скоморох — Виталий КРАВЧЕНКО ('66-vitalii-kravchenko.html')
+- Скоморох — Леонид ЗЯБКИН ('67-leonid-zabkin.html')
+- Скоморох — Евгений ТАЛАШМАНОВ ('84-talashmanovevgenii.html')
 - Федя (мужик) — Александр ГОНЧАРУК (баян).

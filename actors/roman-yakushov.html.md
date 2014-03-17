@@ -3,7 +3,9 @@ layout: actor
 jos_id: 88
 jos_alias: "roman-yakushov"
 modified: "2013-07-13"
+
 title: Роман Якушов
+
 photo: "/images/stories/random/yakushov ro.jpg"
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/18482/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/18482/bio/"
 
 С 2010 года актёр Санкт-Петербургского госудрственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Брысь! Или история коты Филофея»](40-bris-ili-istoria-kota-filifeia.html) В. Зимин — роль Филофея
 - [«Записные книжки Тригорина»](72-trigorin.html) Т. Уильямс — роль Константина Треплева

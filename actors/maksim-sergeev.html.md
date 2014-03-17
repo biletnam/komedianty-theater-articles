@@ -3,7 +3,9 @@ layout: actor
 jos_id: 57
 jos_alias: "maxsim-sergeev"
 modified: "2013-10-20"
+
 title: Максим Сергеев
+
 photo: "/images/stories/random/maks sergeev.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/3876/bio/"
 ruskino: "http://ruskino.ru/art/3953"
@@ -13,7 +15,7 @@ ruskino: "http://ruskino.ru/art/3953"
 
 С 1990 года актер Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«ЛЕС»](91-les.html) А.Островский — роль Восьмибратов
 - [«Страсти по-итальянски»](59-strasti-po-italianski.html) Э.де Филиппо — роль Джованни
@@ -22,7 +24,7 @@ ruskino: "http://ruskino.ru/art/3953"
 - [«Записные книжки Тригорина»](72-trigorin.html) Т.Уильямс — роль Шамраев
 - [«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова — роль фотохудожник Жбанков
 
-Пресса:
+## Пресса
 
 - [Итервью Максима Сергеева и Сергея Николаева Театральному видеожурналу "Подмостки в Петербурге"](242-pressa-podmostki-peterburga-sergeev-i-nikolaev.html)
 - ["Максим Сергеев: портрет комедианта в драматических тонах"(газета "Pro-сцениум"2006г.) (автор:М.Максимычева)](270-q-----q.html)

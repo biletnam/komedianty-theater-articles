@@ -3,7 +3,9 @@ layout: actor
 jos_id: 301
 jos_alias: "mariaosipova"
 modified: "2013-12-15"
+
 title: Мария Осипова
+
 photo: "/images/stories/act/osipova-masha.jpg"
 ---
 
@@ -11,7 +13,7 @@ photo: "/images/stories/act/osipova-masha.jpg"
 
 С 2013 года занята в спектаклях Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Хава
 - [«Брысь,или истории кота Филофея»](40-bris-ili-istoria-kota-filifeia.html) В. Зимин — роль Киса

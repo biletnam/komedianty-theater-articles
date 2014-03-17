@@ -1,9 +1,11 @@
 ---
+layout: actor
 jos_id: 61
-title: Галина Сабурова
 jos_alias: "galina-saburova"
 modified: "2014-01-28"
-layout: actor
+
+title: Галина Сабурова
+
 photo: "/images/stories/random/sabyrova.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/3712/bio/"
 ruskino: "http://ruskino.ru/art/5110"

@@ -3,7 +3,9 @@ layout: actor
 jos_id: 85
 jos_alias: "oksana-surnina"
 modified: "2012-04-21"
+
 title: Оксана Сурнина
+
 photo: "/images/stories/oksana.jpg"
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/w/ros/17756/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/kino/acter/w/ros/17756/bio/"
 
 С 2007 года актриса Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Волки и овцы»](42-volki-i-ovci.html)А.Островский — роль Евлампия Николаевна Купавина
 - [«Беда от нежного сердца»](39-beda-ot-neghnogo-serdca.html) В.Соллогуб — роль Катенька

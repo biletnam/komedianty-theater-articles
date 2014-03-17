@@ -3,17 +3,21 @@ layout: actor
 jos_id: 53
 jos_alias: "aleksei-ispolatov"
 modified: "2013-10-20"
+
 title: Алексей Исполатов
+
 employment:
-- "[«Кот в сапогах»](74-kot-v-sapogah.html): Король"
-- "[«В Париж!»](41-v-paris.html)"
-- "[«Волки и овцы»](42-volki-i-ovci.html): Чугунов"
-- "[«Компромисс»](282-kompromiss-sdovlatov.html): Сотрудник КГБ Сорокин, Михкель Теппе, Иван Трулль, Лийвак"
+- «Кот в сапогах» — Король
+- «В Париж!»
+- «Волки и овцы» — Чугунов
+- «Компромисс» — Сотрудник КГБ Сорокин, Михкель Теппе, Иван Трулль, Лийвак
+
 cinema:
 - «Ленинградец»
 - «Фаворит»
 - «Как пройти в библиотеку?»
 - «Улицы разбитых фонарей»
+
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/5825/bio/"
 photo: "/images/stories/act/alex ispolatov.jpg"
 ---

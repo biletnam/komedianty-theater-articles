@@ -3,7 +3,9 @@ layout: actor
 jos_id: 67
 jos_alias: "leonid-zabkin"
 modified: "2013-02-02"
+
 title: Леонид Зябкин
+
 photo: "/images/stories/zabkin%20leonid.jpg"
 ---
 
@@ -11,7 +13,7 @@ photo: "/images/stories/zabkin%20leonid.jpg"
 
 В 2008 году принят в труппу Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Перчик
 - [«ЛЕС»](91-les.html) А.Островский — роль Милонов

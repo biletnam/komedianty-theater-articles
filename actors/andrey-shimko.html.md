@@ -2,15 +2,19 @@
 layout: actor
 jos_id: 302
 jos_alias: "andrey-shimko"
+
 title: Андрей Шимко
+
 employment:
-- "[«ЛЕС»](91-les.html): Несчастливцев"
-- "[«Сирано де Бержерак»](60-sirano-de-bergerak.html): Сирано де Бержерак"
+- «ЛЕС» — Несчастливцев
+- «Сирано де Бержерак» — Сирано де Бержерак
+
 cinema:
 - «Лопухи»
 - «Гадкие лебеди»
 - «Туда, где живёт счастье»
 - «Травести»
+
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/5826/bio/"
 photo: "/images/stories/act/shimko-andrey.jpg"
 ---

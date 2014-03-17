@@ -3,7 +3,9 @@ layout: actor
 jos_id: 66
 jos_alias: "vitalii-kravchenko"
 modified: "2013-07-13"
+
 title: Виталий Кравченко
+
 photo: "/images/stories/random/kravchenko vvv.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/235283/bio/"
 
 В 2008 году поступил в труппу Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Урядник
 - [«ЛЕС»](91-les.html) А.Островский — роль Пётр

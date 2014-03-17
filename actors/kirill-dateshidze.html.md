@@ -3,7 +3,9 @@ layout: actor
 jos_id: 281
 jos_alias: "kirilldateshidze"
 modified: "2013-07-10"
+
 title: Кирилл Датешидзе
+
 photo: "/images/stories/random/dateshidze kirill.jpg"
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/"
 ---
@@ -12,7 +14,7 @@ kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/8915/bio/"
 
 С 2008 года сотрудничает с Санкт-Петербургским государственным драматическим театром «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«Дурочка»](44-dyrochka.html) Лопе де Вега — роль Октавьо
 - [«Волки и овцы»](42-volki-i-ovci.html) А.Островский — роль Лыняев

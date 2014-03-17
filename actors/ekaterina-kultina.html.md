@@ -3,7 +3,9 @@ layout: actor
 jos_id: 81
 jos_alias: "ekaterina-kyltina"
 modified: "2012-04-21"
+
 title: Екатерина Культина
+
 photo: "/images/stories/kyltina%20kk.jpg"
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/w/ros/27455/bio/"
 ---

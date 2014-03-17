@@ -3,7 +3,9 @@ layout: actor
 jos_id: 112
 jos_alias: "mark-gavrilov"
 modified: "2013-07-13"
+
 title: Марк Гаврилов
+
 photo: "/images/stories/random/gavrilov mark.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/"
 ---
@@ -16,7 +18,7 @@ kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/5164/bio/"
 
 С 2011 года актёр Санкт-Петербургского Государственного драматического театра «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - ["Прогулка в Лю-Блё"](73-progulka-v-ly-blio.html) К. Рубина — роль Альберта
 - ["Страсти по-итальянски"](59-strasti-po-italianski.html) Э.де Филиппо — роль Антонио

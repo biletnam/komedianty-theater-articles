@@ -3,7 +3,9 @@ layout: actor
 jos_id: 56
 jos_alias: "natasha-terehova"
 modified: "2013-10-20"
+
 title: Наталья Терехова
+
 photo: "/images/stories/terehova%20natasha.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/w/ros/4275/bio/"
 ruskino: "http://ruskino.ru/art/5120"
@@ -13,7 +15,7 @@ ruskino: "http://ruskino.ru/art/5120"
 
 В 2006 году принята в труппу Санкт-Петербургского государственного драматического театра «Комедианты».
 
-Занята в спектаклях:
+## Занята в спектаклях
 
 - [«Поминальная молитва»](97-pominalnaia-molitva.html) Г.Горин — роль Годл
 - [«Дачницы»](43-dachnici.html) В.Карасёв — роль Внучка
@@ -23,7 +25,7 @@ ruskino: "http://ruskino.ru/art/5120"
 - [«Волшебные сосульки»](75-volshebnie-sosulki.html) М.Мокиенко — роль Настенька
 - [«Компромисс»](282-kompromiss-sdovlatov.html) С.Довлатова — роль Белла Константиновна
 
-Пресса:
+## Пресса
 
 - [Интервью актрисы театра "Комедианты"Натальи Тереховой телеканалу "Россия 1"(автор: Дарья Майорова)](114-tereh.html)
 

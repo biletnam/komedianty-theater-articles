@@ -43,11 +43,11 @@ photo:
 
 В спектакле заняты:
 
-- Офелия — [Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
-- Плутон — [Роман ПРИТУЛА](50-roman-pritula.html)
-- Киса — [Мария ОСИПОВА](301-mariaosipova.html) /[ Елизавета ЧЕРНОВА](48-chernovaelizaveta.html)
-- фунтик — [Екатерина БЕЛОВА](23-belova-ekaterina.html)
-- филоФей — [Роман ЯКУШОВ](88-roman-yakushov.html) / Станислав ОСКОЛКОВ
-- Мурзик — [Леонид ЗЯБКИН](67-leonid-zabkin.html) / Сергей СУРЖИН
-- Анфиса — [Людмила НИКИТИНА](63-lyda-nikitina.html)/[ Анна ЗАГРЕБНА](79-anna-zagrebna.html)
-- Бабушка Шура — Заслуженная артистка России [Таисия ПОПЕНКО](26-popenko-taisija.html)
+- Офелия — Юлия ГОРШЕНИНА ('49-ylia-gorshenina.html') / Наталья ТЕРЕХОВА ('56-natasha-terehova.html') / Елизавета ЧЕРНОВА ('48-chernovaelizaveta.html')
+- Плутон — Роман ПРИТУЛА ('50-roman-pritula.html')
+- Киса — Мария ОСИПОВА ('301-mariaosipova.html') / Елизавета ЧЕРНОВА ('48-chernovaelizaveta.html')
+- фунтик — Екатерина БЕЛОВА ('23-belova-ekaterina.html')
+- филоФей — Роман ЯКУШОВ ('88-roman-yakushov.html') / Станислав ОСКОЛКОВ
+- Мурзик — Леонид ЗЯБКИН ('67-leonid-zabkin.html') / Сергей СУРЖИН
+- Анфиса — Людмила НИКИТИНА ('63-lyda-nikitina.html')/ Анна ЗАГРЕБНА ('79-anna-zagrebna.html')
+- Бабушка Шура — Заслуженная артистка России Таисия ПОПЕНКО ('26-popenko-taisija.html')

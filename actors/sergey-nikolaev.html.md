@@ -1,9 +1,11 @@
 ---
+layout: actor
 jos_id: 52
-title: Сергей Николаев
 jos_alias: "sergei-nikolaev"
 modified: "2013-10-20"
-layout: actor
+
+title: Сергей Николаев
+
 photo: "/images/stories/nikolaev ser.jpg"
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/29820/bio/"
 ruskino: "http://ruskino.ru/art/9036"
@@ -13,7 +15,7 @@ ruskino: "http://ruskino.ru/art/9036"
 
 С 1998 года работает в Санкт-Петербургском государственном драматическом театре «Комедианты».
 
-Занят в спектаклях:
+## Занят в спектаклях
 
 - [«ЛЕС»](91-les.html) А.Островский — роль Счастливцев
 - [«В Париж!»](41-v-paris.html) А.П.Чехов — роль Брындин
