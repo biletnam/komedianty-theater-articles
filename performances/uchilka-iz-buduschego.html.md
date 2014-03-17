@@ -18,6 +18,15 @@ duration: "2:00"
 entracte: 1
 
 rate: "12+"
+
+photo:
+- "/images/stories/ychilka.jpg"
+- "/images/stories/ychilka iz byyyy.jpg"
+- "/images/stories/foto ychilka 2.jpg"
+- "/images/stories/random/yyychilka foto.8.png"
+- "/images/stories/random/yyychilka foto.38.png"
+- "/images/stories/random/ychilka foto.jpg"
+- "/images/stories/random/ychilka foto3.jpg"
 ---
 
 
@@ -47,32 +56,3 @@ rate: "12+"
 - [О спектакле "УЧИЛКА из БУДУЩЕГО" (автор: Б.Шарова) (интервью А.Исполатова и Р.Притулы)](105-ychilka-pressa.html)
 - ["До чего дошёл прогресс?!" о спектакле "УЧИЛКА из БУДУЩЕГО" (газета "ВЕСТИ") (автор: Борислава Шарова)](106-ychilka-pressa1.html)
 - [Рецензия на спектакль "Училка из будущего" театра "Комедианты" (интернет-журнал "KidsReview.ru")(автор:Владимир Несторович)](120-ych.html)
-
-
-<figure>
-![](/images/stories/ychilka.jpg)
-</figure>
-
-<figure>
-![](/images/stories/ychilka iz byyyy.jpg)
-</figure>
-
-<figure>
-![](/images/stories/foto ychilka 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/yyychilka foto.8.png)
-</figure>
-
-<figure>
-![](/images/stories/random/yyychilka foto.38.png)
-</figure>
-
-<figure>
-![](/images/stories/random/ychilka foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/ychilka foto3.jpg)
-</figure>

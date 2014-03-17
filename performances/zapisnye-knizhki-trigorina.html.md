@@ -16,6 +16,13 @@ duration: ""
 entracte: 1
 
 rate: "16+"
+
+photo:
+- "/images/stories/trigorin.jpg"
+- "/images/stories/random/trigorin.jpg"
+- "/images/stories/random/trigorin.j2.jpg"
+- "/images/stories/random/trigorin.4.jpg"
+- "/images/stories/random/trigorin.3.jpg"
 ---
 
 У всех героев спектакля есть своя светлая история, ради которой они пытаются жить, которую они стараются укрыть от разрушения за белоснежными занавесками беседки, ставшей однажды сценой для никем не понятого спектакля Нины и Треплева о «людях, львах, орлах и куропатках». Но их мечтам не суждено осуществиться. Их жизнь становится лишь материалом для очередного рассказа знаменитого писателя... А чайка превращается в нелепую, ироничную тряпичную куклу.
@@ -49,24 +56,3 @@ rate: "16+"
 - ["Пусть расцветают все цветы" интервью К.Датешидзе Театральному видеожурналу "Подмостки в Петербурге"](244-pressa-podmostki-peterburga-kirill-dateshidze.html)
 - ["РАЗНЫЕ АРКАДИНЫ" интервью Н.Мещаниновой Театральному видеожурналу "Подмостки в Петербурге"](243-pressa-podmostki-peterburga-nina-meshaninova.html)
 - ["Средний актёр стал гораздо выше" о гастролях спектакля "Записные книжки Тригорина" в Москве ("Литературная газета")(Автор:К.Рубина)](272-pressa-trigorin-v-moskve.html)
-
-
-<figure>
-![](/images/stories/trigorin.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/trigorin.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/trigorin.j2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/trigorin.4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/trigorin.3.jpg)
-</figure>

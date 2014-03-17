@@ -17,6 +17,12 @@ duration: "1:25"
 entracte: 0
 
 rate: "16+"
+
+photo:
+- "/images/stories/strasti.jpg"
+- "/images/stories/random/strasti.jpg"
+- "/images/stories/random/strasti1.jpg"
+- "/images/stories/random/strasti2.jpg"
 ---
 
 Один любитель бесцельно побродить по улицам околдован женщиной, любительницей каждое утро понежиться в ванной прямо на балконе своей квартиры. А та оказывается вовсе не против провести с ним ночь, но что бы вы думали?! За 10000 лир! И… возле трупа своего мужа… А на соседней улочке скучает фотограф в своем маленьком фотоателье. Удача забредает к нему в обличие влюбленной парочки, желающей воспользоваться его услугами, но отличающейся весьма странным поведением… И, не успевает фотограф найти нужное освещение, как Амур ранит его прямо в нежное итальянское сердце!
@@ -29,20 +35,3 @@ rate: "16+"
 - Рита-Доротея-Женщина — [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html) / Наталья БОЯРЕНОК
 - Джованни — [Максим СЕРГЕЕВ](57-maxsim-sergeev.html) / [Марк ГАВРИЛОВ](112-mark-gavrilov.html)
 - Атнонио — [Сергей НИКОЛАЕВ](52-sergei-nikolaev.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
-
-
-<figure>
-![](/images/stories/strasti.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/strasti.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/strasti1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/strasti2.jpg)
-</figure>

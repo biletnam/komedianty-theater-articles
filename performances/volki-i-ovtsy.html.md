@@ -15,6 +15,14 @@ genre: Комедия
 premiere_date: "200-11-19"
 duration: "3:30"
 entracte: 1
+
+photo:
+- "/images/stories/volki.jpg"
+- "/images/stories/random/volki i ovci foto2.jpg"
+- "/images/stories/random/volki i ovci fto.jpg"
+- "/images/stories/volki i ovci foto 2.jpg"
+- "/images/stories/random/volki i ovci foto 2 1.jpg"
+- "/images/stories/random/volki i ovci foto 2 2.jpg"
 ---
 
 Почтенная «волчица» крепко держит бразды правления в маленьком сонном губернском городке... Она вершит судьбы покорных ей «овечек» по законам собственной выгоды, надежно прикрываясь общественной моралью. Женить непутевого племянника на богатой молоденькой вдове, напугав ее несуществующим долгом покойного мужа, и забрать в свои руки ее имение — все складывается успешно... Но, неожиданно, в ее планы вмешивается новый персонаж — деловой перспективный «волк» — жених безутешной вдовы. Накинув искусно скроенные овечьи шкуры, «волки» с легкостью пускают пыль в глаза доверчивым, неприспособленным к волчьим законам, жителям городка. Овцы кротки, и, кажется, исход предсказуем... но, не перегрызут ли волки друг другу глотки в борьбе за очередную заблудившуюся овцу?!
@@ -39,28 +47,3 @@ entracte: 1
 - Лыняев — [Кирилл ДАТЕШИДЗЕ](281-kirilldateshidze.html)
 - Чугунов — [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 - Павлин — [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
-
-
-<figure>
-![](/images/stories/volki.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/volki i ovci foto2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/volki i ovci fto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/volki i ovci foto 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/volki i ovci foto 2 1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/volki i ovci foto 2 2.jpg)
-</figure>

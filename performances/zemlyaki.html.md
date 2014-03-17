@@ -17,6 +17,13 @@ duration: "2:40"
 entracte: 1
 
 poster: "/images/afisha-right-zemlyaki/zemlyaki.jpg"
+
+photo:
+- "/images/stories/random/zemlyaki5-foto.jpg"
+- "/images/stories/news/zemlyki-foto.jpg"
+- "/images/stories/random/zemlyaki 2-foto.jpg"
+- "/images/stories/random/zemlyaki3-foto.jpg"
+- "/images/stories/random/zemlyaki4-foto.jpg"
 ---
 
 
@@ -56,23 +63,3 @@ poster: "/images/afisha-right-zemlyaki/zemlyaki.jpg"
 ## Пресса о спектакле «ЗЕМЛЯКИ»
 
 - [Премьера в Ленинградской области / спектакль «ЗЕМЛЯКИ» / Газета «ВЕСТИ» (автор: Б.Шарова)](310-premiera-zemlyki-shukshin-pikalovo-1.html)
-
-<figure>
-![](/images/stories/random/zemlyaki5-foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/news/zemlyki-foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/zemlyaki 2-foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/zemlyaki3-foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/zemlyaki4-foto.jpg)
-</figure>

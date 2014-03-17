@@ -18,6 +18,19 @@ duration: "1:05"
 entracte: 0
 
 rate: "0+"
+
+photo:
+- "/images/stories/random/karlson-foto/karlson-foto-2013 2.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto1.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto-2013 4.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto-2013g.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto2.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto-2013.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto-2013 3.jpg"
+- "/images/stories/random/karlson-foto/karlson-foto1-2013.jpg"
+
+youtube: "www.youtube.com/watch?v=j5ko5TxBnn0&feature=related 480 353"
 ---
 
 В спектакле звучат песни на слова и музыку Нины ТАРАСОВОЙ в аранжировке Юрия БАЛАКШИНА.
@@ -29,58 +42,20 @@ rate: "0+"
 
 ## Призы и награды
 
-- Светлана СУХАНОВА(48-svetlana-suhanova.html)получила премию и диплом ХХI фестиваля "Театры Санкт-Петербурга — детям" в номинации "Лучший режиссёрский дебют" за постановку спектакля "КАРЛСОН". (2012)
-- [Роман ПРИТУЛА](50-roman-pritula.html) получил премию и диплом ХХI фестиваля "Театры Санкт-Петербурга — детям" в номинации "Лучший дебют" за роль Карлсона. (2012)
+- Светлана Суханова(48-svetlana-suhanova.html)получила премию и диплом ХХI фестиваля "Театры Санкт-Петербурга — детям" в номинации "Лучший режиссёрский дебют" за постановку спектакля "КАРЛСОН". (2012)
+- [Роман Притула](50-roman-pritula.html) получил премию и диплом ХХI фестиваля "Театры Санкт-Петербурга — детям" в номинации "Лучший дебют" за роль Карлсона. (2012)
 
 
 ## В спектакле заняты
 
-- Карлсон — [Роман ПРИТУЛА](50-roman-pritula.html)
-- Малыш — [Евгений ТАЛАШМАНОВ](84-talashmanovevgenii.html)
-- Фрекен Бок — Заслуженный артист России [Геннадий СПИРИДЕНКОВ](27--gennadij-spiridenkov-za-rf.html) / [Екатерина БЕЛОВА](23-belova-ekaterina.html)
-- Папа — [Леонид ЗЯБКИН](67-leonid-zabkin.html) / [Илья БЕЗРУК](83-bezryk-ilya.html)
-- Мама — [Оксана СУРНИНА](85-oksana-surnina.html) / [Мария ОСИПОВА](301-mariaosipova.html)
+- Карлсон — [Роман Притула](50-roman-pritula.html)
+- Малыш — [Евгений Талашманов](84-talashmanovevgenii.html)
+- Фрекен Бок — Заслуженный артист России [Геннадий Спириденков](27--gennadij-spiridenkov-za-rf.html) / [Екатерина Белова](23-belova-ekaterina.html)
+- Папа — [Леонид Зябкин](67-leonid-zabkin.html) / [Илья Безрук](83-bezryk-ilya.html)
+- Мама — [Оксана Сурнина](85-oksana-surnina.html) / [Мария Осипова](301-mariaosipova.html)
 
 
 ## Пресса о спектакле «Карлсон»
 
-- ["Карлсон, который прилетел во Всеволожск" (газета "Всеволожские вести" №27 (1846)17.04.13) (автор: В.Демянская)](273-karlsonpriletel-vo-vsevologsk.html)
-- ["У каждого из нас свой КАРЛСОН… " о ПРЕМЬЕРЕ спектакля рассказывает исполнитель роли](47-y-kajdogo-svoi-karlson.html)[](47-y-kajdogo-svoi-karlson.html)[Карлсона — Роман ПРИТУЛА. (газета "ВЕСТИ") (автор:Лейла Галактионова)](47-y-kajdogo-svoi-karlson.html)
-
-<figure>{youtube:www.youtube.com/watch?v=j5ko5TxBnn0&feature=related 480 353}</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto-2013 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto-2013 4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto-2013g.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto-2013.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto-2013 3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/karlson-foto/karlson-foto1-2013.jpg)
-</figure>
+- [«Карлсон, который прилетел во Всеволожск» (газета «Всеволожские вести» № 27 (1846)17.04.13) (автор: В. Демянская)](273-karlsonpriletel-vo-vsevologsk.html)
+- [«У каждого из нас свой КАРЛСОН…» о ПРЕМЬЕРЕ спектакля рассказывает исполнитель роли](47-y-kajdogo-svoi-karlson.html)[](47-y-kajdogo-svoi-karlson.html)[Карлсона — Роман ПРИТУЛА. (газета "ВЕСТИ") (автор:Лейла Галактионова)](47-y-kajdogo-svoi-karlson.html)

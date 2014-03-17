@@ -16,6 +16,14 @@ duration: "1:15"
 entracte: 0
 
 rate: "0+"
+
+photo:
+- "/images/stories/derevna.jpg"
+- "/images/stories/random/derevnia.2.jpg"
+- "/images/stories/random/derevnia.3.jpg"
+- "/images/stories/random/derevnia.4.jpg"
+- "/images/stories/random/erevnia foto.jpg"
+- "/images/stories/random/derevnia.45.jpg"
 ---
 
 
@@ -43,28 +51,3 @@ rate: "0+"
 - Скоморох — [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 - Скоморох — [Евгений ТАЛАШМАНОВ](84-talashmanovevgenii.html)
 - Федя (мужик) — Александр ГОНЧАРУК (баян).
-
-<figure>
-![](/images/stories/derevna.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/derevnia.2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/derevnia.3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/derevnia.4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/erevnia foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/derevnia.45.jpg)
-</figure>
-

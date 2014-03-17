@@ -16,6 +16,15 @@ composer: Д. Уханев
 premiere_date: "1992-05-14"
 duration: "1:30"
 entracte: 1
+
+photo:
+- "/images/stories/random/beda foto2.jpg"
+- "/images/stories/random/beda foto3.jpg"
+- "/images/stories/random/beda foto.jpg"
+- "/images/stories/random/beda foto4.jpg"
+- "/images/stories/random/beda foto5.jpg"
+- "/images/stories/random/beda foto7.jpg"
+- "/images/stories/random/beda foto6.jpg"
 ---
 
 
@@ -36,31 +45,3 @@ entracte: 1
 - Кубыркина — [Галина Сабурова](61-galina-saburova.html)
 - Француз — [Семён Афендулов](22-afendulov-semen.html) / [Илья Безрук](83-bezryk-ilya.html)
 - Папенька — [Валерий Полетаев](82-valerii-poletaev.html) / [Александр Шевелев](87-aleksandr-shevelov.html)
-
-<figure>
-![](/images/stories/random/beda foto2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto7.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/beda foto6.jpg)
-</figure>

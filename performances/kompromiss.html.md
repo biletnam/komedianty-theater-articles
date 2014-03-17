@@ -18,6 +18,15 @@ duration: "3:00"
 entracte: 1
 
 poster: "/images/stories/random/dk_new.png"
+
+photo:
+- "/images/stories/random/kompromiss foto 2.jpg"
+- "/images/stories/random/kompromissss.jpg"
+- "/images/stories/random/kompromiss foto.jpg"
+- "/images/stories/random/kompromiss foto 4.jpg"
+- "/images/stories/random/kompromiss foto 3.jpg"
+- "/images/stories/random/kompromiss foto 5.jpg"
+- "/images/stories/random/kompromiss foto 1.jpg"
 ---
 
 Повесть «Компромисс» рассказывает о жизненных перипетиях Сергея Довлатова и его работе в газете «Советская Эстония». Двенадцать эпизодов -компромиссов на нелегком пути превращения правды жизни в «газетную истину». За каждой заметкой — целая история, полная юмора, любви и сочувствия. Но в итоге за фальшивыми газетными строчками официальных советских газет перед нами встает драма целого поколения людей, морально искалеченных советским строем.
@@ -52,33 +61,3 @@ poster: "/images/stories/random/dk_new.png"
 - ["Трудна дорога от правды к истене… " о премьерном спектакле "Компромисс" (интернет-издание "MUSECUBEВ") автор: Валентина Казакова](156-pressakompromisstrudnadoroga.html)
 - ["Компромисс несвободы и таланта" о премьерном спектакле "Компромисс" ("Невское время")(автор:Е.Омецинская)](154-kompromiss-sdovlatov-pressa-nevskoe-vremia.html)
 - ["В Санкт-Петербурге состоится премьера спектакля о работе Довлатова в газете СОВЕТСКАЯ ЭСТОНИЯ" (интернет-издание ERR)](290-pressakompromiss1.html)
-
-<figure>
-![](/images/stories/random/kompromiss foto 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromissss.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromiss foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromiss foto 4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromiss foto 3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromiss foto 5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kompromiss foto 1.jpg)
-</figure>
-
-

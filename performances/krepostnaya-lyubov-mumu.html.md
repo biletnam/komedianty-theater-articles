@@ -16,6 +16,19 @@ duration: "2:30"
 entracte: "2:30"
 
 rate: "12+"
+
+photo:
+- "/images/stories/mymy.jpg"
+- "/images/stories/mymy foto.2.jpg"
+- "/images/stories/random/mymy foto.jpg"
+- "/images/stories/random/mymy fff4.jpg"
+- "/images/stories/random/mymy foto33.jpg"
+- "/images/stories/random/mymy foto.6.jpg"
+- "/images/stories/random/mymy_foto.3_gerasim.jpg"
+- "/images/stories/random/mymy fffo.jpg"
+- "/images/stories/random/myymyy.jpg"
+
+youtube: "http://www.youtube.com/watch?v=GtpdgTMOVDE 510 383"
 ---
 
 
@@ -82,41 +95,3 @@ rate: "12+"
 - ["МуМу" в "Комедиантах" Газата Ленинградской области "ВЕСТИ" (автор: Борислава Шарова)](108-mymy-pressa-2.html)
 - ["КОМЕДИАНТЫ" в ОБЕРКОХЕНЕ (Германия) Mymy (издание "Schwäbische Post")(перевод)](236-mymy-v-germanii.html)
 - ["КОМЕДИАНТЫ" оставили в Германии двойственное чувство /Mymy(издание "Schwabische.de")(перевод)](237-mumuv-oberkohene-pressa.html)
-
-<figure>{youtube:http://www.youtube.com/watch?v=GtpdgTMOVDE 510 383}</figure>
-
-<figure>
-![](/images/stories/mymy.jpg)
-</figure>
-
-<figure>
-![](/images/stories/mymy foto.2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy fff4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy foto33.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy foto.6.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy_foto.3_gerasim.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/mymy fffo.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/myymyy.jpg)
-</figure>

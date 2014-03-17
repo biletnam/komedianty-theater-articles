@@ -17,6 +17,14 @@ duration: "2:00"
 entracte: 1
 
 rate: "16+"
+
+photo:
+- "/images/stories/progylka.jpg"
+- "/images/stories/random/progylka v lu-ble.jpg"
+- "/images/stories/random/progylka v lu-ble1.jpg"
+- "/images/stories/random/progylka v lu-ble11.jpg"
+- "/images/stories/random/progylka v lu-ble3.jpg"
+- "/images/stories/random/progylka v lu-ble2.jpg"
 ---
 
 Предприимчивая энергичная тетя Люля тащит свою неудачливую в любви племянницу Лилю на рижское взморье с одной единственной целью — выдать замуж. Задача не из легких, если учесть, что Лиля — художница по профессии, творческая натура, совершенно не владеющая наукой кокетства. Жениха — грубоватого, если не сказать хамоватого, современного предпринимателя, хозяина мусороперерабатывающего завода, в планы тетушки, естественно, не посвятили... Пьеса Екатерины Рубиной, конечно, в первую очередь про любовь, про то, как все-таки необходимо каждому человеку быть понятым, желанным и нужным.
@@ -39,31 +47,3 @@ rate: "16+"
 - Помощник режиссёра — [Анастасия ПИЖЕЛЬ](64-asia-pigel-sergeevna.html)
 - Режиссёр — Заслуженный деятель искусств РФ [Михаил ЛЕВШИН](153-mihail-levshin.html)
 - Рената — Наталья Конькова
-
-
-<figure>
-![](/images/stories/progylka.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/progylka v lu-ble.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/progylka v lu-ble1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/progylka v lu-ble11.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/progylka v lu-ble3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/progylka v lu-ble2.jpg)
-</figure>
-
-
-

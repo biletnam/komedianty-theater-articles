@@ -13,6 +13,15 @@ genre: Фарс-детектив
 premiere_date: "2003-03-06"
 duration: "2:30"
 entracte: 1
+
+photo:
+- "/images/stories/dachnici.jpg"
+- "/images/stories/random/dachnici foto.jpg"
+- "/images/stories/random/dachnici.jpg"
+- "/images/stories/random/dachnici2.jpg"
+- "/images/stories/random/dachnici3.jpg"
+- "/images/stories/random/dachnici foto terehova2.jpg"
+- "/images/stories/random/dachnici foto iakovleva.jpg"
 ---
 
 Современная семья — Бабушка, Мама, Дочка и Домработница — однажды решились и сняли за городом дачу для того, чтобы отдохнуть от сумасшедшей городской жизни. И захотели они хотя бы на короткий срок отпуска пожить совершенно по-новому: «без мужиков и без телевизоров», «стать, наконец, женщинами!»
@@ -27,32 +36,3 @@ entracte: 1
 - Хозяйка дачи — [Лариса КЛИМОВА](65-larisa-klimova.html)
 - Внучка — [Наталья ТЕРЕХОВА](56-natasha-terehova.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
 - Домработница Дуся — [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html) / [Галина САБУРОВА](61-galina-saburova.html)
-
-<figure>
-![](/images/stories/dachnici.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici foto terehova2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dachnici foto iakovleva.jpg)
-</figure>
-

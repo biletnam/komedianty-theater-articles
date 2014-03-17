@@ -18,6 +18,17 @@ description: по ранним рассказам А.П.Чехова
 premiere_date: "2006-12-15"
 duration: "3:00"
 entracte: 1
+
+photo:
+- "/images/stories/parij.jpg"
+- "/images/stories/random/v paris.jpg"
+- "/images/stories/random/v paris2.jpg"
+- "/images/stories/random/v paris3.jpg"
+- "/images/stories/random/v paris4.jpg"
+- "/images/stories/random/v paris.5.jpg"
+- "/images/stories/random/v paris.6.jpg"
+- "/images/stories/random/v paris7.jpg"
+- "/images/stories/random/v paris.8.jpg"
 ---
 
 Ранние рассказы А. П. Чехова, впервые напечатанные еще в 1893-1894 годах под псевдонимом «А. Чехонте», на театральную сцену попали лишь теперь.
@@ -47,40 +58,3 @@ entracte: 1
 - Брындин, чиновник — [Сергей Николаев](52-sergei-nikolaev.html)
 - Брюнет, гордый человек — [Максим Сергеев](57-maxsim-sergeev.html)
 - Миша Бобов, поэт — [Илья Безрук](83-bezryk-ilya.html)
-
-
-<figure>
-![](/images/stories/parij.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris.5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris.6.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris7.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/v paris.8.jpg)
-</figure>

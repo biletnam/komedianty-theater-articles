@@ -21,6 +21,15 @@ duration: "3:30"
 entracte: 1
 
 rate: "16+"
+
+photo:
+- "/images/stories/random/sirano foto.jpg"
+- "/images/stories/random/sirano foto6.jpg"
+- "/images/stories/random/sirano foto5.jpg"
+- "/images/stories/random/sirano foto3.jpg"
+- "/images/stories/random/sirano foto2jpg.jpg"
+- "/images/stories/sirano.jpg"
+- "/images/stories/random/sirano foto 4.jpg"
 ---
 
 
@@ -47,32 +56,3 @@ rate: "16+"
 - Рагно — [Павел ИВАНОВСКИЙ](284-2013-09-08-18-38-31.html)
 - Де-Гиш — [Ильгиз БУЛГАКОВ](77-ilgiz-bulgakov.html)
 - Дуэнья — [Ирина МИТЮШКИНА](62-irina-mityshkina.html)
-
-
-<figure>
-![](/images/stories/random/sirano foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sirano foto6.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sirano foto5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sirano foto3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sirano foto2jpg.jpg)
-</figure>
-
-<figure>
-![](/images/stories/sirano.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sirano foto 4.jpg)
-</figure>

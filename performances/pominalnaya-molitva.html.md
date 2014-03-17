@@ -17,6 +17,20 @@ author: Г. Горин
 premiere_date: "2013-02-23"
 duration: "3:40"
 entracte: 1
+
+photo:
+- "/images/stories/random/pominalnaia molitva foto.jpg"
+- "/images/stories/random/pominalnaia molitva foto 2.jpg"
+- "/images/stories/random/pominalnaia molitva foto 1.jpg"
+- "/images/stories/random/pominalnaia molitva foto 3.jpg"
+- "/images/stories/random/pominalnaia molitva foto 4.jpg"
+- "/images/stories/random/molitva terehova n.jpg"
+- "/images/stories/random/molitva 218.jpg"
+
+youtube:
+- "http://www.youtube.com/watch?v=GL2_ORjlGp4&feature=related 480 360"
+- "http://www.youtube.com/watch?v=JBeJ9vvvSH4&feature=related 480 360"
+- "http://www.youtube.com/watch?v=cTTTQYokETI&feature=related 480 360"
 ---
 
 1903-1906 годы. Тревожное для России время — русско-японская война, революция, принятие конституции, еврейские погромы, в воздухе витают новые идеи. Но не эти проблемы волнуют молочника Тевье-Тевля из украинской деревушки Анатовка. Ему трех старших дочерей пора выдавать замуж. А дочери с характером, не хотят следовать вековым традициям — подчиниться выбору отца. Хотят замуж по любви выйти.
@@ -56,42 +70,3 @@ entracte: 1
 - ["О жизни которая добрее и мудрее нас.." о спектакле "Поминальная молитва" (Петербургский Театральный Журнал)(Автор: Е.Омецинская)](262-pressa-ptj-pomanalnaya-molitva.html)
 - ["Вместе мы не пропадём или "Поминальная молитва" Г.Горина" (Арт-журнал "Okolo.me")(автор:Е.Приклонская)](258-pressa-premera-pomanalnaya-molitva.html)
 - [ Рецензия Елены Добряковой о премьерном спектакле "Поминальная молитва" Г.Горин](257-recenzia-na-pominalnaya-molitva.html)
-
-## Видео
-
-<figure>{youtube:http://www.youtube.com/watch?v=GL2_ORjlGp4&feature=related 480 360}</figure>
-<figure>{youtube:http://www.youtube.com/watch?v=JBeJ9vvvSH4&feature=related 480 360}</figure>
-<figure>{youtube:http://www.youtube.com/watch?v=cTTTQYokETI&feature=related 480 360}</figure>
-
-
-## Фото
-
-<figure>
-![](/images/stories/random/pominalnaia molitva foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/pominalnaia molitva foto 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/pominalnaia molitva foto 1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/pominalnaia molitva foto 3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/pominalnaia molitva foto 4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/molitva terehova n.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/molitva 218.jpg)
-</figure>
-
-

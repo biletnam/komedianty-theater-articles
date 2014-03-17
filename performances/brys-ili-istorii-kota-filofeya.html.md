@@ -16,6 +16,15 @@ genre: Сказка для детей и взрослых
 premiere_date: "2002-11-30"
 duration: "1:20"
 entracte: 0
+
+photo:
+- "/images/stories/random/bris1 2013 1.jpg"
+- "/images/stories/random/bris 2013 1.jpg"
+- "/images/stories/random/bris 2013 2.jpg"
+- "/images/stories/random/bris 2013 3.jpg"
+- "/images/stories/random/bris 2013 4.jpg"
+- "/images/stories/random/bris 2013 5.jpg"
+- "/images/stories/random/bris 2013.jpg"
 ---
 
 «Маленькие жители большой планеты. Любезные четвероногие. Мне кажется...» А вы задумывались о чем думает вот тот рыжий кот, который пытается укрыться от дождя под деревянной лавкой или тот белый котенок, юрко прячущийся под машиной? У всех у них свои истории ... и об этих, порой непростых судьбах поведает детям наш спектакль. Стая бездомных кошек, живущая в подвале под покровительством мудрого кота Филофея, расскажет о своих судьбах, в которых, к несчастью, не последнюю роль играло страшное слово «Брысь!!!».
@@ -37,32 +46,3 @@ entracte: 0
 - Мурзик — [Леонид ЗЯБКИН](67-leonid-zabkin.html) / Сергей СУРЖИН
 - Анфиса — [Людмила НИКИТИНА](63-lyda-nikitina.html)/[ Анна ЗАГРЕБНА](79-anna-zagrebna.html)
 - Бабушка Шура — Заслуженная артистка России [Таисия ПОПЕНКО](26-popenko-taisija.html)
-
-<figure>
-![](/images/stories/random/bris1 2013 1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013 1.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013 2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013 3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013 4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013 5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/bris 2013.jpg)
-</figure>
-

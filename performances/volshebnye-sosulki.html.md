@@ -18,6 +18,12 @@ duration: "1:10"
 entracte: 0
 
 rate: "0+"
+
+photo:
+- "/images/stories/sosylki%20ss.jpg"
+- "/images/stories/random/sosylki2.jpg"
+- "/images/stories/random/sosylki3.jpg"
+- "/images/stories/random/sosylki.jpg"
 ---
 
 Сказочный сюжет о падчерице, которую мачеха старается сжить со света, известен каждому. И, тем не менее, он остается одним из самых любимых и у артистов, и у зрителей. Ведь этот сюжет дает возможность вновь поговорить о прекрасных качествах человека, которые оказываются ценнее, чем золото, бриллианты и изумруды. Известная русская сказка, по-новому осмысленная и с задором разыгранная прекрасными актёрами, доставит массу удовольствия и детям, и их родителям. И актеры нашего театра с удовольствием играют эту пьесу в Новогодние и Рождественские праздники.
@@ -30,20 +36,3 @@ rate: "0+"
 - Параша Тарасовна — [Татьяна Кожевникова](80-tatiana-kogevnikova.html)
 - Груня — [Юлия Бурцева](78-ylia-burceva.html) / [Анастасия Пижель](64-asia-pigel-sergeevna.html) / [Юлия Горшенина](49-ylia-gorshenina.html)
 - Жадюкин — [Семён Афендулов](22-afendulov-semen.html)
-
-
-<figure>
-![](/images/stories/sosylki%20ss.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sosylki2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sosylki3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/sosylki.jpg)
-</figure>

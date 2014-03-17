@@ -18,6 +18,14 @@ duration: "3:00"
 entracte: 1
 
 rate: "16+"
+
+photo:
+- "/images/stories/nov/x_4a4afd54.jpg"
+- "/images/stories/random/jenitba.jpg"
+- "/images/stories/random/jenitba2.jpg"
+- "/images/stories/random/jenitba3.jpg"
+- "/images/stories/random/jenitba4.jpg"
+- "/images/stories/random/jenitba5.jpg"
 ---
 
 «Если бы губы Никанора Ивановича да приставить к носу Ивана Кузьмича, да взять сколько-нибудь развязности, какая у Балтазара Балтазарыча, да, пожалуй, прибавить к этому еще дородности Ивана Павловича... » — эх, вот бы вышел муж для засидевшейся в невестах купеческой дочки Агафьи Тихоновны.... Все женихи — как на подбор. Один — моряк, другой — отставной офицер, третий, страшно подумать — экзекутор! И все, хоть сегодня под венец! Выбор невесты в конце концов падает на надворного советника Подколесина, который, в свою очередь, тоже терзается неразрешимыми сомнениями... холостяцкая свобода или полный дом маленьких кричащих Подколесиных.
@@ -37,28 +45,3 @@ rate: "16+"
 - Виталий Кравченко
 - Сергей Николаев
 - Валерий Полетаев
-
-
-<figure>
-![](/images/stories/nov/x_4a4afd54.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/jenitba.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/jenitba2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/jenitba3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/jenitba4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/jenitba5.jpg)
-</figure>

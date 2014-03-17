@@ -17,6 +17,14 @@ duration: "1:30"
 entracte: 0
 
 rate: "16+"
+
+photo:
+- "/images/stories/random/vor.jpg"
+- "/images/stories/random/vor2.jpg"
+- "/images/stories/random/vor3.jpg"
+- "/images/stories/random/vor4.jpg"
+- "/images/stories/random/vor5.jpg"
+- "/images/stories/random/vor6.jpg"
 ---
 
 Дух свободной, искрометной итальянской комедии и игра настоящих южных страстей, это то, что заставляет незадачливых героев этого фарса попадать в совершенно немыслимые рискованные ситуации, и… с честью выпутываться из них! Вор проникает в богатую квартиру. Он настолько уверен, что хозяева покинули её надолго, что "орудует" не спеша, "с комфортом", успевая даже ссорится с женой по телефону, "с рабочего места". Только вот хозяева этой квартиры – неверные супруги – оказывается, в тайне друг от друга, задумали использовать опустевшую квартиру для своих любовных утех…
@@ -32,27 +40,3 @@ rate: "16+"
 - Францози — [Максим СЕРГЕЕВ](57-maxsim-sergeev.html)
 - Вор — [Сергей НИКОЛАЕВ](52-sergei-nikolaev.html)
 - Антонио — [Сергей БЛЕДНЫХ](24-blednyh-sergej.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
-
-<figure>
-![](/images/stories/random/vor.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/vor2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/vor3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/vor4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/vor5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/vor6.jpg)
-</figure>

@@ -16,6 +16,14 @@ duration: "3:00"
 entracte: 1
 
 rate: "16+"
+photo:
+- "/images/stories/random/anekdoti55.jpg"
+- "/images/stories/random/anekdoti44.jpg"
+- "/images/stories/random/anekdoti33.jpg"
+- "/images/stories/random/anekdoti2.jpg"
+- "/images/stories/random/anekdoti22.jpg"
+- "/images/stories/random/anekdoti3.jpg"
+- "/images/stories/random/anekdoti4.jpg"
 ---
 
 «Провинциальные анекдоты» — это два полноценных миниспектакля: «История с метранпажем» и «Двадцать минут с ангелом». Их действие происходит в маленькой провинциальной гостинице «Тайга», куда по разным причинам занесло героев с разных концов Союза. Персонажи спектакля не столько сатиричны, сколько «по-фарсовому» комичны в своей простоте, типичности и заурядности. Какие-то их проблемы кажутся сейчас просто смешными, но анекдотические ситуации, в которые попадают герои, в итоге приводят их к неожиданному и драматическому финалу. Эта пьеса, один из лучших образцов советской сатиры на бюрократию, в трактовке театра «Комедианты» звучит с некоторой ноткой грусти и ностальгии по времени, которого давно уже нет.
@@ -44,31 +52,3 @@ rate: "16+"
 - Фаина — [Юлия Бурцева](78-ylia-burceva.html) / [Екатерина Культина](81-ekaterina-kyltina.html)
 - Базильский — [Николай Исполатов](54-nikolai-ispolatov.html)
 - Ступак — [Семён Афендулов](22-afendulov-semen.html) [Илья Безрук](112-mark-gavrilov.html)
-
-<figure>
-![](/images/stories/random/anekdoti55.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti44.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti33.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti22.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/anekdoti4.jpg)
-</figure>

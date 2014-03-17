@@ -17,6 +17,13 @@ duration: "1:30"
 entracte: 0
 
 rate: "0+"
+
+photo:
+- "/images/stories/mari.jpg"
+- "/images/stories/random/kicik foto prityla.jpg"
+- "/images/stories/random/kicik micik foto.jpg"
+- "/images/stories/random/x_10d0469a.jpg"
+- "/images/stories/random/x_e2a966df.jpg"
 ---
 
 Эта веселая музыкальная история о дружбе мышонка Мыцика, рыжего котенка Кыцика и одинокой тетушке Мари, позабавит маленьких зрителей и заставит задуматься о том, что друг может оказаться совсем непохожим на тебя…
@@ -32,24 +39,3 @@ rate: "0+"
 - Мыцик — [Анна Загребна](79-anna-zagrebna.html) / [ Алёна Азарова](86-alena-kiverskaia.html)
 - Кыцик — [Роман Якушов](50-roman-pritula.html)
 - Тётушка Мари — [Юлия Горшенина](49-ylia-gorshenina.html) / [Симона Строганова](84-simona-stroganova.html)
-
-<figure>
-![](/images/stories/mari.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kicik foto prityla.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kicik micik foto.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/x_10d0469a.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/x_e2a966df.jpg)
-</figure>
-

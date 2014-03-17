@@ -16,6 +16,15 @@ duration: "1:15"
 entracte: 0
 
 rate: "0+"
+
+photo:
+- "/images/stories/random/kot v sapogah.jpg"
+- "/images/stories/random/kot.jpg"
+- "/images/stories/random/kot v sapogah2.jpg"
+- "/images/stories/random/kot3.jpg"
+- "/images/stories/random/kot v sapogah3.jpg"
+- "/images/stories/random/kot5.jpg"
+- "/images/stories/random/kot6.jpg"
 ---
 
 Жил был на свете Жак – простак, и не было у него ничегошеньки, кроме кота, только кота не простого, а самого, что ни на есть волшебного! Встретил Жак в лесу прекрасную Принцессу и влюбился в нее с первого взгляда. А как быть дальше — простаку и невдомек. Но у него есть верный друг – мудрейший говорящий Кот, да еще и в сапогах. Сказка, написанная в 17 веке великим французским сказочником Шарлем Перро, и по сей день радует маленьких читателей. Но ведь гораздо увлекательнее увидеть живого Кота в сапогах и вместе с ним помочь Жаку-простаку завоевать принцессу и победить страшного Людоеда!
@@ -34,31 +43,3 @@ rate: "0+"
 - Людоед — [Семён АФЕНДУЛОВ](22-afendulov-semen.html) / [Роман ЯКУШОВ](88-roman-yakushov.html)
 - Король — [Алексей ИСПОЛАТОВ](53-aleksei-ispolatov.html)
 - Жак-Простак — [Виталий КРАВЧЕНКО](66-vitalii-kravchenko.html)
-
-<figure>
-![](/images/stories/random/kot v sapogah.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot v sapogah2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot v sapogah3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/kot6.jpg)
-</figure>

@@ -17,6 +17,17 @@ genre: Комедия
 premiere_date: "2000-05-08"
 duration: "2:45"
 entracte: 1
+
+photo:
+- "/images/stories/random/dyrochka ff.jpg"
+- "/images/stories/x_4a2c21dd.jpg"
+- "/images/stories/dyrochka111.jpg"
+- "/images/stories/random/dyro.jpg"
+- "/images/stories/random/duuuro.jpg"
+- "/images/stories/random/deeeur.jpg"
+- "/images/stories/random/dyroooooooooooo.jpg"
+- "/images/stories/random/dyro4ka.jpg"
+- "/images/stories/random/dyrochka ff.4.jpg"
 ---
 
 У богатого испанского гранда две красивые, нежно любимые племянницы на выданье. Одна — умница («учёна так, что оторопь берёт»), к несчастью всех ее обожателей, обделена наследством. Другая богата, но ума в ней, согласно людской молве, как кот наплакал. Дура, и все тут. Интриги опутывают дом старого гранда, как ветви хмельного дикого винограда. Здесь лукавые слуги всюду суют свой любопытный острый нос. Потенциальные женихи обоих невест ведут словесные дуэли, уже готовые перерасти в самые, что ни на есть, настоящие... Но, чувства разуму неподвластны, и в один прекрасный момент у «дуры» обязательно появится удивительный учитель — ЛЮБОВЬ.
@@ -39,39 +50,3 @@ entracte: 1
 - Педро — [Станислав ВОРОНЕЦКИЙ](51-stas-voronetski.html)
 - Дуардо — [Евгений ТАЛАШМАНОВ](84-talashmanovevgenii.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
 - Фенисо — [Илья БЕЗРУК](83-bezryk-ilya.html)[](83-dmitrii-rudakov.html)
-
-<figure>
-![](/images/stories/random/dyrochka ff.jpg)
-</figure>
-
-<figure>
-![](/images/stories/x_4a2c21dd.jpg)
-</figure>
-
-<figure>
-![](/images/stories/dyrochka111.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dyro.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/duuuro.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/deeeur.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dyroooooooooooo.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dyro4ka.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/dyrochka ff.4.jpg)
-</figure>

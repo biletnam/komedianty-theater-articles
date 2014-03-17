@@ -19,6 +19,14 @@ genre: Музыкальная комедия
 premiere_date: "2012-12-08"
 duration: "3:30"
 entracte: "1"
+
+photo:
+- "/images/stories/random/11les2.jpg"
+- "/images/stories/random/11les3.jpg"
+- "/images/stories/random/11les4.jpg"
+- "/images/stories/random/11les5.jpg"
+- "/images/stories/random/11les6.jpg"
+- "/images/stories/random/11les.jpg"
 ---
 
 «Лес» А. Н. Островского – очень благодарный материал для театра, ведь это пьеса об актерах, о комедиантах. Причем свой спектакль играют все персонажи пьесы. Помещица Гурмыжская обожает устраивать у себя в имении концерты и музыкальные вечера, где она – примадонна. Здесь она поет, играет и предстает перед своими гостями в главной в своей жизни роли – роли великой благодетельницы.
@@ -50,27 +58,3 @@ entracte: "1"
 - ["ВОДЕВИЛЬ XXI ВЕКА" интервью з.д.и РФ М.Левшина и з.а.РФ Н.Мещаниновой о спектакле "ЛЕС" (Газета "ВЕСТИ")(автор:В.Трошнева)](254-pressa-premera-les.html)
 - [Интервью Юлии Бурцевой и Виталия Кравченко о спектакле "ЛЕС" и не только! Театральный видеожурнал "Подмостки в Петербурге"](251-interviy-les-aksinia-i-petr.html)
 - ["Капитализм с алчной блондинкой".О премьерном спектакле "ЛЕС" (газета "Деловой Петербург")(автор:И.Шнуренко)](249-pressa-premera-les-ishnurenko-.html)
-
-<figure>
-![](/images/stories/random/11les2.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/11les3.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/11les4.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/11les5.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/11les6.jpg)
-</figure>
-
-<figure>
-![](/images/stories/random/11les.jpg)
-</figure>
