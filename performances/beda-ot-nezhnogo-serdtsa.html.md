@@ -28,14 +28,14 @@ entracte: 1
 
 ## В спектакле заняты
 
-- Сашенька Золотников — [Роман ПРИТУЛА](50-roman-pritula.html) / [Леонид ЗЯБКИН](67-leonid-zabkin.html)
-- Катенька из Тамбова — [Екатерина БЕЛОВА](23-belova-ekaterina.html) / [Оксана СУРНИНА](85-oksana-surnina.html)
-- Машенька -[ Юлия ГОРШЕНИНА](49-ylia-gorshenina.html) / [Наталья ТЕРЕХОВА](56-natasha-terehova.html)
-- Настенька — [Екатерина КУЛЬТИНА](81-ekaterina-kyltina.html) / [Анна ЗАГРЕБНА](79-anna-zagrebna.html) / [Алёна АЗАРОВА](86-alena-kiverskaia.html)
-- Бояркина — [Татьяна КОЖЕВНИКОВА](80-tatiana-kogevnikova.html) / [Ольга ЯКОВЛЕВА](89-olga-yakovleva.html)
-- Кубыркина — [Галина САБУРОВА](61-galina-saburova.html)
-- Француз — [Семён АФЕНДУЛОВ](22-afendulov-semen.html) / [Илья БЕЗРУК](83-bezryk-ilya.html)
-- Папенька — [Валерий ПОЛЕТАЕВ](82-valerii-poletaev.html) / [Александр ШЕВЕЛЕВ](87-aleksandr-shevelov.html)
+- Сашенька Золотников — [Роман Притула](50-roman-pritula.html) / [Леонид Зябкин](67-leonid-zabkin.html)
+- Катенька из Тамбова — [Екатерина Белова](23-belova-ekaterina.html) / [Оксана Сурнина](85-oksana-surnina.html)
+- Машенька — [Юлия Горшенина](49-ylia-gorshenina.html) / [Наталья Терехова](56-natasha-terehova.html)
+- Настенька — [Екатерина Культина](81-ekaterina-kyltina.html) / [Анна Загребна](79-anna-zagrebna.html) / [Алёна Азарова](86-alena-kiverskaia.html)
+- Бояркина — [Татьяна Кожевникова](80-tatiana-kogevnikova.html) / [Ольга Яковлева](89-olga-yakovleva.html)
+- Кубыркина — [Галина Сабурова](61-galina-saburova.html)
+- Француз — [Семён Афендулов](22-afendulov-semen.html) / [Илья Безрук](83-bezryk-ilya.html)
+- Папенька — [Валерий Полетаев](82-valerii-poletaev.html) / [Александр Шевелев](87-aleksandr-shevelov.html)
 
 <figure>
 ![](/images/stories/random/beda foto2.jpg)
