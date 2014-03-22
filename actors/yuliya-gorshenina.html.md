@@ -4,6 +4,7 @@ jos_id: 49
 jos_alias: "ylia-gorshenina"
 modified: "2013-10-20"
 
+gender: female
 title: Юлия Горшенина
 
 photo: "/images/stories/gorshenina%20yyy.jpg"

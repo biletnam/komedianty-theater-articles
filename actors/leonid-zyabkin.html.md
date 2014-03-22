@@ -4,6 +4,7 @@ jos_id: 67
 jos_alias: "leonid-zabkin"
 modified: "2013-02-02"
 
+gender: male
 title: Леонид Зябкин
 
 photo: "/images/stories/zabkin%20leonid.jpg"

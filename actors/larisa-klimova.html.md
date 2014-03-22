@@ -4,6 +4,7 @@ jos_id: 65
 jos_alias: "larisa-klimova"
 modified: "2013-01-27"
 
+gender: female
 title: Лариса Климова
 
 photo: "/images/stories/klimova%20ll.jpg"

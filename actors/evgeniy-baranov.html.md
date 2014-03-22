@@ -1,6 +1,7 @@
 ---
 layout: actor
 
+gender: male
 title: Евгений Баранов
 
 grade: Заслуженный артист России

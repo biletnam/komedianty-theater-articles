@@ -3,6 +3,7 @@ layout: actor
 jos_id: 302
 jos_alias: "andrey-shimko"
 
+gender: male
 title: Андрей Шимко
 
 employment:

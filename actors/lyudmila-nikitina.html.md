@@ -4,6 +4,7 @@ jos_id: 63
 jos_alias: "lyda-nikitina"
 modified: "2013-10-20"
 
+gender: female
 title: Людмила Никитина
 
 employment:

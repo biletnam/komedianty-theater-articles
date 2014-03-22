@@ -4,6 +4,7 @@ jos_id: 52
 jos_alias: "sergei-nikolaev"
 modified: "2013-10-20"
 
+gender: male
 title: Сергей Николаев
 
 photo: "/images/stories/nikolaev ser.jpg"

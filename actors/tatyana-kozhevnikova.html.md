@@ -4,6 +4,7 @@ jos_id: 80
 jos_alias: "tatiana-kogevnikova"
 modified: "2013-02-02"
 
+gender: female
 title: Татьяна Кожевникова
 
 photo: "/images/stories/random/kojevnikova.jpg"

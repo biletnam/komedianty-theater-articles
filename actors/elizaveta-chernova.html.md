@@ -3,6 +3,7 @@ layout: actor
 jos_id: 48
 jos_alias: "chernovaelizaveta"
 
+gender: female
 title: Елизавета Чернова
 
 modified: "2013-12-15"

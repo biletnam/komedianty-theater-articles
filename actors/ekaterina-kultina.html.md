@@ -4,6 +4,7 @@ jos_id: 81
 jos_alias: "ekaterina-kyltina"
 modified: "2012-04-21"
 
+gender: female
 title: Екатерина Культина
 
 photo: "/images/stories/kyltina%20kk.jpg"

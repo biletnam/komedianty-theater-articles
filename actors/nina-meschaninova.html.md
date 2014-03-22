@@ -4,6 +4,7 @@ jos_id: 25
 jos_alias: "mewaninova-nina"
 modified: "2013-02-02"
 
+gender: female
 title: Нина Мещанинова
 
 grade: Заслуженная артистка России

@@ -4,6 +4,7 @@ jos_id: 85
 jos_alias: "oksana-surnina"
 modified: "2012-04-21"
 
+gender: female
 title: Оксана Сурнина
 
 photo: "/images/stories/oksana.jpg"

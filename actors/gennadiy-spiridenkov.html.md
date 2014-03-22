@@ -4,6 +4,7 @@ jos_id: 27
 jos_alias: "-gennadij-spiridenkov-za-rf"
 modified: "2013-02-02"
 
+gender: male
 title: Геннадий Спириденков
 
 photo: "/images/stories/random/spiridenkov.jpg"

@@ -4,6 +4,7 @@ jos_id: 78
 jos_alias: "ylia-burceva"
 modified: "2013-12-12"
 
+gender: female
 title: Юлия Бурцева
 
 photo: "/images/stories/byrceva%20yy.jpg"

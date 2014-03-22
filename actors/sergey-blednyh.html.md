@@ -4,6 +4,7 @@ jos_id: 24
 jos_alias: "blednyh-sergej"
 modified: "2013-02-02"
 
+gender: male
 title: Сергей Бледных
 
 photo: "/images/stories/act/sergeyblednix.jpg"

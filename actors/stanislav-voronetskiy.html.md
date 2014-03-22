@@ -4,6 +4,7 @@ jos_id: 51
 jos_alias: "stas-voronetski"
 modified: "2013-10-20"
 
+gender: male
 title: Станислав Воронецкий
 
 photo: "/images/stories/oronetskii%20ss.jpg"

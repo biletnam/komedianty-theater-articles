@@ -4,6 +4,7 @@ jos_id: 57
 jos_alias: "maxsim-sergeev"
 modified: "2013-10-20"
 
+gender: male
 title: Максим Сергеев
 
 photo: "/images/stories/random/maks sergeev.jpg"

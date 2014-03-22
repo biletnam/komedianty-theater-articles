@@ -4,6 +4,7 @@ jos_id: 22
 jos_alias: "afendulov-semen"
 modified: "2012-04-21"
 
+gender: male
 title: Семен Афендулов
 
 kinoteatr: "http://www.kino-teatr.ru/kino/acter/m/ros/6450/bio/"

@@ -4,6 +4,7 @@ jos_id: 88
 jos_alias: "roman-yakushov"
 modified: "2013-07-13"
 
+gender: male
 title: Роман Якушов
 
 photo: "/images/stories/random/yakushov ro.jpg"

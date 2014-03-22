@@ -4,6 +4,7 @@ jos_id: 281
 jos_alias: "kirilldateshidze"
 modified: "2013-07-10"
 
+gender: male
 title: Кирилл Датешидзе
 
 photo: "/images/stories/random/dateshidze kirill.jpg"

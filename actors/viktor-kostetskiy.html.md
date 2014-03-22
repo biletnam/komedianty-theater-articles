@@ -4,6 +4,7 @@ jos_id: 58
 jos_alias: "viktor-kostetskii"
 modified: "2013-03-31"
 
+gender: male
 title: Виктор Костецкий
 
 grade: Заслуженный артист России

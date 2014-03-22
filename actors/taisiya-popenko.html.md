@@ -4,6 +4,7 @@ jos_id: 26
 jos_alias: "popenko-taisija"
 modified: "2013-02-02"
 
+gender: female
 title: Таисия Попенко
 
 grade: Заслуженная артистка России

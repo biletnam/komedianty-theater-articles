@@ -4,6 +4,7 @@ jos_id: 83
 jos_alias: "bezryk-ilya"
 modified: "2013-10-20"
 
+gender: male
 title: Безрук Илья
 
 photo: "/images/stories/random/bezryk.jpg"

@@ -4,6 +4,7 @@ jos_id: 66
 jos_alias: "vitalii-kravchenko"
 modified: "2013-07-13"
 
+gender: male
 title: Виталий Кравченко
 
 photo: "/images/stories/random/kravchenko vvv.jpg"

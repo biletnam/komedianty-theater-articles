@@ -4,6 +4,7 @@ jos_id: 301
 jos_alias: "mariaosipova"
 modified: "2013-12-15"
 
+gender: female
 title: Мария Осипова
 
 photo: "/images/stories/act/osipova-masha.jpg"

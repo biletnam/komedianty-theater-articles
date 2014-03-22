@@ -4,6 +4,7 @@ jos_id: 86
 jos_alias: "alena-azarova"
 modified: "2013-10-20"
 
+gender: female
 title: Алёна Азарова
 
 employment:

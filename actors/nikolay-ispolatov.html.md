@@ -4,6 +4,7 @@ jos_id: 54
 jos_alias: "nikolai-ispolatov"
 modified: "2013-02-02"
 
+gender: male
 title: Николай Исполатов
 
 photo: "/images/stories/act/nikolaispolatov.jpg"

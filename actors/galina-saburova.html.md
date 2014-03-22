@@ -4,6 +4,7 @@ jos_id: 61
 jos_alias: "galina-saburova"
 modified: "2014-01-28"
 
+gender: female
 title: Галина Сабурова
 
 photo: "/images/stories/random/sabyrova.jpg"

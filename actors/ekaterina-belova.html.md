@@ -4,7 +4,8 @@ jos_id: 23
 jos_alias: "belova-ekaterina"
 modified: "2013-10-20"
 
-title: Белова Екатерина
+gender: female
+title: Екатерина Белова
 
 employment:
 - «Дурочка» — Финея

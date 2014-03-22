@@ -4,6 +4,7 @@ jos_id: 56
 jos_alias: "natasha-terehova"
 modified: "2013-10-20"
 
+gender: female
 title: Наталья Терехова
 
 photo: "/images/stories/terehova%20natasha.jpg"

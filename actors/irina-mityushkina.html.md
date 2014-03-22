@@ -4,6 +4,7 @@ jos_id: 62
 jos_alias: "irina-mityshkina"
 modified: "2012-04-21"
 
+gender: female
 title: Ирина Митюшкина
 
 photo: "/images/stories/mityshkina%20iii.jpg"

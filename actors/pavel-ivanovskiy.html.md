@@ -4,6 +4,7 @@ jos_id: 284
 jos_alias: "2013-09-08-18-38-31"
 modified: "2013-12-12"
 
+gender: male
 title: Павел Ивановский
 
 photo: "/images/stories/random/ivanovskii pavel portret.jpg"

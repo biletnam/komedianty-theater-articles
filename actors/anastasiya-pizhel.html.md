@@ -4,6 +4,7 @@ jos_id: 64
 jos_alias: "asia-pigel-sergeevna"
 modified: "2012-12-08"
 
+gender: female
 title: Анастасия Пижель
 
 employment:

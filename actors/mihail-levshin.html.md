@@ -4,6 +4,7 @@ jos_id: 153
 jos_alias: "mihail-levshin"
 modified: "2014-02-11"
 
+gender: male
 title: Михаил Левшин
 
 grade: Заслуженный деятель искусств России

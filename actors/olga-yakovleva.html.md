@@ -4,6 +4,7 @@ jos_id: 89
 jos_alias: "olga-yakovleva"
 modified: "2013-01-27"
 
+gender: female
 title: Ольга Яковлева
 
 photo: "/images/stories/yakovleva.jpg"

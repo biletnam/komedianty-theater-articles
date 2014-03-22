@@ -4,6 +4,7 @@ jos_id: 112
 jos_alias: "mark-gavrilov"
 modified: "2013-07-13"
 
+gender: male
 title: Марк Гаврилов
 
 photo: "/images/stories/random/gavrilov mark.jpg"

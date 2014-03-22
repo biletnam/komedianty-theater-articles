@@ -4,6 +4,7 @@ jos_id: 50
 jos_alias: "roman-pritula"
 modified: "2014-01-28"
 
+gender: male
 title: Роман Притула
 
 photo: "/images/stories/random/roman pritula 13 -2.jpg"

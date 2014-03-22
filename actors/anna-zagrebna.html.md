@@ -4,6 +4,7 @@ jos_id: 79
 jos_alias: "anna-zagrebna"
 modified: "2013-09-11"
 
+gender: female
 title: Анна Загребна
 
 employment:

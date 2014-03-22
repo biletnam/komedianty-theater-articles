@@ -4,6 +4,7 @@ jos_id: 21
 jos_alias: "fillipp-azarov"
 modified: "2012-12-08"
 
+gender: male
 title: Филипп Азаров
 
 kinoteatr: "http://www.kino-teatr.ru/teatr/acter/m/ros/16218/bio/"
