@@ -1,10 +1,15 @@
 ---
-jos_id: 105
-title: "Премьера! «Училка из будущего». (интернет-издание) 19.05.2011"
-jos_alias: "ychilka-pressa"
-modified: " "2011-07-04"
-published: true
 layout: default
+jos_id: 105
+jos_alias: "ychilka-pressa"
+modified: "2011-07-04"
+
+title: Премьера! «Училка из будущего»
+
+source: Интернет-издание «Tamgdedeti.ru»
+source_date: "19.05.2011"
+source_author: Борислава Шарова
+link: "http://tamgdedeti.ru/news/detail.php?ELEMENT_ID=64"
 ---
 
 ## ПРЕМЬЕРА ТЕАТРА «Комедианты» сезона 2010-2011
@@ -46,9 +51,3 @@ _Роман Притула_: Для меня это спектакль всё-т
 <figure>
 ![](/images/stories/foto ychilka 2.jpg)
 </figure>
-
-(фото: С.Пьянкова)
-
-Интернет-издание "Tamgdedeti.ru"/19.05.2011/автор Борислава Шарова
-
-[Ссылка на статью](http://tamgdedeti.ru/news/detail.php?ELEMENT_ID=64)
